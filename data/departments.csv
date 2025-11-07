@@ -1,0 +1,324 @@
+,department_id,department_name,hospital_id
+0,1,Radiology,1
+1,1,Cardiology,1
+2,1,Gastroenterology,1
+3,1,Vascular Surgery,1
+4,1,Endocrinology,1
+5,1,Oncology,1
+6,1,Internal Medicine,1
+7,1,Orthopedics,1
+8,1,Hematology,1
+9,1,Anesthesiology,1
+10,1,Pulmonology,1
+11,1,Thoracic Surgery,1
+12,1,Ophthalmology,1
+13,1,Pathology,1
+14,1,Critical Care,1
+15,1,Emergency Medicine,1
+16,1,General Surgery,1
+17,1,Rheumatology,1
+18,1,Neurosurgery,1
+19,1,Obstetrics and Gynecology,1
+20,1,Infectious Disease,1
+21,1,Physical Medicine and Rehabilitation,1
+22,1,Plastic Surgery,1
+23,1,Nephrology,1
+24,1,Psychiatry,1
+25,1,Neurology,1
+26,1,Urology,1
+27,1,Otolaryngology (ENT),1
+28,1,Radiology,2
+29,1,Rheumatology,2
+30,1,Psychiatry,2
+31,1,Urology,2
+32,1,Gastroenterology,2
+33,1,Cardiology,2
+34,1,Endocrinology,2
+35,1,Orthopedics,2
+36,1,Neurosurgery,2
+37,1,Vascular Surgery,2
+38,1,Dermatology,2
+39,1,Oncology,2
+40,1,Neurology,2
+41,1,Pulmonology,2
+42,1,Ophthalmology,2
+43,1,Pathology,2
+44,1,Pediatrics,2
+45,1,Internal Medicine,2
+46,1,Radiology,3
+47,1,Cardiology,3
+48,1,Vascular Surgery,3
+49,1,Gastroenterology,3
+50,1,Endocrinology,3
+51,1,Oncology,3
+52,1,Internal Medicine,3
+53,1,Orthopedics,3
+54,1,Hematology,3
+55,1,Pulmonology,3
+56,1,Thoracic Surgery,3
+57,1,Ophthalmology,3
+58,1,Emergency Medicine,3
+59,1,General Surgery,3
+60,1,Rheumatology,3
+61,1,Plastic Surgery,3
+62,1,Infectious Disease,3
+63,1,Obstetrics and Gynecology,3
+64,1,Psychiatry,3
+65,1,Dermatology,3
+66,1,Neurology,3
+67,1,Urology,3
+68,1,Otolaryngology (ENT),3
+69,1,Pediatrics,4
+70,1,Anesthesiology,4
+71,1,Infectious Disease,4
+72,1,Pulmonology,4
+73,1,Rheumatology,5
+74,1,Vascular Surgery,5
+75,1,Orthopedics,5
+76,1,Endocrinology,5
+77,1,Dermatology,5
+78,1,Plastic Surgery,5
+79,1,Oncology,5
+80,1,Physical Medicine and Rehabilitation,5
+81,1,Pediatrics,5
+82,1,Hematology,5
+83,1,Anesthesiology,5
+84,1,Emergency Medicine,5
+85,1,Pulmonology,5
+86,1,Thoracic Surgery,5
+87,1,Internal Medicine,5
+88,1,Critical Care,5
+89,1,Otolaryngology (ENT),5
+90,1,Nephrology,5
+91,1,Endocrinology,6
+92,1,Hematology,6
+93,1,Vascular Surgery,7
+94,1,Neurosurgery,7
+95,1,Orthopedics,7
+96,1,Obstetrics and Gynecology,7
+97,1,Plastic Surgery,7
+98,1,Physical Medicine and Rehabilitation,7
+99,1,Neurology,7
+100,1,Hematology,7
+101,1,Urology,7
+102,1,Radiology,8
+103,1,Cardiology,8
+104,1,Gastroenterology,8
+105,1,Vascular Surgery,8
+106,1,Oncology,8
+107,1,Internal Medicine,8
+108,1,Orthopedics,8
+109,1,Hematology,8
+110,1,Anesthesiology,8
+111,1,Pulmonology,8
+112,1,Thoracic Surgery,8
+113,1,Ophthalmology,8
+114,1,Emergency Medicine,8
+115,1,Pathology,8
+116,1,Critical Care,8
+117,1,General Surgery,8
+118,1,Pediatrics,8
+119,1,Rheumatology,8
+120,1,Neurosurgery,8
+121,1,Plastic Surgery,8
+122,1,Infectious Disease,8
+123,1,Physical Medicine and Rehabilitation,8
+124,1,Obstetrics and Gynecology,8
+125,1,Nephrology,8
+126,1,Psychiatry,8
+127,1,Dermatology,8
+128,1,Neurology,8
+129,1,Urology,8
+130,1,Otolaryngology (ENT),8
+131,1,Radiology,9
+132,1,Cardiology,9
+133,1,Vascular Surgery,9
+134,1,Gastroenterology,9
+135,1,Oncology,9
+136,1,Internal Medicine,9
+137,1,Orthopedics,9
+138,1,Hematology,9
+139,1,Anesthesiology,9
+140,1,Pulmonology,9
+141,1,Thoracic Surgery,9
+142,1,Ophthalmology,9
+143,1,Emergency Medicine,9
+144,1,Pathology,9
+145,1,Pediatrics,9
+146,1,General Surgery,9
+147,1,Rheumatology,9
+148,1,Neurosurgery,9
+149,1,Obstetrics and Gynecology,9
+150,1,Infectious Disease,9
+151,1,Plastic Surgery,9
+152,1,Psychiatry,9
+153,1,Dermatology,9
+154,1,Neurology,9
+155,1,Cardiology,10
+156,1,Gastroenterology,10
+157,1,Vascular Surgery,10
+158,1,Endocrinology,10
+159,1,Oncology,10
+160,1,Internal Medicine,10
+161,1,Hematology,10
+162,1,Anesthesiology,10
+163,1,Pulmonology,10
+164,1,Thoracic Surgery,10
+165,1,Ophthalmology,10
+166,1,Pathology,10
+167,1,Critical Care,10
+168,1,Pediatrics,10
+169,1,General Surgery,10
+170,1,Rheumatology,10
+171,1,Neurosurgery,10
+172,1,Plastic Surgery,10
+173,1,Infectious Disease,10
+174,1,Obstetrics and Gynecology,10
+175,1,Physical Medicine and Rehabilitation,10
+176,1,Nephrology,10
+177,1,Psychiatry,10
+178,1,Dermatology,10
+179,1,Neurology,10
+180,1,Urology,10
+181,1,Otolaryngology (ENT),10
+182,1,Endocrinology,11
+183,1,Pediatrics,11
+184,1,Radiology,12
+185,1,Cardiology,12
+186,1,Vascular Surgery,12
+187,1,Gastroenterology,12
+188,1,Endocrinology,12
+189,1,Internal Medicine,12
+190,1,Orthopedics,12
+191,1,Hematology,12
+192,1,Anesthesiology,12
+193,1,Ophthalmology,12
+194,1,Emergency Medicine,12
+195,1,Pathology,12
+196,1,Critical Care,12
+197,1,General Surgery,12
+198,1,Rheumatology,12
+199,1,Neurosurgery,12
+200,1,Plastic Surgery,12
+201,1,Infectious Disease,12
+202,1,Nephrology,12
+203,1,Dermatology,12
+204,1,Neurology,12
+205,1,Urology,12
+206,1,Otolaryngology (ENT),12
+207,1,Radiology,13
+208,1,Cardiology,13
+209,1,Vascular Surgery,13
+210,1,Gastroenterology,13
+211,1,Oncology,13
+212,1,Internal Medicine,13
+213,1,Orthopedics,13
+214,1,Hematology,13
+215,1,Anesthesiology,13
+216,1,Pulmonology,13
+217,1,Ophthalmology,13
+218,1,Thoracic Surgery,13
+219,1,Pediatrics,13
+220,1,Critical Care,13
+221,1,Emergency Medicine,13
+222,1,General Surgery,13
+223,1,Pathology,13
+224,1,Rheumatology,13
+225,1,Neurosurgery,13
+226,1,Obstetrics and Gynecology,13
+227,1,Infectious Disease,13
+228,1,Physical Medicine and Rehabilitation,13
+229,1,Plastic Surgery,13
+230,1,Nephrology,13
+231,1,Urology,13
+232,1,Dermatology,13
+233,1,Neurology,13
+234,1,Endocrinology,13
+235,1,Otolaryngology (ENT),13
+236,1,Rheumatology,14
+237,1,Psychiatry,14
+238,1,Cardiology,14
+239,1,Critical Care,14
+240,1,Orthopedics,14
+241,1,Endocrinology,14
+242,1,Dermatology,14
+243,1,Oncology,14
+244,1,Emergency Medicine,14
+245,1,Thoracic Surgery,14
+246,1,Pathology,14
+247,1,Internal Medicine,14
+248,1,General Surgery,14
+249,1,Psychiatry,15
+250,1,Neurosurgery,15
+251,1,Plastic Surgery,15
+252,1,Infectious Disease,15
+253,1,Neurology,15
+254,1,Physical Medicine and Rehabilitation,15
+255,1,Hematology,15
+256,1,Oncology,15
+257,1,Thoracic Surgery,15
+258,1,Critical Care,15
+259,1,Otolaryngology (ENT),15
+260,1,General Surgery,15
+261,1,Nephrology,15
+262,1,Radiology,16
+263,1,General Surgery,16
+264,1,Infectious Disease,16
+265,1,Cardiology,17
+266,1,Gastroenterology,17
+267,1,Neurosurgery,17
+268,1,Vascular Surgery,17
+269,1,Psychiatry,17
+270,1,Endocrinology,17
+271,1,Dermatology,17
+272,1,Neurology,17
+273,1,Physical Medicine and Rehabilitation,17
+274,1,Oncology,17
+275,1,Infectious Disease,17
+276,1,Anesthesiology,17
+277,1,Pulmonology,17
+278,1,Urology,17
+279,1,Internal Medicine,17
+280,1,Rheumatology,18
+281,1,Cardiology,18
+282,1,Psychiatry,18
+283,1,Urology,18
+284,1,Orthopedics,18
+285,1,Endocrinology,18
+286,1,Dermatology,18
+287,1,Obstetrics and Gynecology,18
+288,1,Neurology,18
+289,1,Physical Medicine and Rehabilitation,18
+290,1,Pediatrics,18
+291,1,Hematology,18
+292,1,Anesthesiology,18
+293,1,Pulmonology,18
+294,1,Thoracic Surgery,18
+295,1,Pathology,18
+296,1,Internal Medicine,18
+297,1,Otolaryngology (ENT),18
+298,1,Radiology,19
+299,1,Cardiology,19
+300,1,Vascular Surgery,19
+301,1,Oncology,19
+302,1,Internal Medicine,19
+303,1,Orthopedics,19
+304,1,Anesthesiology,19
+305,1,Pulmonology,19
+306,1,Thoracic Surgery,19
+307,1,Pediatrics,19
+308,1,Pathology,19
+309,1,General Surgery,19
+310,1,Rheumatology,19
+311,1,Obstetrics and Gynecology,19
+312,1,Infectious Disease,19
+313,1,Physical Medicine and Rehabilitation,19
+314,1,Psychiatry,19
+315,1,Urology,19
+316,1,Dermatology,19
+317,1,Endocrinology,19
+318,1,Otolaryngology (ENT),19
+319,1,Radiology,20
+320,1,Cardiology,20
+321,1,Vascular Surgery,20
+322,1,Obstetrics and Gynecology,20
