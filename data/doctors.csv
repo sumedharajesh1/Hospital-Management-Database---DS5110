@@ -1,1001 +1,501 @@
-,first_name,last_name,specialization,phone_number,years_experience,hospital_id,email,department_id,doctor_id
-0,Megan,Chang,Breast Imaging,(404)387-6475x93824,27,1,megan.chang@NRCH.com,1,1
-1,Christine,King,Interventional Cardiology,+1-392-741-1578,17,1,christine.king@NRCH.com,1,2
-2,Ryan,Carr,Pancreatology,387.878.4080,26,1,ryan.carr@NRCH.com,1,3
-3,Jennifer,Glover,Venous Surgery,+1-909-375-3513x9332,31,1,jennifer.glover@NRCH.com,1,4
-4,Christopher,Flores,Reproductive Endocrinology,671.948.4185x83989,14,1,christopher.flores@NRCH.com,1,5
-5,Christopher,Yates,Hematologic Oncology,493-242-3209x47112,9,1,christopher.yates@NRCH.com,1,6
-6,Megan,Villanueva,Primary Care,+1-668-948-3396,9,1,megan.villanueva@NRCH.com,1,7
-7,Travis,Davidson,Foot and Ankle Surgery,001-651-359-1795x330,7,1,travis.davidson@NRCH.com,1,8
-8,Janice,Watson,Hemostasis and Thrombosis,(356)201-2309,35,1,janice.watson@NRCH.com,1,9
-9,David,Lopez,Critical Care Anesthesia,001-516-415-1090,10,1,david.lopez@NRCH.com,1,10
-10,Jennifer,Mendoza,Sleep Medicine,001-800-486-9141x3145,7,1,jennifer.mendoza@NRCH.com,1,11
-11,Bruce,Mcdonald,Esophageal Surgery,+1-416-734-5792x302,5,1,bruce.mcdonald@NRCH.com,1,12
-12,Alyssa,Wilson,Glaucoma,220.976.9845x642,31,1,alyssa.wilson@NRCH.com,1,13
-13,Judith,Rogers,Surgical Pathology,7844237594,23,1,judith.rogers@NRCH.com,1,14
-14,Jennifer,Hughes,Neonatal ICU,(810)893-5233x76960,21,1,jennifer.hughes@NRCH.com,1,15
-15,Kelsey,Fletcher,Pediatric Emergency,(271)242-7878,31,1,kelsey.fletcher@NRCH.com,1,16
-16,Troy,Collins,Breast Surgery,506.238.1206x650,34,1,troy.collins@NRCH.com,1,17
-17,Jennifer,Smith,Osteoporosis,+1-389-213-1934x42176,4,1,jennifer.smith@NRCH.com,1,18
-18,Joshua,Chavez,Spine Surgery,242-285-1240,6,1,joshua.chavez@NRCH.com,1,19
-19,Jamie,Green,Urogynecology,659-209-7765x82369,1,1,jamie.green@NRCH.com,1,20
-20,Dillon,Nelson,Hospital Epidemiology,451-659-0042x29456,22,1,dillon.nelson@NRCH.com,1,21
-21,Danny,Cross,Brain Injury Rehabilitation,8423814654,21,1,danny.cross@NRCH.com,1,22
-22,Cory,Kerr,Reconstructive Surgery,855.317.1760x4522,13,1,cory.kerr@NRCH.com,1,23
-23,Cameron,Miller,Kidney Transplant,001-530-860-1688x4779,16,1,cameron.miller@NRCH.com,1,24
-24,Christopher,Robinson,Geriatric Psychiatry,392-963-5110x873,35,1,christopher.robinson@NRCH.com,1,25
-25,Raymond,Clark,Neuromuscular Medicine,4393213765,6,1,raymond.clark@NRCH.com,1,26
-26,Vanessa,Bird,Urologic Oncology,(596)568-7577,21,1,vanessa.bird@NRCH.com,1,27
-27,Alec,Thornton,Laryngology,001-355-308-2492x6947,32,1,alec.thornton@NRCH.com,1,28
-28,Zachary,Sexton,Trauma Emergency,432-904-0752,20,1,zachary.sexton@NRCH.com,1,29
-29,Tanya,Wagner,General Obstetrics,980.891.8916x34896,19,1,tanya.wagner@NRCH.com,1,30
-30,Catherine,Hall,Nuclear Medicine,9026489451,8,1,catherine.hall@NRCH.com,1,31
-31,Sherri,Turner,Headache Medicine,(966)302-2345x00762,22,1,sherri.turner@NRCH.com,1,32
-32,Emily,Hernandez,Kidney Transplant,(260)497-6701x720,19,1,emily.hernandez@NRCH.com,1,33
-33,Crystal,Garcia,Craniofacial Surgery,+1-753-367-1097,6,1,crystal.garcia@NRCH.com,1,34
-34,Tara,Reeves,Oculoplastic Surgery,726-341-8306x7537,25,1,tara.reeves@NRCH.com,1,35
-35,Sue,Winters,Cytopathology,3748089933,16,1,sue.winters@NRCH.com,1,36
-36,William,Dougherty,Reproductive Endocrinology,(869)461-1611,12,1,william.dougherty@NRCH.com,1,37
-37,Jessica,Johnson,Surgical Oncology,266.707.5415x115,12,1,jessica.johnson@NRCH.com,1,38
-38,Michael,Smith,Dialysis,251.692.3031,17,1,michael.smith@NRCH.com,1,39
-39,Mike,Johnson,Pediatric Ophthalmology,+1-732-727-1754x203,5,1,mike.johnson@NRCH.com,1,40
-40,Thomas,Carter,Sports Medicine,+1-452-891-1894,9,1,thomas.carter@NRCH.com,1,41
-41,Rachael,Bautista,Brain Injury Rehabilitation,258.433.2456,3,1,rachael.bautista@NRCH.com,1,42
-42,Carolyn,Long,HIV/AIDS,001-312-564-8629x645,35,1,carolyn.long@NRCH.com,1,43
-43,Sean,Wood,Pediatric Rheumatology,306.660.6573x54712,34,1,sean.wood@NRCH.com,1,44
-44,Daniel,Jacobs,Cardiac ICU,(776)426-6237,34,1,daniel.jacobs@NRCH.com,1,45
-45,Michael,Welch,Inflammatory Bowel Disease,573-640-7970,14,1,michael.welch@NRCH.com,1,46
-46,Danny,Irwin,General Obstetrics,389-626-7173x8640,27,1,danny.irwin@NRCH.com,1,47
-47,Nicole,Williams,Hemostasis and Thrombosis,368-296-7145x439,29,1,nicole.williams@NRCH.com,1,48
-48,Chad,Baker,Hospital Epidemiology,+1-651-483-2164,23,1,chad.baker@NRCH.com,1,49
-49,Audrey,Burton,Medical ICU,+1-416-486-4475,21,1,audrey.burton@NRCH.com,1,50
-50,David,Martinez,Pediatric Radiology,(797)928-4576x3778,8,2,david.martinez@PLGH.com,1,51
-51,Denise,Brown,Pediatric Rheumatology,327-809-3057x6081,22,2,denise.brown@PLGH.com,1,52
-52,Adam,Williams,Geriatric Psychiatry,+1-704-843-2943x167,16,2,adam.williams@PLGH.com,1,53
-53,Gary,Fisher,Urologic Oncology,+1-962-872-8523x27566,18,2,gary.fisher@PLGH.com,1,54
-54,Jessica,Pope,Hepatology,539.606.0312x502,15,2,jessica.pope@PLGH.com,1,55
-55,Cheyenne,Bush,Heart Failure,545.767.0886x97747,11,2,cheyenne.bush@PLGH.com,1,56
-56,Joseph,Williams,Reproductive Endocrinology,(850)540-2163,28,2,joseph.williams@PLGH.com,1,57
-57,Shawn,Morgan,Foot and Ankle Surgery,291-255-8754,4,2,shawn.morgan@PLGH.com,1,58
-58,James,Miller,Spine Surgery,653.334.4486x47530,10,2,james.miller@PLGH.com,1,59
-59,Albert,Simpson,Aortic Surgery,806.577.7111x312,15,2,albert.simpson@PLGH.com,1,60
-60,Scott,Jones,Dermatopathology,(686)502-3732x45561,35,2,scott.jones@PLGH.com,1,61
-61,Jennifer,Waters,Hematologic Oncology,597.684.4301x91263,5,2,jennifer.waters@PLGH.com,1,62
-62,Nichole,Osborn,Stroke Neurology,7885601641,8,2,nichole.osborn@PLGH.com,1,63
-63,Emily,Warner,Interventional Pulmonology,+1-443-231-8453x57492,8,2,emily.warner@PLGH.com,1,64
-64,Angela,Murphy,Pediatric Ophthalmology,001-502-962-2812,6,2,angela.murphy@PLGH.com,1,65
-65,Ashley,Dominguez,Cytopathology,932.336.5992,8,2,ashley.dominguez@PLGH.com,1,66
-66,Christina,Johnson,Neonatology,+1-757-374-0382x778,2,2,christina.johnson@PLGH.com,1,67
-67,Jonathon,Munoz,Geriatric Medicine,001-535-646-0305x357,12,2,jonathon.munoz@PLGH.com,1,68
-68,Max,Martin,Child and Adolescent Psychiatry,2592802507,31,2,max.martin@PLGH.com,1,69
-69,John,Smith,Brain Tumor Surgery,+1-451-705-6237x6254,4,2,john.smith@PLGH.com,1,70
-70,Jessica,Floyd,Critical Care Pulmonology,(260)464-8870x91662,35,2,jessica.floyd@PLGH.com,1,71
-71,Christy,Stanley,Pediatric Rheumatology,001-321-953-2302x8216,7,2,christy.stanley@PLGH.com,1,72
-72,Jennifer,Mendez,Addiction Psychiatry,6454600715,5,2,jennifer.mendez@PLGH.com,1,73
-73,Stephen,Romero,Brain Tumor Surgery,(665)947-6048,5,2,stephen.romero@PLGH.com,1,74
-74,Tiffany,Mejia,Advanced Endoscopy,001-984-207-6165,23,2,tiffany.mejia@PLGH.com,1,75
-75,Andrew,Singh,Pediatric Ophthalmology,6495438856,12,2,andrew.singh@PLGH.com,1,76
-76,Darren,Holden,Surgical Pathology,298.452.2509,33,2,darren.holden@PLGH.com,1,77
-77,Stephanie,Cox,Pediatric Oncology,+1-445-776-9620x2907,3,2,stephanie.cox@PLGH.com,1,78
-78,Sarah,Fry,Dermatopathology,349.831.8642x8212,26,2,sarah.fry@PLGH.com,1,79
-79,Karen,Baker,Pediatric Dermatology,206-444-8885x5362,17,2,karen.baker@PLGH.com,1,80
-80,Kristen,Miles,Movement Disorders,001-265-770-8693,31,2,kristen.miles@PLGH.com,1,81
-81,Allison,Pugh,Oculoplastic Surgery,+1-535-970-3934x26197,11,2,allison.pugh@PLGH.com,1,82
-82,Michelle,Jacobson,Rheumatoid Arthritis,001-713-327-1664x465,4,2,michelle.jacobson@PLGH.com,1,83
-83,Kurt,Vasquez,Interventional Pulmonology,001-643-766-6609x75929,11,2,kurt.vasquez@PLGH.com,1,84
-84,Lynn,Sanders,Venous Surgery,720.219.5501x31870,34,2,lynn.sanders@PLGH.com,1,85
-85,Leroy,Whitehead,Joint Replacement,001-246-229-2648x02227,8,2,leroy.whitehead@PLGH.com,1,86
-86,Madison,Vazquez,Pediatric Cardiology,001-762-659-1182x434,29,2,madison.vazquez@PLGH.com,1,87
-87,Kimberly,Holmes,Geriatric Medicine,527.982.0928x051,1,2,kimberly.holmes@PLGH.com,1,88
-88,Cheryl,Burnett,Breast Imaging,825.727.8081x85011,27,2,cheryl.burnett@PLGH.com,1,89
-89,Ashley,Rogers,Cosmetic Dermatology,(285)812-5022x0593,23,2,ashley.rogers@PLGH.com,1,90
-90,Deanna,Hale,Preventive Cardiology,(609)925-1607x5994,17,2,deanna.hale@PLGH.com,1,91
-91,Robert,Johnson,Spine Surgery,236-715-1105x026,1,2,robert.johnson@PLGH.com,1,92
-92,Stephen,Spencer,Pediatric Gastroenterology,001-777-710-8640x811,6,2,stephen.spencer@PLGH.com,1,93
-93,Stephanie,Ruiz,Cosmetic Dermatology,4284400652,3,2,stephanie.ruiz@PLGH.com,1,94
-94,Greg,Mccall,Headache Medicine,+1-539-750-7603x3452,18,2,greg.mccall@PLGH.com,1,95
-95,Jeremy,Johns,Geriatric Psychiatry,459.226.9029x062,16,2,jeremy.johns@PLGH.com,1,96
-96,Anthony,Morris,Venous Surgery,2008199226,23,2,anthony.morris@PLGH.com,1,97
-97,Samuel,Mcintyre,Headache Medicine,832-858-3861x26951,19,2,samuel.mcintyre@PLGH.com,1,98
-98,John,James,Adolescent Medicine,(937)569-1448x5809,23,2,john.james@PLGH.com,1,99
-99,Joshua,Carr,Thyroid Disorders,(918)402-6066x6179,20,2,joshua.carr@PLGH.com,1,100
-100,Gene,Wells,Breast Imaging,(994)281-5525,27,3,gene.wells@NKCH.com,1,101
-101,James,Bernard,Cardiac Imaging,(295)846-0486,6,3,james.bernard@NKCH.com,1,102
-102,Joseph,Luna,Endovascular Surgery,(322)319-5206x967,13,3,joseph.luna@NKCH.com,1,103
-103,Kimberly,Gardner,Advanced Endoscopy,+1-422-923-2308,11,3,kimberly.gardner@NKCH.com,1,104
-104,Michael,Macias,Thyroid Disorders,001-645-516-4258x5826,15,3,michael.macias@NKCH.com,1,105
-105,Nicole,Riddle,Pediatric Oncology,(367)584-6612x209,25,3,nicole.riddle@NKCH.com,1,106
-106,Caitlin,Morrison,General Internal Medicine,914.792.6100x15751,3,3,caitlin.morrison@NKCH.com,1,107
-107,Breanna,King,Hand Surgery,532.988.1820x2869,27,3,breanna.king@NKCH.com,1,108
-108,Jean,Sullivan,Benign Hematology,3928627906,11,3,jean.sullivan@NKCH.com,1,109
-109,Matthew,Hunter,Lung Transplant,407.591.4878x674,5,3,matthew.hunter@NKCH.com,1,110
-110,Amber,Moore,Lung Surgery,+1-927-511-7696x814,11,3,amber.moore@NKCH.com,1,111
-111,Lisa,Phillips,Pediatric Ophthalmology,(912)302-9830x068,34,3,lisa.phillips@NKCH.com,1,112
-112,Sarah,Hansen,Emergency Medical Services,001-751-303-3744x30758,1,3,sarah.hansen@NKCH.com,1,113
-113,Chris,Berry,Trauma Surgery,656.823.4375,32,3,chris.berry@NKCH.com,1,114
-114,Cheryl,Guerra,Osteoporosis,665-787-3556,20,3,cheryl.guerra@NKCH.com,1,115
-115,Teresa,Saunders,Craniofacial Surgery,001-941-574-1725x325,4,3,teresa.saunders@NKCH.com,1,116
-116,Daniel,Reyes,Hospital Epidemiology,(278)379-9368x4735,13,3,daniel.reyes@NKCH.com,1,117
-117,Thomas,Long,General Obstetrics,760.490.6143,6,3,thomas.long@NKCH.com,1,118
-118,Daniel,Robles,Geriatric Psychiatry,(503)300-6802x199,1,3,daniel.robles@NKCH.com,1,119
-119,Joyce,Gonzalez,Mohs Surgery,8898618233,27,3,joyce.gonzalez@NKCH.com,1,120
-120,Thomas,Smith,Movement Disorders,760.994.0955,1,3,thomas.smith@NKCH.com,1,121
-121,Danielle,Carlson,Pediatric Urology,841-514-0292,1,3,danielle.carlson@NKCH.com,1,122
-122,Ashley,Keller,Head and Neck Surgery,968.981.8171,34,3,ashley.keller@NKCH.com,1,123
-123,Guy,Kelley,Trauma Emergency,(964)561-9853,13,3,guy.kelley@NKCH.com,1,124
-124,Michael,Rowe,Stroke Neurology,(507)908-6736x34772,13,3,michael.rowe@NKCH.com,1,125
-125,Justin,Valdez,Travel Medicine,+1-728-413-4810x250,18,3,justin.valdez@NKCH.com,1,126
-126,Katie,Mcdonald,Cardiac Imaging,+1-836-473-2605x83528,12,3,katie.mcdonald@NKCH.com,1,127
-127,Cynthia,Williamson,Maternal-Fetal Medicine,+1-293-497-0379x58300,31,3,cynthia.williamson@NKCH.com,1,128
-128,John,Sawyer,Pediatric Endocrinology,+1-731-986-4573x258,6,3,john.sawyer@NKCH.com,1,129
-129,Peter,Branch,Sports Medicine,871-523-1267x83500,18,3,peter.branch@NKCH.com,1,130
-130,Christopher,Gutierrez,Urogynecology,001-868-330-2874,8,3,christopher.gutierrez@NKCH.com,1,131
-131,Christian,Cordova,Hepatobiliary Surgery,703.469.5410x3909,9,3,christian.cordova@NKCH.com,1,132
-132,Steven,Rodriguez,Travel Medicine,443.766.8539x410,8,3,steven.rodriguez@NKCH.com,1,133
-133,Courtney,Elliott,Cornea and External Disease,487-465-6016,18,3,courtney.elliott@NKCH.com,1,134
-134,Nicole,Wilson,Hospital Medicine,(230)744-6154x59388,3,3,nicole.wilson@NKCH.com,1,135
-135,Zachary,Smith,Stroke Neurology,304.352.5198x6149,14,3,zachary.smith@NKCH.com,1,136
-136,Michelle,Willis,Travel Medicine,908.735.1832x3639,21,3,michelle.willis@NKCH.com,1,137
-137,Eric,Le,Venous Surgery,(683)737-5248x015,3,3,eric.le@NKCH.com,1,138
-138,Austin,Carr,Endourology,812-343-8857x1688,32,3,austin.carr@NKCH.com,1,139
-139,Christopher,Krause,Pediatric Oncology,624-236-4000x41558,28,3,christopher.krause@NKCH.com,1,140
-140,Krista,Wright,Addiction Psychiatry,001-782-949-0664x934,35,3,krista.wright@NKCH.com,1,141
-141,Pamela,Erickson,Electrophysiology,(452)980-3760x31412,14,3,pamela.erickson@NKCH.com,1,142
-142,Alexis,Molina,Mohs Surgery,761.583.7446x67028,19,3,alexis.molina@NKCH.com,1,143
-143,John,Walker,Reconstructive Surgery,422-484-8023x6238,9,3,john.walker@NKCH.com,1,144
-144,Julie,Warren,Spine Surgery,001-940-373-0626x86368,18,3,julie.warren@NKCH.com,1,145
-145,David,Miller,Venous Surgery,8106367465,22,3,david.miller@NKCH.com,1,146
-146,Jessica,Stafford,Hemostasis and Thrombosis,(593)930-0817,6,3,jessica.stafford@NKCH.com,1,147
-147,Jennifer,Prince,Reproductive Endocrinology,+1-429-284-0925x55484,3,3,jennifer.prince@NKCH.com,1,148
-148,Timothy,Gross,Dermatopathology,696.757.4727,18,3,timothy.gross@NKCH.com,1,149
-149,Michael,Little,Neuroradiology,(469)468-4933x6348,10,3,michael.little@NKCH.com,1,150
-150,Lindsey,Holmes,Pediatric Pulmonology,+1-287-554-6478,19,4,lindsey.holmes@SUH.com,1,151
-151,Tammy,Ellis,Neuroanesthesia,403-791-4032,26,4,tammy.ellis@SUH.com,1,152
-152,Chelsea,Adams,Transplant Infectious Disease,+1-300-292-4367x55196,19,4,chelsea.adams@SUH.com,1,153
-153,Kayla,Smith,Critical Care Pulmonology,+1-945-436-3522,31,4,kayla.smith@SUH.com,1,154
-154,Cheryl,Wagner,Interventional Pulmonology,001-330-806-9028,4,4,cheryl.wagner@SUH.com,1,155
-155,Kyle,Schultz,Neuroanesthesia,+1-393-905-2547x7954,12,4,kyle.schultz@SUH.com,1,156
-156,Linda,Moore,Critical Care Anesthesia,884-486-9762,5,4,linda.moore@SUH.com,1,157
-157,Gina,Hess,Travel Medicine,001-319-212-7416x44158,26,4,gina.hess@SUH.com,1,158
-158,Blake,Smith,Developmental Pediatrics,001-521-866-7052x16930,20,4,blake.smith@SUH.com,1,159
-159,Robyn,Orr,Lung Transplant,2969284668,7,4,robyn.orr@SUH.com,1,160
-160,Natalie,Thomas,HIV/AIDS,(639)521-9744,31,4,natalie.thomas@SUH.com,1,161
-161,Richard,Smith,Hospital Epidemiology,+1-708-410-4228x2150,22,4,richard.smith@SUH.com,1,162
-162,Mark,Potter,Neuroanesthesia,353-347-5778,8,4,mark.potter@SUH.com,1,163
-163,Leslie,Reyes,Pain Management,(387)486-8132x6852,8,4,leslie.reyes@SUH.com,1,164
-164,Eric,Cruz,Pain Management,001-811-784-9457,28,4,eric.cruz@SUH.com,1,165
-165,Julie,Conway,Critical Care Pulmonology,385.938.0655x803,20,4,julie.conway@SUH.com,1,166
-166,Daniel,Graham,Travel Medicine,+1-438-708-8109x505,10,4,daniel.graham@SUH.com,1,167
-167,Joseph,Webb,Interventional Pulmonology,(503)275-2078x26497,25,4,joseph.webb@SUH.com,1,168
-168,Jasmine,Lutz,Adolescent Medicine,+1-829-575-9569x286,6,4,jasmine.lutz@SUH.com,1,169
-169,Miguel,Phillips,Neonatology,743.489.5739,6,4,miguel.phillips@SUH.com,1,170
-170,Marc,Thomas,Pediatric Emergency Medicine,001-548-328-9177x32959,15,4,marc.thomas@SUH.com,1,171
-171,Amber,Conway,HIV/AIDS,464-983-5650x0339,25,4,amber.conway@SUH.com,1,172
-172,Christopher,Mason,Critical Care Pulmonology,001-976-656-0105x249,7,4,christopher.mason@SUH.com,1,173
-173,Amy,Perry,Pain Management,553.211.1809x8591,34,4,amy.perry@SUH.com,1,174
-174,Blake,Davis,Sleep Medicine,001-441-596-2998x3442,29,4,blake.davis@SUH.com,1,175
-175,Derrick,Liu,Lung Transplant,274-729-4312x623,14,4,derrick.liu@SUH.com,1,176
-176,Amanda,Castillo,Hospital Epidemiology,(541)294-9302,6,4,amanda.castillo@SUH.com,1,177
-177,Robert,Thomas,Developmental Pediatrics,+1-508-653-2757,15,4,robert.thomas@SUH.com,1,178
-178,Emma,Lopez,Neuroanesthesia,(474)858-9434x861,11,4,emma.lopez@SUH.com,1,179
-179,Daniel,Lawrence,Pain Management,+1-918-727-2648x3214,13,4,daniel.lawrence@SUH.com,1,180
-180,Nicholas,Williams,Neuroanesthesia,(868)528-9204x9789,8,4,nicholas.williams@SUH.com,1,181
-181,Taylor,Myers,Neonatology,518-561-8720,2,4,taylor.myers@SUH.com,1,182
-182,John,George,Pediatric Pulmonology,(518)838-3371x31829,29,4,john.george@SUH.com,1,183
-183,Caroline,Hancock,Adolescent Medicine,579-205-5303x738,13,4,caroline.hancock@SUH.com,1,184
-184,Douglas,Chavez,Neonatology,394-946-5419,32,4,douglas.chavez@SUH.com,1,185
-185,Mitchell,Howell,Hospital Epidemiology,732-463-0742,17,4,mitchell.howell@SUH.com,1,186
-186,Darrell,Morris,Interventional Pulmonology,+1-615-433-4866x60271,3,4,darrell.morris@SUH.com,1,187
-187,Alison,Greer,Pediatric Anesthesia,852.492.9643x1227,10,4,alison.greer@SUH.com,1,188
-188,Mary,Evans,Cardiac Anesthesia,991.651.1738x0091,13,4,mary.evans@SUH.com,1,189
-189,Jillian,Scott,Pediatric Gastroenterology,+1-562-231-9827,25,4,jillian.scott@SUH.com,1,190
-190,Jeremy,Mann,Sleep Medicine,+1-622-899-2114x14979,35,4,jeremy.mann@SUH.com,1,191
-191,Victoria,Erickson,Interventional Pulmonology,(670)555-4660,7,4,victoria.erickson@SUH.com,1,192
-192,Jason,Davis,Lung Transplant,001-423-783-7504x6988,10,4,jason.davis@SUH.com,1,193
-193,Jennifer,Rios,Pediatric Pulmonology,(234)817-4344x1527,26,4,jennifer.rios@SUH.com,1,194
-194,Tammy,West,Adolescent Medicine,+1-348-896-7998x3204,28,4,tammy.west@SUH.com,1,195
-195,Jean,Gonzalez,Lung Transplant,348.262.9742x0354,21,4,jean.gonzalez@SUH.com,1,196
-196,Ryan,Morris,Pediatric Gastroenterology,001-835-862-1357x7256,32,4,ryan.morris@SUH.com,1,197
-197,Michael,Garcia,Interventional Pulmonology,587-821-0867,35,4,michael.garcia@SUH.com,1,198
-198,Dana,Davis,Pediatric Pulmonology,7492244818,15,4,dana.davis@SUH.com,1,199
-199,Tanya,Smith,Neonatology,357-233-5974x82760,22,4,tanya.smith@SUH.com,1,200
-200,Daniel,Hardy,Osteoporosis,481-984-1189x4031,21,5,daniel.hardy@ELCH.com,1,201
-201,Gabriel,Marshall,Endovascular Surgery,001-827-590-8601x141,34,5,gabriel.marshall@ELCH.com,1,202
-202,Jonathan,Reyes,Spine Surgery,698.785.2609x693,17,5,jonathan.reyes@ELCH.com,1,203
-203,William,Kennedy,Thyroid Disorders,001-674-554-2237x50579,25,5,william.kennedy@ELCH.com,1,204
-204,Andrew,Garcia,Cosmetic Dermatology,001-982-736-9582x0767,31,5,andrew.garcia@ELCH.com,1,205
-205,Alexander,Bradley,Reconstructive Surgery,572-318-8694,6,5,alexander.bradley@ELCH.com,1,206
-206,Ronnie,Stephens,Hematologic Oncology,001-350-739-4678x410,3,5,ronnie.stephens@ELCH.com,1,207
-207,Nicholas,Gutierrez,Spinal Cord Injury,+1-834-676-8064x7266,15,5,nicholas.gutierrez@ELCH.com,1,208
-208,Terry,Wood,Pediatric Emergency Medicine,(292)750-6774x13536,3,5,terry.wood@ELCH.com,1,209
-209,Eric,Underwood,Hemostasis and Thrombosis,611.829.0320x8662,1,5,eric.underwood@ELCH.com,1,210
-210,Scott,Rubio,Pain Management,6278211744,22,5,scott.rubio@ELCH.com,1,211
-211,Antonio,Wilkins,Pediatric Emergency,271-304-3748x36160,10,5,antonio.wilkins@ELCH.com,1,212
-212,Miguel,Phillips,Lung Transplant,3004902927,24,5,miguel.phillips@ELCH.com,1,213
-213,Andrew,Newton,Esophageal Surgery,(811)319-1317,25,5,andrew.newton@ELCH.com,1,214
-214,Darin,Robbins,Hospital Medicine,282.581.2568x218,6,5,darin.robbins@ELCH.com,1,215
-215,Clinton,Moody,Medical ICU,(858)758-9864x3912,28,5,clinton.moody@ELCH.com,1,216
-216,Jill,Dunlap,Rhinology,650.600.2432x21772,19,5,jill.dunlap@ELCH.com,1,217
-217,Lisa,Brennan,Glomerular Disease,(755)531-8724,31,5,lisa.brennan@ELCH.com,1,218
-218,Cynthia,Williamson,General Internal Medicine,001-835-261-4685x053,15,5,cynthia.williamson@ELCH.com,1,219
-219,Tammy,Fisher,Benign Hematology,624-704-1560x432,1,5,tammy.fisher@ELCH.com,1,220
-220,Sara,Carson,Brain Injury Rehabilitation,+1-212-273-9991x6404,20,5,sara.carson@ELCH.com,1,221
-221,Lauren,Moore,Hypertension,(963)998-3083,22,5,lauren.moore@ELCH.com,1,222
-222,Brittany,Nixon,Spinal Cord Injury,(551)906-5273x690,32,5,brittany.nixon@ELCH.com,1,223
-223,Robert,Long,Reproductive Endocrinology,(266)673-4129,20,5,robert.long@ELCH.com,1,224
-224,Rhonda,Curry,Lung Surgery,824-926-4865,25,5,rhonda.curry@ELCH.com,1,225
-225,Steven,King,Venous Surgery,844-246-9807x88364,4,5,steven.king@ELCH.com,1,226
-226,Tammy,Perry,Pediatric Emergency Medicine,940-907-6858,9,5,tammy.perry@ELCH.com,1,227
-227,Angela,Quinn,Pediatric Dermatology,492.990.9534x6131,19,5,angela.quinn@ELCH.com,1,228
-228,Courtney,Bird,Toxicology,657.827.4758x3058,4,5,courtney.bird@ELCH.com,1,229
-229,Lisa,Santos,Cardiac Anesthesia,+1-914-928-2215x300,31,5,lisa.santos@ELCH.com,1,230
-230,Christian,Mills,Bone Marrow Transplant,(479)929-4145,10,5,christian.mills@ELCH.com,1,231
-231,Roberta,Williams,Pediatric ENT,219-914-4952,6,5,roberta.williams@ELCH.com,1,232
-232,Richard,Chen,Adolescent Medicine,564-876-7626,10,5,richard.chen@ELCH.com,1,233
-233,Courtney,Lee,Cosmetic Dermatology,427-955-4753,27,5,courtney.lee@ELCH.com,1,234
-234,Theresa,Bush,Head and Neck Surgery,472.318.9975,30,5,theresa.bush@ELCH.com,1,235
-235,Donna,Martin,Hand Surgery,(411)465-5450x342,30,5,donna.martin@ELCH.com,1,236
-236,Thomas,Allen,Head and Neck Surgery,001-284-310-6167x722,7,5,thomas.allen@ELCH.com,1,237
-237,Edward,Wilson,Venous Surgery,(991)641-9913x4628,10,5,edward.wilson@ELCH.com,1,238
-238,Kathryn,Sims,Sports Medicine,+1-864-622-1385x7158,3,5,kathryn.sims@ELCH.com,1,239
-239,Stephen,Brown,Esophageal Surgery,(327)733-1276x153,9,5,stephen.brown@ELCH.com,1,240
-240,Dennis,Young,Primary Care,+1-257-459-7844,7,5,dennis.young@ELCH.com,1,241
-241,Joseph,Mason,Laryngology,001-814-872-1078x889,23,5,joseph.mason@ELCH.com,1,242
-242,Lonnie,Flynn,Rhinology,357.228.0720,25,5,lonnie.flynn@ELCH.com,1,243
-243,Melissa,Hubbard,Craniofacial Surgery,705-843-1032,8,5,melissa.hubbard@ELCH.com,1,244
-244,Valerie,Lynn,Cardiac Anesthesia,+1-856-436-0939x070,30,5,valerie.lynn@ELCH.com,1,245
-245,Kimberly,Brown,Cardiac ICU,+1-625-944-7586x7548,8,5,kimberly.brown@ELCH.com,1,246
-246,Lacey,Rivera,Hematologic Oncology,+1-456-540-3746x62273,19,5,lacey.rivera@ELCH.com,1,247
-247,Christian,Huynh,Rhinology,282.392.7173x62108,25,5,christian.huynh@ELCH.com,1,248
-248,Kristine,Sharp,Venous Surgery,001-822-993-5511,8,5,kristine.sharp@ELCH.com,1,249
-249,David,Berry,Interventional Pulmonology,439.439.9794x12613,3,5,david.berry@ELCH.com,1,250
-250,Sandy,Baker,Pediatric Endocrinology,+1-552-775-8116x00356,29,6,sandy.baker@CC.com,1,251
-251,Sara,Lawrence,Hemostasis and Thrombosis,617-997-4360x55218,13,6,sara.lawrence@CC.com,1,252
-252,Adam,Cain,Bone Marrow Transplant,+1-822-289-5716x4740,23,6,adam.cain@CC.com,1,253
-253,Lisa,Bryant,Benign Hematology,224-754-9277,3,6,lisa.bryant@CC.com,1,254
-254,Rebecca,Gutierrez,Benign Hematology,4428921687,32,6,rebecca.gutierrez@CC.com,1,255
-255,Lori,Morgan,Hemostasis and Thrombosis,001-285-892-1131x373,2,6,lori.morgan@CC.com,1,256
-256,Mark,Kelly,Malignant Hematology,878-704-7637x089,15,6,mark.kelly@CC.com,1,257
-257,Jason,Arellano,Diabetes,(442)824-3156x244,33,6,jason.arellano@CC.com,1,258
-258,Anthony,Farley,Bone Marrow Transplant,326-561-1938,33,6,anthony.farley@CC.com,1,259
-259,Mario,Chavez,Reproductive Endocrinology,+1-991-622-9990,8,6,mario.chavez@CC.com,1,260
-260,Jason,Brown,Thyroid Disorders,600-393-2738,28,6,jason.brown@CC.com,1,261
-261,Edward,Singleton,Bone Marrow Transplant,8957483940,6,6,edward.singleton@CC.com,1,262
-262,Chad,Mccarty,Diabetes,001-851-949-2500x96063,27,6,chad.mccarty@CC.com,1,263
-263,Kelly,Smith,Diabetes,001-497-581-0012x669,7,6,kelly.smith@CC.com,1,264
-264,Debra,Rodriguez,Pediatric Endocrinology,5667426056,10,6,debra.rodriguez@CC.com,1,265
-265,Caitlin,Byrd,Benign Hematology,(678)703-5729x33031,29,6,caitlin.byrd@CC.com,1,266
-266,Mark,Torres,Bone Marrow Transplant,(929)464-0619,27,6,mark.torres@CC.com,1,267
-267,Laura,Floyd,Benign Hematology,(962)587-9509x83386,32,6,laura.floyd@CC.com,1,268
-268,Ashley,Miller,Hemostasis and Thrombosis,422-840-5129,17,6,ashley.miller@CC.com,1,269
-269,Jonathan,Cannon,Diabetes,(620)583-7946x039,23,6,jonathan.cannon@CC.com,1,270
-270,Matthew,Garcia,Diabetes,575-540-4154x353,8,6,matthew.garcia@CC.com,1,271
-271,Jacob,Gray,Hemostasis and Thrombosis,+1-842-356-0808,2,6,jacob.gray@CC.com,1,272
-272,Jonathan,Fletcher,Reproductive Endocrinology,941.618.6852x21442,23,6,jonathan.fletcher@CC.com,1,273
-273,John,Hendricks,Malignant Hematology,+1-793-317-3564,1,6,john.hendricks@CC.com,1,274
-274,Latasha,Taylor,Thyroid Disorders,+1-658-221-7675x9472,24,6,latasha.taylor@CC.com,1,275
-275,Robert,Marsh,Benign Hematology,292.211.6341x694,10,6,robert.marsh@CC.com,1,276
-276,Richard,Harmon,Thyroid Disorders,553.832.1189x24578,1,6,richard.harmon@CC.com,1,277
-277,Kimberly,Velazquez,Malignant Hematology,+1-325-320-5218x593,8,6,kimberly.velazquez@CC.com,1,278
-278,Jill,Woods,Benign Hematology,+1-574-759-1306x485,19,6,jill.woods@CC.com,1,279
-279,Jorge,Patton,Reproductive Endocrinology,001-717-720-1745x470,2,6,jorge.patton@CC.com,1,280
-280,Danielle,Ochoa,Malignant Hematology,001-355-763-0698x4690,10,6,danielle.ochoa@CC.com,1,281
-281,Andrew,Thomas,Thyroid Disorders,(508)843-5391,30,6,andrew.thomas@CC.com,1,282
-282,Logan,Schultz,Benign Hematology,+1-440-217-4632x7020,31,6,logan.schultz@CC.com,1,283
-283,Christopher,Saunders,Reproductive Endocrinology,+1-533-474-4958x57980,17,6,christopher.saunders@CC.com,1,284
-284,Joyce,Mccarty,Malignant Hematology,821-909-8199,2,6,joyce.mccarty@CC.com,1,285
-285,Debra,Foster,Thyroid Disorders,001-298-958-3294x8469,24,6,debra.foster@CC.com,1,286
-286,Ashley,Wright,Reproductive Endocrinology,(648)741-5948x4771,31,6,ashley.wright@CC.com,1,287
-287,Hailey,Moran,Hemostasis and Thrombosis,301-259-1839x00047,19,6,hailey.moran@CC.com,1,288
-288,Victor,Young,Hemostasis and Thrombosis,644.336.9774x50999,12,6,victor.young@CC.com,1,289
-289,Matthew,Davis,Benign Hematology,(374)354-9328x7747,7,6,matthew.davis@CC.com,1,290
-290,Sarah,Osborn,Reproductive Endocrinology,+1-404-655-5065,11,6,sarah.osborn@CC.com,1,291
-291,Nicole,Williams,Pediatric Endocrinology,645.649.5150x79259,10,6,nicole.williams@CC.com,1,292
-292,Travis,Griffin,Thyroid Disorders,253.710.6769,15,6,travis.griffin@CC.com,1,293
-293,Anthony,Smith,Reproductive Endocrinology,232-671-6804x120,33,6,anthony.smith@CC.com,1,294
-294,Rodney,Guerrero,Thyroid Disorders,001-541-257-9545,16,6,rodney.guerrero@CC.com,1,295
-295,Jodi,Young,Thyroid Disorders,506.950.8318x30852,19,6,jodi.young@CC.com,1,296
-296,Amber,Hamilton,Reproductive Endocrinology,342.405.4543x600,27,6,amber.hamilton@CC.com,1,297
-297,Wendy,George,Diabetes,001-420-408-2921,9,6,wendy.george@CC.com,1,298
-298,Amy,Russell,Benign Hematology,7547590390,26,6,amy.russell@CC.com,1,299
-299,Matthew,Downs,Diabetes,+1-455-316-3594x23829,5,6,matthew.downs@CC.com,1,300
-300,Lucas,Aguilar,Endovascular Surgery,+1-791-392-5474x7266,27,7,lucas.aguilar@THS.com,1,301
-301,Logan,Green,Pediatric Neurosurgery,(857)515-5452,27,7,logan.green@THS.com,1,302
-302,James,Perkins,Trauma Surgery,+1-269-830-5207x691,10,7,james.perkins@THS.com,1,303
-303,Keith,Vaughn,General Obstetrics,(409)436-9779x66604,28,7,keith.vaughn@THS.com,1,304
-304,Michelle,Flores,Hand Surgery,597.629.6324x07575,23,7,michelle.flores@THS.com,1,305
-305,Ashley,Johnson,Spinal Cord Injury,001-824-435-0496x303,16,7,ashley.johnson@THS.com,1,306
-306,Michelle,Sharp,Neuromuscular Medicine,+1-898-832-6975x7920,24,7,michelle.sharp@THS.com,1,307
-307,Michael,Salinas,Benign Hematology,574-669-3732x7706,25,7,michael.salinas@THS.com,1,308
-308,Hannah,Coleman,Male Infertility,242-323-4225x3992,1,7,hannah.coleman@THS.com,1,309
-309,David,Michael,Bone Marrow Transplant,001-844-620-4951,21,7,david.michael@THS.com,1,310
-310,Matthew,Larson,Pain Management,341.888.0056x97593,14,7,matthew.larson@THS.com,1,311
-311,Robert,Contreras,Venous Surgery,001-748-252-0026,19,7,robert.contreras@THS.com,1,312
-312,Nathan,Rogers,Bone Marrow Transplant,001-596-781-1983,6,7,nathan.rogers@THS.com,1,313
-313,Dawn,Powell,Pediatric Urology,5107536916,7,7,dawn.powell@THS.com,1,314
-314,Christopher,Villa,Hand Surgery,001-524-332-3663x30846,8,7,christopher.villa@THS.com,1,315
-315,Lisa,Gilbert,Brain Tumor Surgery,+1-854-383-7939x0914,29,7,lisa.gilbert@THS.com,1,316
-316,Kimberly,Garcia,Craniofacial Surgery,519-441-3491x16725,12,7,kimberly.garcia@THS.com,1,317
-317,John,Williams,Venous Surgery,001-507-378-8363,28,7,john.williams@THS.com,1,318
-318,Martin,Moran,Endovascular Surgery,477-537-4737,16,7,martin.moran@THS.com,1,319
-319,Marisa,Powell,Bone Marrow Transplant,(246)622-9871x39594,22,7,marisa.powell@THS.com,1,320
-320,Sean,Costa,Headache Medicine,863.249.5050,10,7,sean.costa@THS.com,1,321
-321,Ashley,Weber,Venous Surgery,8003694750,30,7,ashley.weber@THS.com,1,322
-322,Robert,Pope,Aortic Surgery,3502051908,6,7,robert.pope@THS.com,1,323
-323,Jason,Carpenter,Pain Management,811-521-2833x794,14,7,jason.carpenter@THS.com,1,324
-324,Brent,Moreno,Pediatric Neurosurgery,432-867-1331,1,7,brent.moreno@THS.com,1,325
-325,Monica,Henry,Aortic Surgery,693-880-8627x920,29,7,monica.henry@THS.com,1,326
-326,Brandy,Wade,General Obstetrics,+1-565-883-1488x354,30,7,brandy.wade@THS.com,1,327
-327,Joseph,French,Endovascular Surgery,853-914-4313x68253,14,7,joseph.french@THS.com,1,328
-328,Michelle,Sanchez,Joint Replacement,856.819.7712x18440,8,7,michelle.sanchez@THS.com,1,329
-329,James,Munoz,Foot and Ankle Surgery,2663566047,20,7,james.munoz@THS.com,1,330
-330,Austin,Ali,Endourology,+1-532-356-2847,10,7,austin.ali@THS.com,1,331
-331,Joseph,Oliver,Bone Marrow Transplant,820.907.4480,31,7,joseph.oliver@THS.com,1,332
-332,Lindsey,Waller,Endovascular Surgery,+1-520-620-8651x5078,32,7,lindsey.waller@THS.com,1,333
-333,Vanessa,Brown,Foot and Ankle Surgery,772.631.8818x386,15,7,vanessa.brown@THS.com,1,334
-334,Jerry,Harper,Pain Management,241-499-2170x75462,18,7,jerry.harper@THS.com,1,335
-335,Melissa,Jordan,Spine Surgery,001-634-998-9003x095,8,7,melissa.jordan@THS.com,1,336
-336,Lisa,Hardy,Sports Rehabilitation,748-855-2178x1122,3,7,lisa.hardy@THS.com,1,337
-337,Jay,King,Spinal Cord Injury,(354)380-8161x967,17,7,jay.king@THS.com,1,338
-338,Jennifer,Huff,Pain Management,(662)468-0564,34,7,jennifer.huff@THS.com,1,339
-339,Christopher,Walters,General Obstetrics,285.593.8037x862,26,7,christopher.walters@THS.com,1,340
-340,Sara,Peters,Pain Management,908-654-6203x943,7,7,sara.peters@THS.com,1,341
-341,Aaron,Patterson,Neurophysiology,+1-702-415-6346,17,7,aaron.patterson@THS.com,1,342
-342,Jennifer,Murphy,Hemostasis and Thrombosis,+1-506-564-5383x99907,19,7,jennifer.murphy@THS.com,1,343
-343,Juan,Melton,Gynecologic Oncology,630.213.6660x294,6,7,juan.melton@THS.com,1,344
-344,Ashley,Evans,Stroke Neurology,(919)551-7539x9015,5,7,ashley.evans@THS.com,1,345
-345,Kyle,Yang,Foot and Ankle Surgery,001-401-296-3737x86872,17,7,kyle.yang@THS.com,1,346
-346,Alicia,Jones,Joint Replacement,(652)619-9579x37602,35,7,alicia.jones@THS.com,1,347
-347,Amanda,Richard,Sports Rehabilitation,(590)871-7478x57914,8,7,amanda.richard@THS.com,1,348
-348,Steven,Ramos,Malignant Hematology,(675)314-9392,11,7,steven.ramos@THS.com,1,349
-349,Gregory,Smith,Urologic Oncology,+1-898-778-7420,27,7,gregory.smith@THS.com,1,350
-350,Kevin,Williams,Musculoskeletal Radiology,5033610679,19,8,kevin.williams@NSMC.com,1,351
-351,Joseph,Smith,Pediatric Cardiology,290.210.4272x3338,9,8,joseph.smith@NSMC.com,1,352
-352,Laurie,Freeman,Inflammatory Bowel Disease,(210)990-0364,35,8,laurie.freeman@NSMC.com,1,353
-353,Jose,Fitzpatrick,Endovascular Surgery,+1-521-655-8389,27,8,jose.fitzpatrick@NSMC.com,1,354
-354,Alexandra,Moore,Hematologic Oncology,(811)346-6848x215,26,8,alexandra.moore@NSMC.com,1,355
-355,Lori,Gillespie,Primary Care,2682094953,19,8,lori.gillespie@NSMC.com,1,356
-356,Sharon,Johnson,Hand Surgery,311-444-7016x34499,24,8,sharon.johnson@NSMC.com,1,357
-357,Amy,Wood,Malignant Hematology,550-516-4540x275,11,8,amy.wood@NSMC.com,1,358
-358,Charles,Reed,Cardiac Anesthesia,+1-912-529-3814x86053,8,8,charles.reed@NSMC.com,1,359
-359,Sydney,Wagner,Lung Transplant,835.895.5990x615,26,8,sydney.wagner@NSMC.com,1,360
-360,Nathaniel,Anderson,Esophageal Surgery,(266)784-3316x323,30,8,nathaniel.anderson@NSMC.com,1,361
-361,Lindsey,Blanchard,Cornea and External Disease,+1-711-698-9052x2576,20,8,lindsey.blanchard@NSMC.com,1,362
-362,Sarah,Roberts,Toxicology,762-772-7268x55102,31,8,sarah.roberts@NSMC.com,1,363
-363,Elizabeth,Martinez,Hematopathology,559-301-7893x0771,14,8,elizabeth.martinez@NSMC.com,1,364
-364,Jamie,Herman,Neonatal ICU,+1-435-850-4405x905,32,8,jamie.herman@NSMC.com,1,365
-365,Christian,Estrada,Bariatric Surgery,+1-327-978-5050,33,8,christian.estrada@NSMC.com,1,366
-366,Todd,Smith,Developmental Pediatrics,680.816.1627,32,8,todd.smith@NSMC.com,1,367
-367,Adam,Callahan,Lupus,5932292727,29,8,adam.callahan@NSMC.com,1,368
-368,William,Williams,Pediatric Neurosurgery,977.964.7599x81290,10,8,william.williams@NSMC.com,1,369
-369,Nicole,Adams,Craniofacial Surgery,200.556.7399,4,8,nicole.adams@NSMC.com,1,370
-370,Terri,Osborne,Transplant Infectious Disease,624.888.2691,2,8,terri.osborne@NSMC.com,1,371
-371,Jay,Jensen,Sports Rehabilitation,(762)868-7146x556,31,8,jay.jensen@NSMC.com,1,372
-372,Emily,Smith,Urogynecology,853.715.0663x963,1,8,emily.smith@NSMC.com,1,373
-373,Darren,Clark,Dialysis,513-941-3239x6542,6,8,darren.clark@NSMC.com,1,374
-374,Adam,Anderson,Forensic Psychiatry,+1-491-404-7438x8254,1,8,adam.anderson@NSMC.com,1,375
-375,Kim,Powell,Cosmetic Dermatology,001-845-977-6297x346,3,8,kim.powell@NSMC.com,1,376
-376,Bryan,Orozco,Stroke Neurology,850.757.5711x8449,1,8,bryan.orozco@NSMC.com,1,377
-377,Nicole,Lucas,Female Urology,257-768-0685,19,8,nicole.lucas@NSMC.com,1,378
-378,Kim,Johnson,Rhinology,001-578-596-3048,10,8,kim.johnson@NSMC.com,1,379
-379,Gina,Wagner,Pediatric Neurosurgery,280-845-5072,13,8,gina.wagner@NSMC.com,1,380
-380,John,Nelson,Cardiac Anesthesia,001-783-442-3373x3453,28,8,john.nelson@NSMC.com,1,381
-381,Bryan,Cruz,Breast Imaging,001-239-293-6274x91143,22,8,bryan.cruz@NSMC.com,1,382
-382,Michael,Meza,Neuromuscular Medicine,747-364-3858x9156,11,8,michael.meza@NSMC.com,1,383
-383,Amanda,Ayala,Heart Failure,(497)499-6854,27,8,amanda.ayala@NSMC.com,1,384
-384,Lisa,Jones,Mohs Surgery,340-938-5685,10,8,lisa.jones@NSMC.com,1,385
-385,Angel,Harris,Pain Management,(506)969-8831x15684,10,8,angel.harris@NSMC.com,1,386
-386,Steven,Mccoy,Sports Rehabilitation,+1-699-248-8751x05572,9,8,steven.mccoy@NSMC.com,1,387
-387,Bryan,Hayes,Aesthetic Surgery,748.722.9138x2701,12,8,bryan.hayes@NSMC.com,1,388
-388,Ronald,Perez,Emergency Medical Services,967-699-8199,23,8,ronald.perez@NSMC.com,1,389
-389,Anthony,Ryan,Bone Marrow Transplant,684-419-5092,28,8,anthony.ryan@NSMC.com,1,390
-390,Matthew,Woods,Venous Surgery,(758)805-5973x7699,25,8,matthew.woods@NSMC.com,1,391
-391,Roy,Lee,Transplant Infectious Disease,803.507.0212x8311,13,8,roy.lee@NSMC.com,1,392
-392,Allison,Smith,General Internal Medicine,(321)365-8370x1138,14,8,allison.smith@NSMC.com,1,393
-393,Tara,David,Critical Care Pulmonology,491-602-4798,25,8,tara.david@NSMC.com,1,394
-394,Vanessa,Carter,Medical ICU,001-799-535-4272,15,8,vanessa.carter@NSMC.com,1,395
-395,John,Mcgee,Bariatric Surgery,(476)509-2904x1060,6,8,john.mcgee@NSMC.com,1,396
-396,Rhonda,Torres,Inflammatory Bowel Disease,+1-730-297-6673x41576,24,8,rhonda.torres@NSMC.com,1,397
-397,Diane,Charles,Benign Hematology,001-597-273-7804,12,8,diane.charles@NSMC.com,1,398
-398,Sarah,Wall,Aesthetic Surgery,001-258-340-6533x35091,20,8,sarah.wall@NSMC.com,1,399
-399,Jeffery,Gomez,Endourology,001-418-364-3277x7391,6,8,jeffery.gomez@NSMC.com,1,400
-400,Lindsay,Bass,Nuclear Medicine,(514)664-3213,33,9,lindsay.bass@SJRMC.com,1,401
-401,Johnny,Williams,Heart Failure,528-574-2113,23,9,johnny.williams@SJRMC.com,1,402
-402,David,Gonzalez,Venous Surgery,+1-471-856-8206x992,30,9,david.gonzalez@SJRMC.com,1,403
-403,Sandra,Higgins,Hepatology,+1-933-253-9706,34,9,sandra.higgins@SJRMC.com,1,404
-404,Amber,Harris,Hematologic Oncology,(405)571-8964,28,9,amber.harris@SJRMC.com,1,405
-405,Elizabeth,Alvarez,General Internal Medicine,001-237-249-4409x541,32,9,elizabeth.alvarez@SJRMC.com,1,406
-406,Rachel,Henson,Joint Replacement,5212044111,31,9,rachel.henson@SJRMC.com,1,407
-407,Kristin,Fuller,Malignant Hematology,759-797-0897x64903,22,9,kristin.fuller@SJRMC.com,1,408
-408,Maria,Jackson,Neuroanesthesia,460.204.9834,3,9,maria.jackson@SJRMC.com,1,409
-409,Jennifer,Cardenas,Critical Care Pulmonology,630-809-2792x395,4,9,jennifer.cardenas@SJRMC.com,1,410
-410,Warren,Ayala,Cardiac Surgery,673.644.0594x94345,23,9,warren.ayala@SJRMC.com,1,411
-411,Nichole,Washington,Retina Surgery,001-816-532-3458x779,19,9,nichole.washington@SJRMC.com,1,412
-412,Kimberly,Wallace,Trauma Emergency,713-397-4910x01386,9,9,kimberly.wallace@SJRMC.com,1,413
-413,Christopher,Phillips,Surgical Pathology,270.948.8759x7283,28,9,christopher.phillips@SJRMC.com,1,414
-414,Ashley,Woodward,Adolescent Medicine,001-430-841-6565,15,9,ashley.woodward@SJRMC.com,1,415
-415,Stephen,Perry,Minimally Invasive Surgery,405.677.1549,26,9,stephen.perry@SJRMC.com,1,416
-416,Barry,Gonzalez,Rheumatoid Arthritis,243-517-1875x2481,30,9,barry.gonzalez@SJRMC.com,1,417
-417,Jeffrey,Medina,Brain Tumor Surgery,(655)634-3806,22,9,jeffrey.medina@SJRMC.com,1,418
-418,Paul,Miller,General Obstetrics,6094238082,7,9,paul.miller@SJRMC.com,1,419
-419,Ethan,Tucker,HIV/AIDS,5794483513,21,9,ethan.tucker@SJRMC.com,1,420
-420,Eric,Black,Hand Surgery,874-635-3277x2836,35,9,eric.black@SJRMC.com,1,421
-421,Victoria,Bailey,Forensic Psychiatry,272-966-7639x0498,21,9,victoria.bailey@SJRMC.com,1,422
-422,Barbara,Williams,Cosmetic Dermatology,+1-292-600-9421x045,2,9,barbara.williams@SJRMC.com,1,423
-423,Melanie,Garcia,Headache Medicine,(653)932-9765x78291,3,9,melanie.garcia@SJRMC.com,1,424
-424,Christine,Wilson,Pediatric Emergency Medicine,483-485-6951x5701,24,9,christine.wilson@SJRMC.com,1,425
-425,Elizabeth,Hill,Interventional Radiology,(232)555-8339,14,9,elizabeth.hill@SJRMC.com,1,426
-426,Amy,Huff,Minimally Invasive Surgery,(567)373-7864,23,9,amy.huff@SJRMC.com,1,427
-427,Zachary,Ford,Electrophysiology,(994)451-1237x82072,13,9,zachary.ford@SJRMC.com,1,428
-428,Anthony,Lopez,Venous Surgery,+1-805-357-4595x514,20,9,anthony.lopez@SJRMC.com,1,429
-429,Hannah,Burns,Hemostasis and Thrombosis,+1-559-256-1102x895,34,9,hannah.burns@SJRMC.com,1,430
-430,Christian,Garcia,Hospital Epidemiology,366-345-7034x5650,17,9,christian.garcia@SJRMC.com,1,431
-431,Tracey,Edwards,Urogynecology,001-720-549-4938,23,9,tracey.edwards@SJRMC.com,1,432
-432,Madeline,Taylor,Interventional Pulmonology,262.814.6554x653,3,9,madeline.taylor@SJRMC.com,1,433
-433,Dustin,Jones,Venous Surgery,(938)427-4907,5,9,dustin.jones@SJRMC.com,1,434
-434,Debra,Foley,Trauma Surgery,599-237-6858,30,9,debra.foley@SJRMC.com,1,435
-435,Margaret,Smith,Bone Marrow Transplant,+1-562-333-9698x220,29,9,margaret.smith@SJRMC.com,1,436
-436,Tiffany,Smith,HIV/AIDS,001-811-803-3235,27,9,tiffany.smith@SJRMC.com,1,437
-437,Christopher,Lawrence,Pediatric Ophthalmology,761-685-0104x40215,30,9,christopher.lawrence@SJRMC.com,1,438
-438,George,Douglas,Pancreatology,001-233-311-6279x87882,8,9,george.douglas@SJRMC.com,1,439
-439,Andre,Hernandez,Benign Hematology,690-618-8424x56160,6,9,andre.hernandez@SJRMC.com,1,440
-440,Robert,Stewart,Geriatric Medicine,001-540-507-2103x431,7,9,robert.stewart@SJRMC.com,1,441
-441,William,Hamilton,Neuroradiology,579.296.3303x524,27,9,william.hamilton@SJRMC.com,1,442
-442,Angela,Clay,Geriatric Psychiatry,+1-253-424-1205,29,9,angela.clay@SJRMC.com,1,443
-443,Destiny,Schmidt,Consultation-Liaison Psychiatry,301-526-9407,5,9,destiny.schmidt@SJRMC.com,1,444
-444,Catherine,Franklin,Neuromuscular Medicine,+1-403-820-9744,26,9,catherine.franklin@SJRMC.com,1,445
-445,Rebecca,Garcia,Stroke Neurology,582-372-0904,12,9,rebecca.garcia@SJRMC.com,1,446
-446,Jordan,Cole,Colorectal Surgery,849.386.7473,32,9,jordan.cole@SJRMC.com,1,447
-447,Robert,Gonzalez,Interventional Pulmonology,001-859-330-8106x5335,9,9,robert.gonzalez@SJRMC.com,1,448
-448,Brandon,Hardy,Hand Surgery,464.246.9469x2201,23,9,brandon.hardy@SJRMC.com,1,449
-449,Lonnie,Lawson,Cosmetic Dermatology,676.336.0586x79969,28,9,lonnie.lawson@SJRMC.com,1,450
-450,Cynthia,Mitchell,Interventional Cardiology,+1-289-986-4291x4646,19,10,cynthia.mitchell@AC.com,1,451
-451,Jamie,Nash,Inflammatory Bowel Disease,709.884.1656,19,10,jamie.nash@AC.com,1,452
-452,Megan,Edwards,Venous Surgery,5017986165,33,10,megan.edwards@AC.com,1,453
-453,Matthew,Erickson,Pediatric Endocrinology,(825)551-4544x269,35,10,matthew.erickson@AC.com,1,454
-454,Chelsea,Hall,Radiation Oncology,972-242-4003x551,18,10,chelsea.hall@AC.com,1,455
-455,Joshua,Shepard,Geriatric Medicine,835.711.4774,2,10,joshua.shepard@AC.com,1,456
-456,Shelia,Daniels,Benign Hematology,412-964-1894,7,10,shelia.daniels@AC.com,1,457
-457,Robert,Beard,Pediatric Anesthesia,(944)352-4314x665,27,10,robert.beard@AC.com,1,458
-458,Emily,Noble,Interventional Pulmonology,+1-432-273-9540,14,10,emily.noble@AC.com,1,459
-459,Heather,Richardson,Lung Surgery,894-952-0942x0771,1,10,heather.richardson@AC.com,1,460
-460,Katrina,Johnson,Oculoplastic Surgery,+1-963-942-9771x56847,33,10,katrina.johnson@AC.com,1,461
-461,Lawrence,Mcintosh,Hematopathology,911-213-6719,4,10,lawrence.mcintosh@AC.com,1,462
-462,Sara,Thompson,Medical ICU,001-968-352-5237x62152,25,10,sara.thompson@AC.com,1,463
-463,Stephanie,Hernandez,Adolescent Medicine,001-801-344-4293x67804,18,10,stephanie.hernandez@AC.com,1,464
-464,Kenneth,Fernandez,Trauma Surgery,(744)817-3470x3010,23,10,kenneth.fernandez@AC.com,1,465
-465,Douglas,Rollins,Rheumatoid Arthritis,614-874-2645,35,10,douglas.rollins@AC.com,1,466
-466,Robert,Cain,Pediatric Neurosurgery,697-663-2742x1922,15,10,robert.cain@AC.com,1,467
-467,Joshua,Stewart,Aesthetic Surgery,9318958049,5,10,joshua.stewart@AC.com,1,468
-468,Peggy,Jackson,Travel Medicine,+1-633-595-2000x31071,21,10,peggy.jackson@AC.com,1,469
-469,William,Baldwin,Gynecologic Oncology,+1-862-938-8927x6308,24,10,william.baldwin@AC.com,1,470
-470,Sherri,Russell,Pain Management,881.629.2592x96596,19,10,sherri.russell@AC.com,1,471
-471,Jamie,Russell,Kidney Transplant,(683)371-0978x05557,9,10,jamie.russell@AC.com,1,472
-472,Bruce,Jones,Child and Adolescent Psychiatry,224-231-1930x4641,33,10,bruce.jones@AC.com,1,473
-473,Jill,Estrada,Cosmetic Dermatology,962-399-5133,24,10,jill.estrada@AC.com,1,474
-474,Monica,Mills,Headache Medicine,572.879.5321x47806,2,10,monica.mills@AC.com,1,475
-475,Mandy,Chavez,Pediatric Urology,(760)280-8389,26,10,mandy.chavez@AC.com,1,476
-476,Kimberly,Davis,Rhinology,432-565-3163,12,10,kimberly.davis@AC.com,1,477
-477,Thomas,Jenkins,Diabetes,(624)546-5333x626,9,10,thomas.jenkins@AC.com,1,478
-478,Gary,Williams,Pediatric Anesthesia,+1-859-504-3720x28357,32,10,gary.williams@AC.com,1,479
-479,Allison,Hubbard,Inflammatory Bowel Disease,+1-578-992-0906x20396,16,10,allison.hubbard@AC.com,1,480
-480,Adam,Powell,Neurophysiology,+1-414-470-5707,9,10,adam.powell@AC.com,1,481
-481,Tricia,Hurley,Clinical Pathology,(375)701-3901x643,25,10,tricia.hurley@AC.com,1,482
-482,Jimmy,Mcbride,Travel Medicine,+1-268-933-6177,9,10,jimmy.mcbride@AC.com,1,483
-483,James,Gonzalez,Bone Marrow Transplant,398-921-7966x2001,7,10,james.gonzalez@AC.com,1,484
-484,Carla,Jones,Hematologic Oncology,(654)209-8978x8515,2,10,carla.jones@AC.com,1,485
-485,Joseph,Keller,Cosmetic Dermatology,4654079523,32,10,joseph.keller@AC.com,1,486
-486,Lisa,Mcdaniel,Lung Surgery,723.242.1321x477,20,10,lisa.mcdaniel@AC.com,1,487
-487,Douglas,Bell,Endovascular Surgery,700.342.9074,15,10,douglas.bell@AC.com,1,488
-488,Courtney,Brandt,Brain Tumor Surgery,256-256-5538x473,32,10,courtney.brandt@AC.com,1,489
-489,Joshua,Dyer,General Internal Medicine,(699)474-6302,35,10,joshua.dyer@AC.com,1,490
-490,Sabrina,Sullivan,Reproductive Endocrinology,594-605-1955x8593,6,10,sabrina.sullivan@AC.com,1,491
-491,Andrew,Martin,Primary Care,001-783-894-5365x865,9,10,andrew.martin@AC.com,1,492
-492,Richard,Cardenas,Glomerular Disease,+1-581-441-5728x7814,13,10,richard.cardenas@AC.com,1,493
-493,David,Nguyen,Cytopathology,5588025719,19,10,david.nguyen@AC.com,1,494
-494,Elizabeth,Baker,Neonatal ICU,2958894508,4,10,elizabeth.baker@AC.com,1,495
-495,John,Mcdaniel,Rhinology,442.860.3361x1415,3,10,john.mcdaniel@AC.com,1,496
-496,Darin,Lewis,Glaucoma,(533)585-1834,16,10,darin.lewis@AC.com,1,497
-497,Joshua,Poole,Venous Surgery,697.431.9509,29,10,joshua.poole@AC.com,1,498
-498,Rebecca,Smith,Kidney Transplant,+1-479-985-9362x9588,17,10,rebecca.smith@AC.com,1,499
-499,Charles,Porter,Neuroanesthesia,996.842.0740x1905,11,10,charles.porter@AC.com,1,500
-500,Madison,Duncan,Reproductive Endocrinology,+1-771-430-5645x8952,2,11,madison.duncan@SAC.com,1,501
-501,David,Kelly,Developmental Pediatrics,456-215-9268x445,35,11,david.kelly@SAC.com,1,502
-502,Daniel,Kennedy,Diabetes,934-972-6388x87272,10,11,daniel.kennedy@SAC.com,1,503
-503,Angela,Hebert,Developmental Pediatrics,+1-298-703-2156x76986,2,11,angela.hebert@SAC.com,1,504
-504,Douglas,Baker,Pediatric Endocrinology,001-829-727-1959x938,4,11,douglas.baker@SAC.com,1,505
-505,Derrick,Meyer,Neonatology,+1-978-316-6457x956,16,11,derrick.meyer@SAC.com,1,506
-506,Melissa,Martinez,Diabetes,972.532.1529x8298,1,11,melissa.martinez@SAC.com,1,507
-507,Jeffrey,Russell,Thyroid Disorders,+1-220-698-4481x0746,21,11,jeffrey.russell@SAC.com,1,508
-508,Timothy,Wilkins,Neonatology,579.585.7684x9011,4,11,timothy.wilkins@SAC.com,1,509
-509,Jason,Davidson,Reproductive Endocrinology,+1-458-628-6338x1050,28,11,jason.davidson@SAC.com,1,510
-510,Richard,Brown,Pediatric Emergency Medicine,+1-759-714-2667x75923,14,11,richard.brown@SAC.com,1,511
-511,Christine,Jackson,Pediatric Endocrinology,(965)558-6271x46308,28,11,christine.jackson@SAC.com,1,512
-512,Kevin,Keller,Thyroid Disorders,7497009385,23,11,kevin.keller@SAC.com,1,513
-513,Kristin,Robertson,Reproductive Endocrinology,001-640-420-1851,12,11,kristin.robertson@SAC.com,1,514
-514,Melvin,Garrett,Adolescent Medicine,+1-239-906-8566x6718,22,11,melvin.garrett@SAC.com,1,515
-515,Jorge,Wilson,Pediatric Endocrinology,275-486-6189,25,11,jorge.wilson@SAC.com,1,516
-516,Robert,May,Neonatology,(650)309-2527x4975,27,11,robert.may@SAC.com,1,517
-517,Michael,Thompson,Reproductive Endocrinology,3765453053,35,11,michael.thompson@SAC.com,1,518
-518,Tonya,Hays,Pediatric Endocrinology,620-769-5972x9643,3,11,tonya.hays@SAC.com,1,519
-519,Danielle,Edwards,Pediatric Pulmonology,+1-599-561-6303x758,8,11,danielle.edwards@SAC.com,1,520
-520,Theresa,Molina,Pediatric Gastroenterology,001-873-412-2452x0998,25,11,theresa.molina@SAC.com,1,521
-521,Nicholas,Savage,Thyroid Disorders,3478546968,1,11,nicholas.savage@SAC.com,1,522
-522,Taylor,Torres,Thyroid Disorders,7647979976,33,11,taylor.torres@SAC.com,1,523
-523,Cassandra,Anderson,Thyroid Disorders,797-928-3417x2412,6,11,cassandra.anderson@SAC.com,1,524
-524,Sara,Williams,Developmental Pediatrics,+1-292-763-4095,16,11,sara.williams@SAC.com,1,525
-525,Michelle,Garcia,Thyroid Disorders,418.360.6943,16,11,michelle.garcia@SAC.com,1,526
-526,Michael,Grant,Diabetes,001-638-662-6044x107,11,11,michael.grant@SAC.com,1,527
-527,Kimberly,Richardson,Adolescent Medicine,(309)303-9021x38665,11,11,kimberly.richardson@SAC.com,1,528
-528,Dawn,Stewart,Adolescent Medicine,+1-522-783-7899x1698,6,11,dawn.stewart@SAC.com,1,529
-529,Priscilla,Robertson,Pediatric Gastroenterology,419.306.1548x005,7,11,priscilla.robertson@SAC.com,1,530
-530,John,Stone,Pediatric Endocrinology,2583393511,10,11,john.stone@SAC.com,1,531
-531,Nicole,Hardin,Diabetes,866.775.5027x1852,17,11,nicole.hardin@SAC.com,1,532
-532,Anthony,Morse,Reproductive Endocrinology,(392)557-7359x90938,25,11,anthony.morse@SAC.com,1,533
-533,Nicole,Davis,Diabetes,(967)234-9910,3,11,nicole.davis@SAC.com,1,534
-534,Alfred,Moore,Pediatric Gastroenterology,+1-307-423-6203x2803,6,11,alfred.moore@SAC.com,1,535
-535,Amanda,Smith,Developmental Pediatrics,(587)390-7864x0727,19,11,amanda.smith@SAC.com,1,536
-536,James,Johnson,Adolescent Medicine,(316)826-9864x2684,10,11,james.johnson@SAC.com,1,537
-537,Mary,Quinn,Pediatric Endocrinology,(508)274-6977x578,16,11,mary.quinn@SAC.com,1,538
-538,Rebecca,Hall,Reproductive Endocrinology,544.466.4420,11,11,rebecca.hall@SAC.com,1,539
-539,Cheryl,Harris,Pediatric Endocrinology,+1-377-509-8700,22,11,cheryl.harris@SAC.com,1,540
-540,Barbara,Ryan,Reproductive Endocrinology,(969)642-3499,32,11,barbara.ryan@SAC.com,1,541
-541,Juan,Mcdaniel,Pediatric Gastroenterology,786.533.0824,1,11,juan.mcdaniel@SAC.com,1,542
-542,Joseph,Mcmahon,Developmental Pediatrics,208.791.7483,34,11,joseph.mcmahon@SAC.com,1,543
-543,Nicholas,Alexander,Reproductive Endocrinology,(364)848-4594x005,31,11,nicholas.alexander@SAC.com,1,544
-544,Megan,Gomez,Neonatology,+1-477-558-2206x931,35,11,megan.gomez@SAC.com,1,545
-545,Kevin,Marshall,Pediatric Pulmonology,001-943-340-8239x5593,17,11,kevin.marshall@SAC.com,1,546
-546,Cynthia,King,Adolescent Medicine,(960)860-6173x5027,3,11,cynthia.king@SAC.com,1,547
-547,Stephanie,Johnson,Pediatric Gastroenterology,(737)310-1800,26,11,stephanie.johnson@SAC.com,1,548
-548,Michael,Robinson,Diabetes,+1-419-534-4037,26,11,michael.robinson@SAC.com,1,549
-549,Sara,Cooper,Developmental Pediatrics,+1-300-575-8600x8028,32,11,sara.cooper@SAC.com,1,550
-550,Tracy,Bowers,Interventional Radiology,+1-483-903-7020,2,12,tracy.bowers@NSH.com,1,551
-551,Pamela,Stafford,Heart Failure,358-669-7933,3,12,pamela.stafford@NSH.com,1,552
-552,Jessica,Webb,Venous Surgery,+1-724-349-4033x37016,19,12,jessica.webb@NSH.com,1,553
-553,Tyler,Klein,Inflammatory Bowel Disease,370.349.4329x844,34,12,tyler.klein@NSH.com,1,554
-554,Victoria,Sheppard,Reproductive Endocrinology,415.894.4677x66641,25,12,victoria.sheppard@NSH.com,1,555
-555,Lisa,Wilkinson,Primary Care,526-284-0500x03531,14,12,lisa.wilkinson@NSH.com,1,556
-556,Jason,Larson,Sports Medicine,(858)284-6172,22,12,jason.larson@NSH.com,1,557
-557,Michael,Thompson,Malignant Hematology,950.504.3898x2697,35,12,michael.thompson@NSH.com,1,558
-558,Jeffrey,Webb,Neuroanesthesia,001-958-368-4644,11,12,jeffrey.webb@NSH.com,1,559
-559,Joanna,Williams,Cornea and External Disease,001-746-786-3069x80573,22,12,joanna.williams@NSH.com,1,560
-560,Denise,Harvey,Trauma Emergency,001-303-376-7449x104,4,12,denise.harvey@NSH.com,1,561
-561,Joel,Hodge,Clinical Pathology,001-353-427-6150,23,12,joel.hodge@NSH.com,1,562
-562,Monica,Martinez,Cardiac ICU,567-662-5708,19,12,monica.martinez@NSH.com,1,563
-563,Mark,Lawrence,Bariatric Surgery,+1-632-768-9441x6851,19,12,mark.lawrence@NSH.com,1,564
-564,Jared,Vega,Osteoporosis,(651)307-0314x19460,32,12,jared.vega@NSH.com,1,565
-565,Jacqueline,Johnston,Vascular Neurosurgery,385.432.7186,28,12,jacqueline.johnston@NSH.com,1,566
-566,April,Rodriguez,Aesthetic Surgery,225.529.0466,1,12,april.rodriguez@NSH.com,1,567
-567,Anna,Bond,Transplant Infectious Disease,323.377.0614x3963,3,12,anna.bond@NSH.com,1,568
-568,David,Powell,Glomerular Disease,001-334-401-5839x0602,9,12,david.powell@NSH.com,1,569
-569,Heather,Griffin,Cosmetic Dermatology,(339)524-1654x598,1,12,heather.griffin@NSH.com,1,570
-570,James,Sullivan,Neurophysiology,(291)233-4646,31,12,james.sullivan@NSH.com,1,571
-571,Philip,Ramirez,Female Urology,2618019040,13,12,philip.ramirez@NSH.com,1,572
-572,Sherry,Rosario,Head and Neck Surgery,+1-527-511-9063,28,12,sherry.rosario@NSH.com,1,573
-573,Lisa,Smith,Glaucoma,233-875-8559,12,12,lisa.smith@NSH.com,1,574
-574,Paul,Watkins,Aesthetic Surgery,(852)703-3662x74880,5,12,paul.watkins@NSH.com,1,575
-575,Jacob,Smith,Cardiac Imaging,821-535-6552x39361,11,12,jacob.smith@NSH.com,1,576
-576,Judy,Evans,Pediatric Orthopedics,(994)455-8596,8,12,judy.evans@NSH.com,1,577
-577,Michael,Wright,Bone Marrow Transplant,+1-953-605-8154x90142,28,12,michael.wright@NSH.com,1,578
-578,Michelle,Phillips,Glaucoma,581-292-9118,20,12,michelle.phillips@NSH.com,1,579
-579,David,Strong,Otology,001-511-229-2524x874,1,12,david.strong@NSH.com,1,580
-580,Kenneth,Bailey,Venous Surgery,(775)440-9243x4423,18,12,kenneth.bailey@NSH.com,1,581
-581,Ann,Shields,Hepatobiliary Surgery,675-291-3420,35,12,ann.shields@NSH.com,1,582
-582,Anthony,Miller,Critical Care Anesthesia,656-962-9819x675,21,12,anthony.miller@NSH.com,1,583
-583,Curtis,Wallace,Hepatobiliary Surgery,(416)414-7426x92963,13,12,curtis.wallace@NSH.com,1,584
-584,Zachary,Mora,Nuclear Medicine,235.744.7789,28,12,zachary.mora@NSH.com,1,585
-585,Joshua,Jordan,Malignant Hematology,+1-579-604-6031,1,12,joshua.jordan@NSH.com,1,586
-586,Deborah,Cherry,Kidney Transplant,306.819.8314,25,12,deborah.cherry@NSH.com,1,587
-587,Elizabeth,Bennett,Otology,571-604-2573,30,12,elizabeth.bennett@NSH.com,1,588
-588,Michael,Osborne,Head and Neck Surgery,(473)672-2540,27,12,michael.osborne@NSH.com,1,589
-589,Lori,Jones,Brain Tumor Surgery,688.336.3780x516,2,12,lori.jones@NSH.com,1,590
-590,Sarah,Jimenez,Glaucoma,712.310.6159,34,12,sarah.jimenez@NSH.com,1,591
-591,Gabrielle,Nolan,Pediatric Urology,581-682-5622x0543,13,12,gabrielle.nolan@NSH.com,1,592
-592,Samuel,Stone,Neuroanesthesia,+1-419-903-2960,32,12,samuel.stone@NSH.com,1,593
-593,Karen,Ramos,Diabetes,758.377.1416x311,16,12,karen.ramos@NSH.com,1,594
-594,Patrick,Long,Laryngology,001-263-457-0582x449,16,12,patrick.long@NSH.com,1,595
-595,Brian,Jackson,Venous Surgery,256-694-6335x752,12,12,brian.jackson@NSH.com,1,596
-596,Dylan,Nelson,Neuromuscular Medicine,001-689-261-6776x6103,5,12,dylan.nelson@NSH.com,1,597
-597,Jerry,Wilkinson,Aortic Surgery,+1-422-662-3698x02009,29,12,jerry.wilkinson@NSH.com,1,598
-598,Joshua,Mack,Pediatric Urology,(731)510-4388x05818,29,12,joshua.mack@NSH.com,1,599
-599,Cheryl,Jones,Laryngology,278.299.7997x3918,7,12,cheryl.jones@NSH.com,1,600
-600,Brian,Munoz,Neuroradiology,(673)805-0693x79191,11,13,brian.munoz@SCH.com,1,601
-601,David,Mitchell,Preventive Cardiology,001-302-868-3502x676,5,13,david.mitchell@SCH.com,1,602
-602,Lauren,Brown,Venous Surgery,726.892.5380,26,13,lauren.brown@SCH.com,1,603
-603,Shelley,Johnson,Advanced Endoscopy,752-978-1817,17,13,shelley.johnson@SCH.com,1,604
-604,Denise,Martin,Pediatric Oncology,327.437.2648x07237,23,13,denise.martin@SCH.com,1,605
-605,Paul,Conway,Primary Care,936-874-4811,6,13,paul.conway@SCH.com,1,606
-606,Heather,Cervantes,Joint Replacement,425.510.4351,2,13,heather.cervantes@SCH.com,1,607
-607,William,Brown,Bone Marrow Transplant,301-396-9168x8809,1,13,william.brown@SCH.com,1,608
-608,James,Schwartz,Neuroanesthesia,001-799-990-6596x0784,13,13,james.schwartz@SCH.com,1,609
-609,Jennifer,Fry,Lung Transplant,5445324381,25,13,jennifer.fry@SCH.com,1,610
-610,Seth,Perry,Pediatric Ophthalmology,508-922-1268,25,13,seth.perry@SCH.com,1,611
-611,Susan,Bean,Esophageal Surgery,633.914.2906x4488,3,13,susan.bean@SCH.com,1,612
-612,Randy,King,Pediatric Pulmonology,461-691-7125x51646,30,13,randy.king@SCH.com,1,613
-613,Rachel,Torres,Cardiac ICU,5846827360,9,13,rachel.torres@SCH.com,1,614
-614,Brandy,Hill,Toxicology,497-429-4150,21,13,brandy.hill@SCH.com,1,615
-615,Ronald,Noble,Trauma Surgery,7127556051,26,13,ronald.noble@SCH.com,1,616
-616,Dustin,Rodriguez,Hematopathology,001-298-972-7678x47365,34,13,dustin.rodriguez@SCH.com,1,617
-617,Susan,Ortiz,Rheumatoid Arthritis,+1-645-731-3296x075,3,13,susan.ortiz@SCH.com,1,618
-618,Martha,Webb,Spine Surgery,500-354-6936,23,13,martha.webb@SCH.com,1,619
-619,Briana,Curtis,Reproductive Endocrinology,001-306-845-6256,1,13,briana.curtis@SCH.com,1,620
-620,Marvin,Cook,HIV/AIDS,292-473-3172,13,13,marvin.cook@SCH.com,1,621
-621,Michael,Harmon,Spinal Cord Injury,001-243-221-8579x1995,35,13,michael.harmon@SCH.com,1,622
-622,Michelle,Odom,Craniofacial Surgery,267-569-5499,3,13,michelle.odom@SCH.com,1,623
-623,Cynthia,Gonzalez,Hypertension,+1-380-887-0800x12577,2,13,cynthia.gonzalez@SCH.com,1,624
-624,Ernest,Pierce,Female Urology,001-272-957-2170x7691,26,13,ernest.pierce@SCH.com,1,625
-625,Miranda,Silva,Pediatric Dermatology,219-827-2901,18,13,miranda.silva@SCH.com,1,626
-626,Nathaniel,Martinez,Neuromuscular Medicine,(279)410-3127x07682,10,13,nathaniel.martinez@SCH.com,1,627
-627,Heidi,Barber,Thyroid Disorders,(711)588-3390x1109,26,13,heidi.barber@SCH.com,1,628
-628,Michael,Stewart,Otology,439-908-8719x29572,33,13,michael.stewart@SCH.com,1,629
-629,Darlene,Bailey,Trauma Emergency,6247553496,11,13,darlene.bailey@SCH.com,1,630
-630,Cindy,Chandler,Surgical Oncology,542.843.0747x0153,9,13,cindy.chandler@SCH.com,1,631
-631,James,Waters,Pediatric ENT,924-814-2829,3,13,james.waters@SCH.com,1,632
-632,Patrick,Huynh,Oculoplastic Surgery,+1-711-865-4766,3,13,patrick.huynh@SCH.com,1,633
-633,Thomas,Wright,Vascular Neurosurgery,345-480-5457,12,13,thomas.wright@SCH.com,1,634
-634,Maureen,Bishop,Lung Surgery,863-604-3416,6,13,maureen.bishop@SCH.com,1,635
-635,Bryce,Dominguez,Dialysis,548.501.8942,12,13,bryce.dominguez@SCH.com,1,636
-636,John,Harrington,Osteoporosis,837-710-7256,13,13,john.harrington@SCH.com,1,637
-637,Nancy,Marshall,Developmental Pediatrics,+1-990-836-3148x194,21,13,nancy.marshall@SCH.com,1,638
-638,Jasmine,James,Esophageal Surgery,260-515-5422,17,13,jasmine.james@SCH.com,1,639
-639,Courtney,Lucas,Sports Rehabilitation,340-932-6965,34,13,courtney.lucas@SCH.com,1,640
-640,Caitlin,Durham,Pain Management,667-590-1276,10,13,caitlin.durham@SCH.com,1,641
-641,Jacqueline,Collins,Breast Surgery,517-304-2262,10,13,jacqueline.collins@SCH.com,1,642
-642,Paul,Lee,Trauma Emergency,359.591.0606x4458,12,13,paul.lee@SCH.com,1,643
-643,Michael,Mcguire,Bariatric Surgery,350-638-6191,33,13,michael.mcguire@SCH.com,1,644
-644,Benjamin,Johnson,Medical ICU,666.915.3720x13828,21,13,benjamin.johnson@SCH.com,1,645
-645,Jerry,Long,Cardiac Anesthesia,344-361-8865,13,13,jerry.long@SCH.com,1,646
-646,Dustin,Bowman,Pediatric ENT,579.633.7393,16,13,dustin.bowman@SCH.com,1,647
-647,Ryan,Payne,Neonatal ICU,001-834-497-9927x30517,34,13,ryan.payne@SCH.com,1,648
-648,Taylor,Johnson,Geriatric Medicine,001-833-798-3603x738,22,13,taylor.johnson@SCH.com,1,649
-649,Alicia,Kline,Aortic Surgery,607-331-3872,9,13,alicia.kline@SCH.com,1,650
-650,Brenda,Padilla,Pediatric Rheumatology,+1-988-605-0429x18568,4,14,brenda.padilla@NLH.com,1,651
-651,Charles,Mullen,Consultation-Liaison Psychiatry,(930)718-6893x956,6,14,charles.mullen@NLH.com,1,652
-652,Joseph,Manning,Pediatric Cardiology,001-616-284-3322x57574,22,14,joseph.manning@NLH.com,1,653
-653,Victoria,Murphy,Medical ICU,+1-835-702-3156x231,6,14,victoria.murphy@NLH.com,1,654
-654,Jordan,Reed,Sports Medicine,(560)592-1070,28,14,jordan.reed@NLH.com,1,655
-655,Jenna,Gilmore,Reproductive Endocrinology,756-685-5931x44203,29,14,jenna.gilmore@NLH.com,1,656
-656,Emily,Taylor,Cosmetic Dermatology,(818)298-1266,25,14,emily.taylor@NLH.com,1,657
-657,Stephen,Mckenzie,Hematologic Oncology,861-823-8569x2845,24,14,stephen.mckenzie@NLH.com,1,658
-658,Jorge,Glover,Trauma Emergency,+1-890-460-4976x3213,9,14,jorge.glover@NLH.com,1,659
-659,Rachael,Cunningham,Lung Surgery,001-673-644-3385x309,2,14,rachael.cunningham@NLH.com,1,660
-660,Carol,Medina,Clinical Pathology,+1-366-551-0251,9,14,carol.medina@NLH.com,1,661
-661,Joseph,Reynolds,Hospital Medicine,206.605.1743x5767,22,14,joseph.reynolds@NLH.com,1,662
-662,Michael,Reilly,Minimally Invasive Surgery,259.549.3939x1354,13,14,michael.reilly@NLH.com,1,663
-663,Thomas,Hodge,Interventional Cardiology,882-372-1894x35541,27,14,thomas.hodge@NLH.com,1,664
-664,Walter,Day,Cardiac Imaging,642.223.2134,4,14,walter.day@NLH.com,1,665
-665,Ann,Buchanan,Cytopathology,599-451-1618x2079,25,14,ann.buchanan@NLH.com,1,666
-666,Stephanie,Henderson,Child and Adolescent Psychiatry,+1-966-771-2411x774,11,14,stephanie.henderson@NLH.com,1,667
-667,Andrea,Norton,Cytopathology,(970)761-2307,5,14,andrea.norton@NLH.com,1,668
-668,Michael,Soto,Neonatal ICU,001-797-454-3089x5127,4,14,michael.soto@NLH.com,1,669
-669,Cindy,Kim,Neonatal ICU,001-812-272-1647x0858,23,14,cindy.kim@NLH.com,1,670
-670,Tiffany,Campbell,Toxicology,001-994-690-9242x477,20,14,tiffany.campbell@NLH.com,1,671
-671,Alexander,Martinez,Neonatal ICU,(310)536-0363,27,14,alexander.martinez@NLH.com,1,672
-672,Keith,Ferguson,Spine Surgery,+1-683-296-2119x693,2,14,keith.ferguson@NLH.com,1,673
-673,Corey,Cain,Pediatric Rheumatology,297.459.6003x818,17,14,corey.cain@NLH.com,1,674
-674,Michael,Lee,Surgical Oncology,001-634-621-2510x091,25,14,michael.lee@NLH.com,1,675
-675,Ryan,Russo,Diabetes,425-619-8338x22942,23,14,ryan.russo@NLH.com,1,676
-676,Susan,Gilbert,Medical ICU,432.464.4830,8,14,susan.gilbert@NLH.com,1,677
-677,Nicole,Fleming,Hospital Medicine,8975161805,23,14,nicole.fleming@NLH.com,1,678
-678,David,Grant,Lupus,(728)867-4809,12,14,david.grant@NLH.com,1,679
-679,Brooke,Lopez,Hematopathology,(886)573-7596x632,1,14,brooke.lopez@NLH.com,1,680
-680,John,Parker,Cardiac ICU,5065871504,30,14,john.parker@NLH.com,1,681
-681,Melanie,Davis,Pediatric Rheumatology,280-410-2461x637,31,14,melanie.davis@NLH.com,1,682
-682,Abigail,Gregory,Child and Adolescent Psychiatry,799-324-3085x7010,4,14,abigail.gregory@NLH.com,1,683
-683,Michelle,Brooks,Mohs Surgery,(664)446-3907x2644,17,14,michelle.brooks@NLH.com,1,684
-684,Paul,Mcmahon,Medical Oncology,001-419-405-7431x7829,34,14,paul.mcmahon@NLH.com,1,685
-685,Tara,Bailey,Dermatopathology,407-573-1293x62706,6,14,tara.bailey@NLH.com,1,686
-686,Rebecca,Fox,Toxicology,(308)290-2874x4887,23,14,rebecca.fox@NLH.com,1,687
-687,Angel,Franklin,Medical Oncology,7287979185,31,14,angel.franklin@NLH.com,1,688
-688,Matthew,Frazier,Sports Medicine,+1-457-983-6055x613,10,14,matthew.frazier@NLH.com,1,689
-689,Amy,Luna,Consultation-Liaison Psychiatry,448.858.2034x517,19,14,amy.luna@NLH.com,1,690
-690,Kelsey,Davis,Diabetes,318.721.4638,1,14,kelsey.davis@NLH.com,1,691
-691,Kristy,Powers,Forensic Psychiatry,001-522-202-2242,22,14,kristy.powers@NLH.com,1,692
-692,Carla,Nguyen,Rheumatoid Arthritis,468-698-2958x42671,10,14,carla.nguyen@NLH.com,1,693
-693,Kayla,Moore,Rheumatoid Arthritis,+1-557-743-0760x4381,12,14,kayla.moore@NLH.com,1,694
-694,Jesus,White,Colorectal Surgery,352-599-1118,16,14,jesus.white@NLH.com,1,695
-695,Raymond,Wright,Primary Care,(511)998-5859x696,2,14,raymond.wright@NLH.com,1,696
-696,Bradley,Sweeney,Pediatric Oncology,407-595-1411,26,14,bradley.sweeney@NLH.com,1,697
-697,Jeffrey,Williams,Sports Medicine,001-371-533-7392x33323,15,14,jeffrey.williams@NLH.com,1,698
-698,Eric,Wilson,Rheumatoid Arthritis,001-684-575-2224x4948,19,14,eric.wilson@NLH.com,1,699
-699,Shirley,White,Cosmetic Dermatology,5723721556,11,14,shirley.white@NLH.com,1,700
-700,Joseph,Moore,Geriatric Psychiatry,317.597.4065x0433,23,15,joseph.moore@STMH.com,1,701
-701,Eric,Robles,Brain Tumor Surgery,+1-971-819-6498x4998,11,15,eric.robles@STMH.com,1,702
-702,Jessica,Gross,Craniofacial Surgery,001-823-470-1952x16172,30,15,jessica.gross@STMH.com,1,703
-703,Meredith,Williams,Travel Medicine,638.421.9622x54563,9,15,meredith.williams@STMH.com,1,704
-704,Kayla,Moreno,Neuromuscular Medicine,001-696-213-2385,1,15,kayla.moreno@STMH.com,1,705
-705,Emily,Jenkins,Brain Injury Rehabilitation,245.397.2938,1,15,emily.jenkins@STMH.com,1,706
-706,Crystal,Hawkins,Bone Marrow Transplant,+1-860-545-0076,12,15,crystal.hawkins@STMH.com,1,707
-707,Riley,Bishop,Surgical Oncology,(764)555-1521,2,15,riley.bishop@STMH.com,1,708
-708,Stacy,Gray,Cardiac Surgery,532-862-3173,21,15,stacy.gray@STMH.com,1,709
-709,Ian,Gray,Medical ICU,2904172997,3,15,ian.gray@STMH.com,1,710
-710,Jonathan,Kennedy,Head and Neck Surgery,748.535.9681x19816,8,15,jonathan.kennedy@STMH.com,1,711
-711,Brian,Ramos,Minimally Invasive Surgery,001-878-849-4220x22405,10,15,brian.ramos@STMH.com,1,712
-712,Francis,Martin,Kidney Transplant,495-287-9582,25,15,francis.martin@STMH.com,1,713
-713,Lisa,White,Spinal Cord Injury,5533789849,27,15,lisa.white@STMH.com,1,714
-714,Jamie,Clark,Vascular Neurosurgery,+1-504-217-6995,22,15,jamie.clark@STMH.com,1,715
-715,William,Vance,Brain Tumor Surgery,001-544-414-6086x123,9,15,william.vance@STMH.com,1,716
-716,Leslie,James,Addiction Psychiatry,(565)553-4452x0167,33,15,leslie.james@STMH.com,1,717
-717,Matthew,Martinez,Transplant Infectious Disease,(725)293-6337x060,35,15,matthew.martinez@STMH.com,1,718
-718,Karen,Rhodes,Craniofacial Surgery,809-304-7730x568,5,15,karen.rhodes@STMH.com,1,719
-719,Darrell,Pratt,Transplant Infectious Disease,332-486-3094,27,15,darrell.pratt@STMH.com,1,720
-720,Justin,Acosta,Esophageal Surgery,2168313670,23,15,justin.acosta@STMH.com,1,721
-721,Jose,Melton,Spine Surgery,001-519-884-1765,28,15,jose.melton@STMH.com,1,722
-722,Mark,Jordan,Neuromuscular Medicine,5686899000,16,15,mark.jordan@STMH.com,1,723
-723,Crystal,Lewis,Hospital Epidemiology,7419369348,25,15,crystal.lewis@STMH.com,1,724
-724,Mary,Haas,Malignant Hematology,+1-850-601-9494x68276,26,15,mary.haas@STMH.com,1,725
-725,Christine,Baker,Malignant Hematology,752-655-7578x627,31,15,christine.baker@STMH.com,1,726
-726,Jacob,Andrews,Neuromuscular Medicine,826.400.7238x3779,5,15,jacob.andrews@STMH.com,1,727
-727,Gwendolyn,Chang,Addiction Psychiatry,480-885-4885,18,15,gwendolyn.chang@STMH.com,1,728
-728,Mark,Barber,Minimally Invasive Surgery,801.350.5619x216,24,15,mark.barber@STMH.com,1,729
-729,Ronald,Lopez,Headache Medicine,865-596-2536,2,15,ronald.lopez@STMH.com,1,730
-730,Clayton,Whitaker,Craniofacial Surgery,507-466-6876x27542,16,15,clayton.whitaker@STMH.com,1,731
-731,Charles,White,Hand Surgery,723.946.2202x3114,3,15,charles.white@STMH.com,1,732
-732,Gilbert,Miller,Hemostasis and Thrombosis,001-836-366-2989,26,15,gilbert.miller@STMH.com,1,733
-733,Jacob,Freeman,Spine Surgery,(804)626-8721x8847,35,15,jacob.freeman@STMH.com,1,734
-734,Heidi,Phillips,Cardiac Surgery,(360)748-0984x3078,10,15,heidi.phillips@STMH.com,1,735
-735,Bradley,Frank,Bone Marrow Transplant,001-692-333-6540x398,2,15,bradley.frank@STMH.com,1,736
-736,Stephanie,Sanchez,Pediatric ENT,626-951-4451x85098,26,15,stephanie.sanchez@STMH.com,1,737
-737,Taylor,Oneill,Lung Surgery,270.702.6210x366,7,15,taylor.oneill@STMH.com,1,738
-738,Katie,Stokes,Hospital Epidemiology,889.986.2709x36942,30,15,katie.stokes@STMH.com,1,739
-739,Anthony,Ford,Aesthetic Surgery,708-495-2557,11,15,anthony.ford@STMH.com,1,740
-740,Laura,Ross,Otology,(906)450-9878,31,15,laura.ross@STMH.com,1,741
-741,Maria,Garcia,Forensic Psychiatry,(715)293-0501x8858,11,15,maria.garcia@STMH.com,1,742
-742,Rachel,Weaver,Hematologic Oncology,(345)396-1125x95616,19,15,rachel.weaver@STMH.com,1,743
-743,Pamela,Turner,Esophageal Surgery,+1-228-862-6342x18498,8,15,pamela.turner@STMH.com,1,744
-744,Penny,Rodriguez,Hepatobiliary Surgery,925.612.3758,23,15,penny.rodriguez@STMH.com,1,745
-745,Shaun,Chavez,Cardiac Surgery,7175494691,23,15,shaun.chavez@STMH.com,1,746
-746,Crystal,Morales,Pediatric Oncology,(659)650-7725x34565,34,15,crystal.morales@STMH.com,1,747
-747,Thomas,Blanchard,HIV/AIDS,+1-479-356-1004x33982,13,15,thomas.blanchard@STMH.com,1,748
-748,Tom,Peterson,Hepatobiliary Surgery,+1-755-557-7450x600,12,15,tom.peterson@STMH.com,1,749
-749,Amy,Rush,Hypertension,+1-226-362-6422x32936,19,15,amy.rush@STMH.com,1,750
-750,Joshua,Ortiz,Breast Imaging,232-220-5544x1051,3,16,joshua.ortiz@SRMH.com,1,751
-751,Jason,Martinez,Hepatobiliary Surgery,(414)798-2608x3270,28,16,jason.martinez@SRMH.com,1,752
-752,Matthew,Kim,HIV/AIDS,+1-875-258-0898x33622,27,16,matthew.kim@SRMH.com,1,753
-753,Brandon,Knight,Musculoskeletal Radiology,273-906-6706x366,25,16,brandon.knight@SRMH.com,1,754
-754,Jeffrey,Brewer,Transplant Infectious Disease,+1-511-515-1018x2427,23,16,jeffrey.brewer@SRMH.com,1,755
-755,Emily,Nguyen,Colorectal Surgery,+1-451-649-8711x16348,9,16,emily.nguyen@SRMH.com,1,756
-756,Thomas,Clark,Interventional Radiology,697.460.2589x4130,23,16,thomas.clark@SRMH.com,1,757
-757,Christine,Torres,Colorectal Surgery,354.201.7800,2,16,christine.torres@SRMH.com,1,758
-758,Jeffrey,Anderson,Breast Surgery,001-405-720-1951,26,16,jeffrey.anderson@SRMH.com,1,759
-759,Felicia,Dyer,Breast Imaging,001-504-977-0068x56213,5,16,felicia.dyer@SRMH.com,1,760
-760,Rhonda,Farrell,HIV/AIDS,617-520-9234,28,16,rhonda.farrell@SRMH.com,1,761
-761,Thomas,Rojas,Transplant Infectious Disease,921-760-8730x0619,11,16,thomas.rojas@SRMH.com,1,762
-762,Sarah,Armstrong,Transplant Infectious Disease,755.730.0355x387,14,16,sarah.armstrong@SRMH.com,1,763
-763,Eric,Christensen,Transplant Infectious Disease,(795)236-5655,15,16,eric.christensen@SRMH.com,1,764
-764,Alex,Murillo,HIV/AIDS,001-586-388-2334,34,16,alex.murillo@SRMH.com,1,765
-765,Veronica,Tyler,Transplant Infectious Disease,674.364.6665x1804,32,16,veronica.tyler@SRMH.com,1,766
-766,Chelsea,Henderson,Hepatobiliary Surgery,358.688.4869x317,19,16,chelsea.henderson@SRMH.com,1,767
-767,Tyler,Jackson,Bariatric Surgery,345-394-9339x62310,22,16,tyler.jackson@SRMH.com,1,768
-768,Christopher,Vasquez,Nuclear Medicine,001-540-392-6219x44997,8,16,christopher.vasquez@SRMH.com,1,769
-769,Melissa,Wilson,Hospital Epidemiology,(514)528-3633x9179,17,16,melissa.wilson@SRMH.com,1,770
-770,Ann,Holland,Transplant Infectious Disease,+1-369-261-5816x022,22,16,ann.holland@SRMH.com,1,771
-771,Nicholas,Crawford,Bariatric Surgery,(385)692-3196x97956,33,16,nicholas.crawford@SRMH.com,1,772
-772,Michael,Moore,Travel Medicine,001-504-298-5198x31777,35,16,michael.moore@SRMH.com,1,773
-773,Lynn,Sanchez,Nuclear Medicine,935-261-3288x96916,10,16,lynn.sanchez@SRMH.com,1,774
-774,Donald,White,Breast Surgery,887-795-7403,20,16,donald.white@SRMH.com,1,775
-775,Kelly,Wright,Transplant Infectious Disease,+1-778-536-6469,25,16,kelly.wright@SRMH.com,1,776
-776,Julie,Bowen,Travel Medicine,820.933.6836x106,25,16,julie.bowen@SRMH.com,1,777
-777,Frederick,Duncan,Breast Imaging,+1-629-222-1108x4830,33,16,frederick.duncan@SRMH.com,1,778
-778,Brittney,Graves,Hepatobiliary Surgery,001-904-224-6940x4372,27,16,brittney.graves@SRMH.com,1,779
-779,Patrick,Beck,Breast Surgery,445-307-4890,7,16,patrick.beck@SRMH.com,1,780
-780,Jamie,Ballard,Bariatric Surgery,924.289.6024,10,16,jamie.ballard@SRMH.com,1,781
-781,Megan,Freeman,Neuroradiology,440.994.3598x88286,1,16,megan.freeman@SRMH.com,1,782
-782,Jessica,Peterson,Minimally Invasive Surgery,(398)285-5955x299,34,16,jessica.peterson@SRMH.com,1,783
-783,Karen,Long,Interventional Radiology,5797386646,14,16,karen.long@SRMH.com,1,784
-784,Donna,Smith,Pediatric Radiology,341.807.8695x406,33,16,donna.smith@SRMH.com,1,785
-785,Michael,Donovan,Interventional Radiology,+1-275-518-8049x187,18,16,michael.donovan@SRMH.com,1,786
-786,Jesus,Alexander,Transplant Infectious Disease,6002466683,25,16,jesus.alexander@SRMH.com,1,787
-787,Jeffrey,Ford,Interventional Radiology,436.451.3090x7315,3,16,jeffrey.ford@SRMH.com,1,788
-788,Tracy,Deleon,Interventional Radiology,001-885-301-3767x970,8,16,tracy.deleon@SRMH.com,1,789
-789,Seth,Jones,Musculoskeletal Radiology,562-322-5631x64630,31,16,seth.jones@SRMH.com,1,790
-790,Anthony,Gomez,Travel Medicine,693.250.4229x403,7,16,anthony.gomez@SRMH.com,1,791
-791,Tamara,Cabrera,Bariatric Surgery,001-741-691-6687,29,16,tamara.cabrera@SRMH.com,1,792
-792,Jacqueline,Chapman,Hepatobiliary Surgery,001-849-402-8683,17,16,jacqueline.chapman@SRMH.com,1,793
-793,Stephanie,Mcintosh,Nuclear Medicine,(691)497-5889,32,16,stephanie.mcintosh@SRMH.com,1,794
-794,Danielle,Padilla,Transplant Infectious Disease,001-599-566-5475x9156,11,16,danielle.padilla@SRMH.com,1,795
-795,Tara,Molina,HIV/AIDS,001-809-355-8393x528,33,16,tara.molina@SRMH.com,1,796
-796,Sandra,Washington,Transplant Infectious Disease,867.369.4029,2,16,sandra.washington@SRMH.com,1,797
-797,Ashley,Perry,Transplant Infectious Disease,001-932-765-7902,34,16,ashley.perry@SRMH.com,1,798
-798,Charles,Gallagher,Hospital Epidemiology,3947064958,14,16,charles.gallagher@SRMH.com,1,799
-799,Christopher,Bauer,Hospital Epidemiology,2868167835,26,16,christopher.bauer@SRMH.com,1,800
-800,Wayne,Watts,Heart Failure,789.896.3030x44867,2,17,wayne.watts@SMH.com,1,801
-801,Patrick,Mathis,Inflammatory Bowel Disease,747.830.9468x361,25,17,patrick.mathis@SMH.com,1,802
-802,Rebecca,Walter,Brain Tumor Surgery,5675302889,29,17,rebecca.walter@SMH.com,1,803
-803,Tracy,Romero,Aortic Surgery,631.438.8353x8785,4,17,tracy.romero@SMH.com,1,804
-804,Christopher,Turner,Forensic Psychiatry,+1-744-361-7796,6,17,christopher.turner@SMH.com,1,805
-805,Debbie,Owen,Pediatric Endocrinology,(894)514-0481x1372,22,17,debbie.owen@SMH.com,1,806
-806,Neil,Green,Pediatric Dermatology,001-827-824-2094x68208,33,17,neil.green@SMH.com,1,807
-807,Anna,Lee,Neuromuscular Medicine,(266)254-3754x952,3,17,anna.lee@SMH.com,1,808
-808,Jasmine,Strickland,Pain Management,(301)669-2297,7,17,jasmine.strickland@SMH.com,1,809
-809,James,Randall,Radiation Oncology,(853)282-3903,33,17,james.randall@SMH.com,1,810
-810,Joseph,Collier,Hospital Epidemiology,275.357.7814x914,26,17,joseph.collier@SMH.com,1,811
-811,Amanda,Lam,Pain Management,9096175785,17,17,amanda.lam@SMH.com,1,812
-812,Scott,Nguyen,Interventional Pulmonology,(760)727-9934x89437,15,17,scott.nguyen@SMH.com,1,813
-813,Heather,Avila,Endourology,+1-876-528-8186x71934,24,17,heather.avila@SMH.com,1,814
-814,David,Kim,Geriatric Medicine,+1-637-298-3940x4665,20,17,david.kim@SMH.com,1,815
-815,Jesse,Ross,Pediatric Cardiology,315.202.7508,10,17,jesse.ross@SMH.com,1,816
-816,Jessica,Mclaughlin,Forensic Psychiatry,(676)787-2109x9653,5,17,jessica.mclaughlin@SMH.com,1,817
-817,Lisa,Palmer,Critical Care Pulmonology,997-282-0743x53759,31,17,lisa.palmer@SMH.com,1,818
-818,Madeline,Page,Pancreatology,454.694.7958x8118,27,17,madeline.page@SMH.com,1,819
-819,Autumn,Durham,Diabetes,311-623-5238x463,17,17,autumn.durham@SMH.com,1,820
-820,Taylor,Novak,Hospital Epidemiology,8852228733,15,17,taylor.novak@SMH.com,1,821
-821,Isaac,Murillo,Child and Adolescent Psychiatry,210-684-6000x233,19,17,isaac.murillo@SMH.com,1,822
-822,Walter,Gutierrez,Surgical Oncology,+1-781-295-9329x3117,24,17,walter.gutierrez@SMH.com,1,823
-823,Nicholas,Moore,Dermatopathology,001-623-837-8487x0786,9,17,nicholas.moore@SMH.com,1,824
-824,Vanessa,Salazar,Diabetes,001-291-564-0010x12042,9,17,vanessa.salazar@SMH.com,1,825
-825,William,Thomas,Headache Medicine,305.547.3856x957,13,17,william.thomas@SMH.com,1,826
-826,Ashley,Franco,Urologic Oncology,303.241.6586x495,3,17,ashley.franco@SMH.com,1,827
-827,Courtney,Davis,Preventive Cardiology,270.769.3345,32,17,courtney.davis@SMH.com,1,828
-828,David,Howard,Child and Adolescent Psychiatry,(983)354-0383,31,17,david.howard@SMH.com,1,829
-829,Ann,Ramirez,Sports Rehabilitation,+1-985-349-9307x5672,22,17,ann.ramirez@SMH.com,1,830
-830,John,Chen,Urologic Oncology,555.996.5881x88425,1,17,john.chen@SMH.com,1,831
-831,Cynthia,Curtis,Epilepsy,712-251-4800x710,15,17,cynthia.curtis@SMH.com,1,832
-832,Laura,Lloyd,Male Infertility,(488)840-7318x03552,20,17,laura.lloyd@SMH.com,1,833
-833,Lori,Cole,Movement Disorders,001-579-550-2428,15,17,lori.cole@SMH.com,1,834
-834,Christine,Thomas,Diabetes,797-302-5611x96578,32,17,christine.thomas@SMH.com,1,835
-835,Michael,Johnson,Movement Disorders,454.382.4161x819,33,17,michael.johnson@SMH.com,1,836
-836,Gloria,Mcdowell,Heart Failure,001-932-939-6440x703,6,17,gloria.mcdowell@SMH.com,1,837
-837,Anthony,Taylor,Stroke Neurology,459.764.2980x55424,20,17,anthony.taylor@SMH.com,1,838
-838,Jillian,Day,Critical Care Anesthesia,(837)307-2460,28,17,jillian.day@SMH.com,1,839
-839,Gene,Myers,Pediatric Urology,536-642-4726,24,17,gene.myers@SMH.com,1,840
-840,Raymond,Fields,Mohs Surgery,530.717.5366x01583,10,17,raymond.fields@SMH.com,1,841
-841,Tanner,Benton,Pediatric Anesthesia,335-856-7382,19,17,tanner.benton@SMH.com,1,842
-842,Roy,Salazar,Endovascular Surgery,388.634.5531x592,31,17,roy.salazar@SMH.com,1,843
-843,James,Fritz,Cardiac Imaging,(885)396-2824x03870,23,17,james.fritz@SMH.com,1,844
-844,Angela,Robinson,Travel Medicine,001-767-732-5225x2685,25,17,angela.robinson@SMH.com,1,845
-845,Randy,Alexander,Consultation-Liaison Psychiatry,(575)329-0074,9,17,randy.alexander@SMH.com,1,846
-846,Alejandro,Wells,Spine Surgery,933.892.9348x0608,26,17,alejandro.wells@SMH.com,1,847
-847,Joe,Miller,Cosmetic Dermatology,001-759-953-9387x1102,33,17,joe.miller@SMH.com,1,848
-848,Russell,Goodwin,Pancreatology,001-721-649-4728x299,15,17,russell.goodwin@SMH.com,1,849
-849,Angela,Wagner,Travel Medicine,278-597-2769x16929,23,17,angela.wagner@SMH.com,1,850
-850,Deanna,Thomas,Pediatric Rheumatology,+1-387-585-2396x65386,18,18,deanna.thomas@JCH.com,1,851
-851,Melissa,King,Heart Failure,+1-886-403-0754x5264,26,18,melissa.king@JCH.com,1,852
-852,Ian,Randolph,Addiction Psychiatry,+1-307-834-9423x163,7,18,ian.randolph@JCH.com,1,853
-853,Cynthia,Ramirez,Male Infertility,848.398.6207,19,18,cynthia.ramirez@JCH.com,1,854
-854,Shannon,Lowe,Sports Medicine,726.660.8045x55134,29,18,shannon.lowe@JCH.com,1,855
-855,Erik,Huffman,Thyroid Disorders,001-732-247-6720,23,18,erik.huffman@JCH.com,1,856
-856,Matthew,Garcia,Pediatric Dermatology,+1-202-940-3890x102,12,18,matthew.garcia@JCH.com,1,857
-857,Caroline,Thompson,Reproductive Endocrinology,743-658-1950x5910,32,18,caroline.thompson@JCH.com,1,858
-858,Jonathan,Mendoza,Epilepsy,(628)447-1175,8,18,jonathan.mendoza@JCH.com,1,859
-859,Kevin,Mclean,Pain Management,755-560-2296x0406,25,18,kevin.mclean@JCH.com,1,860
-860,Ryan,Roach,Pediatric Gastroenterology,+1-732-573-5600x3673,33,18,ryan.roach@JCH.com,1,861
-861,Mark,Gallagher,Bone Marrow Transplant,394-364-2186x064,15,18,mark.gallagher@JCH.com,1,862
-862,Rachel,Mcclure,Pain Management,825.995.9990,33,18,rachel.mcclure@JCH.com,1,863
-863,Jessica,Caldwell,Sleep Medicine,403.983.8275x149,32,18,jessica.caldwell@JCH.com,1,864
-864,Emily,Duncan,Cardiac Surgery,001-718-888-7285,21,18,emily.duncan@JCH.com,1,865
-865,Rachael,Decker,Surgical Pathology,(257)436-7809,6,18,rachael.decker@JCH.com,1,866
-866,Deborah,Martin,General Internal Medicine,001-962-461-4323,21,18,deborah.martin@JCH.com,1,867
-867,Tyler,Walker,Pediatric ENT,001-330-740-8058x3783,15,18,tyler.walker@JCH.com,1,868
-868,Justin,Young,Lung Transplant,265-397-4420,4,18,justin.young@JCH.com,1,869
-869,Roberto,Chavez,Pediatric Orthopedics,4646623701,3,18,roberto.chavez@JCH.com,1,870
-870,Troy,Dorsey,Lung Surgery,(874)413-9986x654,6,18,troy.dorsey@JCH.com,1,871
-871,Richard,Long,Hemostasis and Thrombosis,834-530-2056x8238,13,18,richard.long@JCH.com,1,872
-872,Alexis,Davis,Osteoporosis,001-531-706-4992x229,12,18,alexis.davis@JCH.com,1,873
-873,Taylor,Dunn,Critical Care Pulmonology,(875)324-3580x732,12,18,taylor.dunn@JCH.com,1,874
-874,Heidi,Weaver,Sleep Medicine,+1-411-945-8581x619,2,18,heidi.weaver@JCH.com,1,875
-875,Joseph,Douglas,Pediatric Anesthesia,+1-619-660-1797x261,3,18,joseph.douglas@JCH.com,1,876
-876,Andre,Cook,Spinal Cord Injury,+1-554-997-3979,25,18,andre.cook@JCH.com,1,877
-877,Chad,Ramirez,Critical Care Anesthesia,001-475-731-9572x58937,1,18,chad.ramirez@JCH.com,1,878
-878,Jason,Rodriguez,Pediatric Dermatology,(572)974-0032x3953,8,18,jason.rodriguez@JCH.com,1,879
-879,Kelly,Mason,Headache Medicine,(834)636-1216x51002,13,18,kelly.mason@JCH.com,1,880
-880,Robert,Howe,Maternal-Fetal Medicine,871.418.2153x94530,30,18,robert.howe@JCH.com,1,881
-881,Katherine,Bryant,Rhinology,(464)819-9422,1,18,katherine.bryant@JCH.com,1,882
-882,Bradley,Parker,Endourology,001-616-958-8042x08085,27,18,bradley.parker@JCH.com,1,883
-883,Timothy,Miller,Head and Neck Surgery,789-990-4772x3070,35,18,timothy.miller@JCH.com,1,884
-884,Sara,Wilson,Pediatric Urology,(462)306-6325,15,18,sara.wilson@JCH.com,1,885
-885,Cynthia,Anderson,Thyroid Disorders,(294)838-2430,27,18,cynthia.anderson@JCH.com,1,886
-886,Daniel,Nichols,Bone Marrow Transplant,730.380.4159,31,18,daniel.nichols@JCH.com,1,887
-887,Laura,Nguyen,Spinal Cord Injury,001-683-744-5709,28,18,laura.nguyen@JCH.com,1,888
-888,Michael,Whitaker,Clinical Pathology,206.690.2497,25,18,michael.whitaker@JCH.com,1,889
-889,Samantha,Jones,Diabetes,970.809.6356,18,18,samantha.jones@JCH.com,1,890
-890,Diana,Martinez,Critical Care Pulmonology,(988)381-0840,23,18,diana.martinez@JCH.com,1,891
-891,Michael,Strong,Primary Care,(803)902-1879,22,18,michael.strong@JCH.com,1,892
-892,Lindsey,Nguyen,Mohs Surgery,001-239-293-7783,9,18,lindsey.nguyen@JCH.com,1,893
-893,Megan,Hoffman,Lupus,+1-703-960-2024x5307,17,18,megan.hoffman@JCH.com,1,894
-894,Susan,Harvey,Dermatopathology,285.954.5291,7,18,susan.harvey@JCH.com,1,895
-895,Brandon,Gross,Addiction Psychiatry,+1-632-229-9181x54294,2,18,brandon.gross@JCH.com,1,896
-896,Melissa,James,Rhinology,452.928.8263x318,9,18,melissa.james@JCH.com,1,897
-897,William,Patrick,Urogynecology,729-202-4732,14,18,william.patrick@JCH.com,1,898
-898,Jimmy,Graham,Endourology,509.601.3005x3070,21,18,jimmy.graham@JCH.com,1,899
-899,Jessica,Anderson,Thyroid Disorders,637-200-9947x5665,27,18,jessica.anderson@JCH.com,1,900
-900,Dale,Duran,Pediatric Radiology,672.631.1246x0187,33,19,dale.duran@WJCH.com,1,901
-901,Jeffrey,Mclaughlin,Interventional Cardiology,+1-822-290-2191x98487,7,19,jeffrey.mclaughlin@WJCH.com,1,902
-902,Michelle,Hall,Aortic Surgery,001-237-869-9643,31,19,michelle.hall@WJCH.com,1,903
-903,Nicholas,Bray,Medical Oncology,+1-251-731-3562x2117,33,19,nicholas.bray@WJCH.com,1,904
-904,Charles,Davis,General Internal Medicine,(281)831-5884x6442,31,19,charles.davis@WJCH.com,1,905
-905,Mark,Murphy,Spine Surgery,263-812-5289x05168,30,19,mark.murphy@WJCH.com,1,906
-906,Dawn,Martinez,Critical Care Anesthesia,+1-217-235-4076,22,19,dawn.martinez@WJCH.com,1,907
-907,Nicholas,Williams,Interventional Pulmonology,984-674-1361x752,27,19,nicholas.williams@WJCH.com,1,908
-908,Carl,Fischer,Lung Surgery,383.881.4317x0043,25,19,carl.fischer@WJCH.com,1,909
-909,Kelly,Vang,Neonatology,+1-742-850-1073,33,19,kelly.vang@WJCH.com,1,910
-910,John,Wilkinson,Cytopathology,001-733-277-5892x5370,15,19,john.wilkinson@WJCH.com,1,911
-911,Terri,Little,Breast Surgery,6502788688,16,19,terri.little@WJCH.com,1,912
-912,Charles,Miller,Osteoporosis,(608)240-0305x04796,31,19,charles.miller@WJCH.com,1,913
-913,Stacie,Gates,Urogynecology,001-746-787-7668x8347,2,19,stacie.gates@WJCH.com,1,914
-914,Terri,Larson,Hospital Epidemiology,+1-895-930-1905x25884,1,19,terri.larson@WJCH.com,1,915
-915,Shane,Johnson,Pain Management,616.909.8545x60042,29,19,shane.johnson@WJCH.com,1,916
-916,Maureen,Rogers,Geriatric Psychiatry,+1-939-890-0888x582,28,19,maureen.rogers@WJCH.com,1,917
-917,Jennifer,Peters,Pediatric Urology,+1-932-369-6036x08335,17,19,jennifer.peters@WJCH.com,1,918
-918,Sierra,Hayden,Mohs Surgery,728.347.7546x52975,31,19,sierra.hayden@WJCH.com,1,919
-919,Robin,Quinn,Thyroid Disorders,(824)794-6233,15,19,robin.quinn@WJCH.com,1,920
-920,Jennifer,Moon,Pediatric ENT,+1-300-289-0068x637,19,19,jennifer.moon@WJCH.com,1,921
-921,Robert,Kim,Radiation Oncology,001-988-347-4690x15726,32,19,robert.kim@WJCH.com,1,922
-922,David,Ellison,Geriatric Medicine,001-331-408-1210x311,34,19,david.ellison@WJCH.com,1,923
-923,Nicole,Lee,Diabetes,599-979-2994x2305,13,19,nicole.lee@WJCH.com,1,924
-924,Michael,Wells,Primary Care,(208)331-3721x780,34,19,michael.wells@WJCH.com,1,925
-925,Shelly,Davis,Critical Care Pulmonology,(802)754-3015x3349,4,19,shelly.davis@WJCH.com,1,926
-926,Kristen,Golden,Pediatric Urology,+1-633-919-9982,22,19,kristen.golden@WJCH.com,1,927
-927,Michael,Harmon,Surgical Pathology,635.356.9026x757,22,19,michael.harmon@WJCH.com,1,928
-928,Amy,Garcia,Endourology,+1-952-489-0565x2309,11,19,amy.garcia@WJCH.com,1,929
-929,Sierra,Bishop,Mohs Surgery,989.242.0987,25,19,sierra.bishop@WJCH.com,1,930
-930,Veronica,Walsh,Cardiac Imaging,(786)610-0132,13,19,veronica.walsh@WJCH.com,1,931
-931,Stacey,Quinn,Breast Imaging,(845)953-4510,32,19,stacey.quinn@WJCH.com,1,932
-932,Stephen,Gonzalez,Spine Surgery,+1-817-614-7939x685,11,19,stephen.gonzalez@WJCH.com,1,933
-933,Brad,Murphy,Mohs Surgery,320.713.3888x77815,4,19,brad.murphy@WJCH.com,1,934
-934,James,Davis,Osteoporosis,672-474-1729,34,19,james.davis@WJCH.com,1,935
-935,Hailey,Lee,Pediatric Emergency Medicine,001-810-504-4737x8935,21,19,hailey.lee@WJCH.com,1,936
-936,Ronald,Robertson,Endovascular Surgery,(419)636-4342,34,19,ronald.robertson@WJCH.com,1,937
-937,Michael,Ewing,Esophageal Surgery,(486)213-5622x649,28,19,michael.ewing@WJCH.com,1,938
-938,Michelle,Dunlap,Rhinology,+1-704-875-9293x10307,32,19,michelle.dunlap@WJCH.com,1,939
-939,Timothy,Wiggins,Nuclear Medicine,231-536-3373,14,19,timothy.wiggins@WJCH.com,1,940
-940,Deborah,White,Pediatric Radiology,(720)785-6156x0665,29,19,deborah.white@WJCH.com,1,941
-941,Jennifer,Pruitt,Endovascular Surgery,(356)551-8881x986,16,19,jennifer.pruitt@WJCH.com,1,942
-942,David,Jones,Hand Surgery,337-692-4097x481,21,19,david.jones@WJCH.com,1,943
-943,Vanessa,Lee,Interventional Pulmonology,959.943.9188,1,19,vanessa.lee@WJCH.com,1,944
-944,Michael,Meyers,Diabetes,(216)261-0375x84670,4,19,michael.meyers@WJCH.com,1,945
-945,Joel,Murphy,Thyroid Disorders,+1-827-770-8400x48216,16,19,joel.murphy@WJCH.com,1,946
-946,Richard,Sanchez,Pediatric Oncology,646-722-2924,15,19,richard.sanchez@WJCH.com,1,947
-947,Kathy,Morse,Hospital Medicine,(515)673-2778,34,19,kathy.morse@WJCH.com,1,948
-948,Carl,Brown,Pain Management,001-359-630-2758x735,19,19,carl.brown@WJCH.com,1,949
-949,Daniel,Mathis,Sleep Medicine,+1-541-428-9907x277,32,19,daniel.mathis@WJCH.com,1,950
-950,Cynthia,Coffey,Nuclear Medicine,001-939-326-0923x7659,13,20,cynthia.coffey@SHMC.com,1,951
-951,William,Mason,Electrophysiology,537-310-7027,24,20,william.mason@SHMC.com,1,952
-952,David,Lamb,Aortic Surgery,001-699-480-2655x99503,23,20,david.lamb@SHMC.com,1,953
-953,Melissa,Moore,Urogynecology,778-600-5690x9353,26,20,melissa.moore@SHMC.com,1,954
-954,Charles,Davis,Breast Imaging,382-659-2049x55215,21,20,charles.davis@SHMC.com,1,955
-955,Benjamin,Miller,Breast Imaging,+1-370-459-9146x5992,5,20,benjamin.miller@SHMC.com,1,956
-956,Heather,Carter,Electrophysiology,001-205-357-8582x37359,15,20,heather.carter@SHMC.com,1,957
-957,Darin,Fitzpatrick,Interventional Radiology,+1-837-416-7309,10,20,darin.fitzpatrick@SHMC.com,1,958
-958,Michelle,Bass,Preventive Cardiology,001-955-234-0915,30,20,michelle.bass@SHMC.com,1,959
-959,Gabriel,Jones,Cardiac Imaging,(272)594-6280x2426,35,20,gabriel.jones@SHMC.com,1,960
-960,Karen,Carpenter,Endovascular Surgery,709-439-2988,24,20,karen.carpenter@SHMC.com,1,961
-961,Jennifer,Lee,Cardiac Imaging,989.878.5957x1677,3,20,jennifer.lee@SHMC.com,1,962
-962,Tonya,Williamson,Endovascular Surgery,(760)564-0430x9445,26,20,tonya.williamson@SHMC.com,1,963
-963,Tiffany,Thomas,Electrophysiology,799-261-1627x408,6,20,tiffany.thomas@SHMC.com,1,964
-964,Taylor,Mcguire,Venous Surgery,(450)742-4144x567,27,20,taylor.mcguire@SHMC.com,1,965
-965,Jeremy,Cowan,Aortic Surgery,+1-398-940-3464x0537,14,20,jeremy.cowan@SHMC.com,1,966
-966,David,Cook,Cardiac Imaging,001-332-215-0490,1,20,david.cook@SHMC.com,1,967
-967,Nicole,Gonzalez,Nuclear Medicine,321-890-9970,9,20,nicole.gonzalez@SHMC.com,1,968
-968,Patricia,Bauer,Pediatric Radiology,963-270-8754,32,20,patricia.bauer@SHMC.com,1,969
-969,Nicole,Roy,Venous Surgery,001-659-677-3931,25,20,nicole.roy@SHMC.com,1,970
-970,Bill,Glover,Pediatric Radiology,578-322-3806x24583,35,20,bill.glover@SHMC.com,1,971
-971,James,Harris,Endovascular Surgery,001-592-222-2836x8684,6,20,james.harris@SHMC.com,1,972
-972,Sierra,Cooke,Pediatric Cardiology,(516)318-9199x538,32,20,sierra.cooke@SHMC.com,1,973
-973,Benjamin,Walter,Interventional Radiology,001-746-651-0010x458,14,20,benjamin.walter@SHMC.com,1,974
-974,Curtis,Solis,Breast Imaging,449-280-6821x4013,24,20,curtis.solis@SHMC.com,1,975
-975,Sabrina,Ramos,Venous Surgery,715-750-6148x64618,6,20,sabrina.ramos@SHMC.com,1,976
-976,Mark,Hughes,Maternal-Fetal Medicine,+1-732-267-7778,16,20,mark.hughes@SHMC.com,1,977
-977,Melissa,Anderson,Aortic Surgery,608.775.9633x45427,2,20,melissa.anderson@SHMC.com,1,978
-978,Gerald,Garcia,Aortic Surgery,310-224-9820x020,33,20,gerald.garcia@SHMC.com,1,979
-979,Scott,Williams,Heart Failure,001-444-560-2964x19417,10,20,scott.williams@SHMC.com,1,980
-980,Megan,Green,Preventive Cardiology,571.662.5963x5507,17,20,megan.green@SHMC.com,1,981
-981,Bryan,Brown,Interventional Radiology,914-286-6188x009,29,20,bryan.brown@SHMC.com,1,982
-982,Kiara,Garner,Musculoskeletal Radiology,(793)601-9736,15,20,kiara.garner@SHMC.com,1,983
-983,Kelly,Randall,Preventive Cardiology,307.325.1398x25177,25,20,kelly.randall@SHMC.com,1,984
-984,Emily,Bailey,Nuclear Medicine,322-743-8906,33,20,emily.bailey@SHMC.com,1,985
-985,Tonya,Thomas,Reproductive Endocrinology,(498)456-5027x304,15,20,tonya.thomas@SHMC.com,1,986
-986,Kristen,Eaton,Aortic Surgery,3333811778,17,20,kristen.eaton@SHMC.com,1,987
-987,Anna,Patterson,Interventional Cardiology,001-822-739-6830x9977,3,20,anna.patterson@SHMC.com,1,988
-988,Nicole,Hubbard,Gynecologic Oncology,+1-461-338-0511x554,21,20,nicole.hubbard@SHMC.com,1,989
-989,Erika,Diaz,General Obstetrics,4994636254,32,20,erika.diaz@SHMC.com,1,990
-990,John,Robinson,Maternal-Fetal Medicine,001-683-672-5660x91818,34,20,john.robinson@SHMC.com,1,991
-991,Andrew,Mcdonald,Breast Imaging,001-570-212-1931x0010,28,20,andrew.mcdonald@SHMC.com,1,992
-992,Shawn,Jones,Venous Surgery,001-941-642-2560x05387,25,20,shawn.jones@SHMC.com,1,993
-993,Erin,Benson,Maternal-Fetal Medicine,921-544-8679,8,20,erin.benson@SHMC.com,1,994
-994,Kevin,Fox,Breast Imaging,(688)513-7668x944,9,20,kevin.fox@SHMC.com,1,995
-995,Mackenzie,Torres,Gynecologic Oncology,001-255-374-3932x684,2,20,mackenzie.torres@SHMC.com,1,996
-996,Gabrielle,Warren,Interventional Cardiology,556.631.6292,28,20,gabrielle.warren@SHMC.com,1,997
-997,Megan,Barnes,Neuroradiology,+1-676-531-0859x50769,3,20,megan.barnes@SHMC.com,1,998
-998,Theresa,Kennedy,Cardiac Imaging,+1-792-839-9582x158,18,20,theresa.kennedy@SHMC.com,1,999
-999,Robert,Good,Reproductive Endocrinology,(601)517-4387x987,25,20,robert.good@SHMC.com,1,1000
+doctor_id,first_name,last_name,specialization,phone_number,years_experience,hospital_id,email,department_id,doctor_rating
+1,Megan,Chang,Craniofacial Surgery,4043876475,27,1,megan.chang@NRCH.com,1,3.64
+2,Christine,King,Trauma Surgery,3927411578,17,1,christine.king@NRCH.com,2,3.0
+3,Ryan,Carr,Pediatric Radiology,3878784080,32,1,ryan.carr@NRCH.com,3,2.51
+4,Jennifer,Glover,Hematopathology,9093753513,20,1,jennifer.glover@NRCH.com,4,2.71
+5,Christopher,Flores,Hand Surgery,6719484185,23,1,christopher.flores@NRCH.com,5,3.55
+6,Christopher,Yates,Laryngology,4932423209,14,1,christopher.yates@NRCH.com,6,3.8
+7,Megan,Villanueva,General Obstetrics,6689483396,9,1,megan.villanueva@NRCH.com,7,3.97
+8,Travis,Davidson,Addiction Psychiatry,6513591795,9,1,travis.davidson@NRCH.com,8,3.0
+9,Janice,Watson,Hospital Medicine,3562012309,17,1,janice.watson@NRCH.com,9,2.76
+10,David,Lopez,Interventional Pulmonology,5164151090,20,1,david.lopez@NRCH.com,10,2.8
+11,Jennifer,Mendoza,Medical ICU,8004869141,5,1,jennifer.mendoza@NRCH.com,11,3.4
+12,Bruce,Mcdonald,Sports Rehabilitation,4167345792,31,1,bruce.mcdonald@NRCH.com,12,3.42
+13,Alyssa,Wilson,Diabetes,2209769845,23,1,alyssa.wilson@NRCH.com,13,3.31
+14,Judith,Rogers,Pediatric Oncology,7844237594,21,1,judith.rogers@NRCH.com,14,4.23
+15,Jennifer,Hughes,Aortic Surgery,8108935233,14,1,jennifer.hughes@NRCH.com,15,2.46
+16,Kelsey,Fletcher,Bone Marrow Transplant,2712427878,29,1,kelsey.fletcher@NRCH.com,16,3.33
+17,Troy,Collins,Pediatric Neurosurgery,5062381206,4,1,troy.collins@NRCH.com,17,3.84
+18,Jennifer,Smith,Lupus,3892131934,6,1,jennifer.smith@NRCH.com,18,3.31
+19,Joshua,Chavez,Male Infertility,2422851240,1,1,joshua.chavez@NRCH.com,19,3.46
+20,Jamie,Green,Headache Medicine,6592097765,32,1,jamie.green@NRCH.com,20,2.48
+21,Dillon,Nelson,Travel Medicine,4516590042,16,1,dillon.nelson@NRCH.com,21,2.58
+22,Danny,Cross,Toxicology,8423814654,5,1,danny.cross@NRCH.com,22,3.35
+23,Cory,Kerr,Electrophysiology,8553171760,15,1,cory.kerr@NRCH.com,23,2.14
+24,Cameron,Miller,Pediatric Anesthesia,5308601688,10,1,cameron.miller@NRCH.com,24,3.25
+25,Christopher,Robinson,Glomerular Disease,3929635110,6,1,christopher.robinson@NRCH.com,25,2.79
+26,Raymond,Clark,Cardiac Surgery,4393213765,21,1,raymond.clark@NRCH.com,26,3.69
+27,Vanessa,Bird,Oculoplastic Surgery,5965687577,32,1,vanessa.bird@NRCH.com,27,3.71
+28,Alec,Thornton,Hepatology,3553082492,20,1,alec.thornton@NRCH.com,28,3.6
+29,Zachary,Sexton,Headache Medicine,4329040752,19,1,zachary.sexton@NRCH.com,20,3.33
+30,Tanya,Wagner,Trauma Emergency,9808918916,22,1,tanya.wagner@NRCH.com,22,4.21
+31,Catherine,Hall,Malignant Hematology,9026489451,19,1,catherine.hall@NRCH.com,16,3.81
+32,Sherri,Turner,Glomerular Disease,9663022345,6,1,sherri.turner@NRCH.com,25,3.83
+33,Emily,Hernandez,Pediatric Radiology,2604976701,25,1,emily.hernandez@NRCH.com,3,3.98
+34,Crystal,Garcia,Primary Care,7533671097,16,1,crystal.garcia@NRCH.com,9,2.85
+35,Tara,Reeves,Hypertension,7263418306,12,1,tara.reeves@NRCH.com,25,3.42
+36,Sue,Winters,Thyroid Disorders,3748089933,12,1,sue.winters@NRCH.com,13,2.92
+37,William,Dougherty,Medical ICU,8694611611,17,1,william.dougherty@NRCH.com,11,3.76
+38,Jessica,Johnson,Pediatric Rheumatology,2667075415,5,1,jessica.johnson@NRCH.com,18,3.99
+39,Michael,Smith,Hepatology,2516923031,9,1,michael.smith@NRCH.com,28,4.06
+40,Mike,Johnson,Interventional Pulmonology,7327271754,3,1,mike.johnson@NRCH.com,10,2.81
+41,Thomas,Carter,Benign Hematology,4528911894,35,1,thomas.carter@NRCH.com,16,3.43
+42,Rachael,Bautista,Nuclear Medicine,2584332456,26,1,rachael.bautista@NRCH.com,3,3.17
+43,Carolyn,Long,Sports Rehabilitation,3125648629,34,1,carolyn.long@NRCH.com,12,2.83
+44,Sean,Wood,Thyroid Disorders,3066606573,14,1,sean.wood@NRCH.com,13,3.38
+45,Daniel,Jacobs,Pain Management,7764266237,18,1,daniel.jacobs@NRCH.com,12,3.7
+46,Michael,Welch,Pediatric Endocrinology,5736407970,32,1,michael.welch@NRCH.com,13,3.18
+47,Danny,Irwin,Addiction Psychiatry,3896267173,6,1,danny.irwin@NRCH.com,8,3.9
+48,Nicole,Williams,Movement Disorders,3682967145,8,1,nicole.williams@NRCH.com,20,2.96
+49,Chad,Baker,Hematopathology,6514832164,22,1,chad.baker@NRCH.com,4,3.48
+50,Audrey,Burton,Geriatric Medicine,4164864475,16,1,audrey.burton@NRCH.com,9,3.42
+51,David,Martinez,Pediatric Oncology,7979284576,27,2,david.martinez@PLGH.com,29,3.81
+52,Denise,Brown,Endovascular Surgery,3278093057,17,2,denise.brown@PLGH.com,30,3.09
+53,Adam,Williams,Pediatric Radiology,7048432943,32,2,adam.williams@PLGH.com,31,3.15
+54,Gary,Fisher,Preventive Cardiology,9628728523,20,2,gary.fisher@PLGH.com,32,3.44
+55,Jessica,Pope,Forensic Psychiatry,5396060312,23,2,jessica.pope@PLGH.com,33,2.63
+56,Cheyenne,Bush,Brain Tumor Surgery,5457670886,33,2,cheyenne.bush@PLGH.com,34,3.09
+57,Joseph,Williams,Rheumatoid Arthritis,8505402163,19,2,joseph.williams@PLGH.com,35,3.43
+58,Shawn,Morgan,Geriatric Medicine,2912558754,7,2,shawn.morgan@PLGH.com,36,2.78
+59,James,Miller,Sleep Medicine,6533344486,35,2,james.miller@PLGH.com,37,3.27
+60,Albert,Simpson,Endourology,8065777111,10,2,albert.simpson@PLGH.com,38,2.27
+61,Scott,Jones,Cosmetic Dermatology,6865023732,7,2,scott.jones@PLGH.com,39,2.87
+62,Jennifer,Waters,Surgical Pathology,5976844301,22,2,jennifer.waters@PLGH.com,40,2.65
+63,Nichole,Osborn,Hand Surgery,7885601641,7,2,nichole.osborn@PLGH.com,41,2.43
+64,Emily,Warner,Movement Disorders,4432318453,28,2,emily.warner@PLGH.com,42,2.79
+65,Angela,Murphy,Reproductive Endocrinology,5029622812,14,2,angela.murphy@PLGH.com,43,3.67
+66,Ashley,Dominguez,Oculoplastic Surgery,9323365992,31,2,ashley.dominguez@PLGH.com,44,3.0
+67,Christina,Johnson,Pancreatology,7573740382,34,2,christina.johnson@PLGH.com,45,2.97
+68,Jonathon,Munoz,Developmental Pediatrics,5356460305,4,2,jonathon.munoz@PLGH.com,46,2.71
+69,Max,Martin,Lupus,2592802507,6,2,max.martin@PLGH.com,35,3.45
+70,John,Smith,Pediatric Ophthalmology,4517056237,1,2,john.smith@PLGH.com,44,4.38
+71,Jessica,Floyd,Pediatric Orthopedics,2604648870,32,2,jessica.floyd@PLGH.com,41,3.86
+72,Christy,Stanley,Foot and Ankle Surgery,3219532302,22,2,christy.stanley@PLGH.com,41,3.44
+73,Jennifer,Mendez,Pediatric Urology,6454600715,21,2,jennifer.mendez@PLGH.com,38,4.26
+74,Stephen,Romero,Nuclear Medicine,6659476048,5,2,stephen.romero@PLGH.com,31,3.53
+75,Tiffany,Mejia,Rheumatoid Arthritis,9842076165,15,2,tiffany.mejia@PLGH.com,35,2.46
+76,Andrew,Singh,Interventional Pulmonology,6495438856,10,2,andrew.singh@PLGH.com,37,2.95
+77,Darren,Holden,Vascular Neurosurgery,2984522509,6,2,darren.holden@PLGH.com,34,3.01
+78,Stephanie,Cox,Hepatology,4457769620,21,2,stephanie.cox@PLGH.com,45,3.79
+79,Sarah,Fry,Pancreatology,3498318642,7,2,sarah.fry@PLGH.com,45,3.57
+80,Karen,Baker,Movement Disorders,2064448885,19,2,karen.baker@PLGH.com,42,3.59
+81,Kristen,Miles,Surgical Pathology,2657708693,22,2,kristen.miles@PLGH.com,40,3.25
+82,Allison,Pugh,Headache Medicine,5359703934,14,2,allison.pugh@PLGH.com,42,3.98
+83,Michelle,Jacobson,Pediatric Pulmonology,7133271664,19,2,michelle.jacobson@PLGH.com,46,3.51
+84,Kurt,Vasquez,Vascular Neurosurgery,6437666609,6,2,kurt.vasquez@PLGH.com,34,3.06
+85,Lynn,Sanders,Endourology,7202195501,25,2,lynn.sanders@PLGH.com,38,4.01
+86,Leroy,Whitehead,Advanced Endoscopy,2462292648,16,2,leroy.whitehead@PLGH.com,45,3.65
+87,Madison,Vazquez,Osteoporosis,7626591182,12,2,madison.vazquez@PLGH.com,35,3.09
+88,Kimberly,Holmes,Clinical Pathology,5279820928,12,2,kimberly.holmes@PLGH.com,40,2.99
+89,Cheryl,Burnett,Retina Surgery,8257278081,17,2,cheryl.burnett@PLGH.com,44,3.47
+90,Ashley,Rogers,Pancreatology,2858125022,5,2,ashley.rogers@PLGH.com,45,4.02
+91,Deanna,Hale,Retina Surgery,6099251607,9,2,deanna.hale@PLGH.com,44,2.65
+92,Robert,Johnson,Neuroradiology,2367151105,3,2,robert.johnson@PLGH.com,31,3.66
+93,Stephen,Spencer,Interventional Cardiology,7777108640,35,2,stephen.spencer@PLGH.com,32,2.64
+94,Stephanie,Ruiz,Nuclear Medicine,4284400652,26,2,stephanie.ruiz@PLGH.com,31,3.48
+95,Greg,Mccall,Osteoporosis,5397507603,34,2,greg.mccall@PLGH.com,35,4.27
+96,Jeremy,Johns,Electrophysiology,4592269029,14,2,jeremy.johns@PLGH.com,32,3.23
+97,Anthony,Morris,Mohs Surgery,2008199226,18,2,anthony.morris@PLGH.com,39,4.4
+98,Samuel,Mcintyre,Vascular Neurosurgery,8328583861,32,2,samuel.mcintyre@PLGH.com,34,3.85
+99,John,James,Glaucoma,9375691448,6,2,john.james@PLGH.com,44,4.12
+100,Joshua,Carr,Cosmetic Dermatology,9184026066,8,2,joshua.carr@PLGH.com,39,3.21
+101,Gene,Wells,Craniofacial Surgery,9942815525,27,3,gene.wells@NKCH.com,47,3.62
+102,James,Bernard,Trauma Surgery,2958460486,17,3,james.bernard@NKCH.com,48,2.22
+103,Joseph,Luna,Pediatric Radiology,3223195206,32,3,joseph.luna@NKCH.com,49,3.22
+104,Kimberly,Gardner,Hand Surgery,4229232308,20,3,kimberly.gardner@NKCH.com,50,3.39
+105,Michael,Macias,Pediatric ENT,6455164258,23,3,michael.macias@NKCH.com,51,3.08
+106,Nicole,Riddle,General Obstetrics,3675846612,14,3,nicole.riddle@NKCH.com,52,3.06
+107,Caitlin,Morrison,Consultation-Liaison Psychiatry,9147926100,9,3,caitlin.morrison@NKCH.com,53,3.37
+108,Breanna,King,Primary Care,5329881820,9,3,breanna.king@NKCH.com,54,3.02
+109,Jean,Sullivan,Critical Care Pulmonology,3928627906,17,3,jean.sullivan@NKCH.com,55,3.66
+110,Matthew,Hunter,Thyroid Disorders,4075914878,20,3,matthew.hunter@NKCH.com,56,2.23
+111,Amber,Moore,Medical Oncology,9275117696,5,3,amber.moore@NKCH.com,57,2.32
+112,Lisa,Phillips,Aortic Surgery,9123029830,22,3,lisa.phillips@NKCH.com,58,2.72
+113,Sarah,Hansen,Bone Marrow Transplant,7513033744,7,3,sarah.hansen@NKCH.com,59,3.52
+114,Chris,Berry,Osteoporosis,6568234375,28,3,chris.berry@NKCH.com,60,3.05
+115,Cheryl,Guerra,Female Urology,6657873556,14,3,cheryl.guerra@NKCH.com,61,3.29
+116,Teresa,Saunders,Mohs Surgery,9415741725,29,3,teresa.saunders@NKCH.com,62,3.81
+117,Daniel,Reyes,Headache Medicine,2783799368,17,3,daniel.reyes@NKCH.com,63,3.04
+118,Thomas,Long,HIV/AIDS,7604906143,1,3,thomas.long@NKCH.com,64,3.01
+119,Daniel,Robles,Trauma Emergency,5033006802,26,3,daniel.robles@NKCH.com,65,3.43
+120,Joyce,Gonzalez,Cardiac Imaging,8898618233,1,3,joyce.gonzalez@NKCH.com,66,3.25
+121,Thomas,Smith,Esophageal Surgery,7609940955,32,3,thomas.smith@NKCH.com,67,1.97
+122,Danielle,Carlson,Glaucoma,8415140292,16,3,danielle.carlson@NKCH.com,68,2.78
+123,Ashley,Keller,Advanced Endoscopy,9689818171,5,3,ashley.keller@NKCH.com,69,3.16
+124,Guy,Kelley,Electrophysiology,9645619853,15,3,guy.kelley@NKCH.com,66,3.01
+125,Michael,Rowe,Epilepsy,5079086736,10,3,michael.rowe@NKCH.com,63,4.02
+126,Justin,Valdez,Consultation-Liaison Psychiatry,7284134810,29,3,justin.valdez@NKCH.com,53,3.3
+127,Katie,Mcdonald,Benign Hematology,8364732605,6,3,katie.mcdonald@NKCH.com,59,3.01
+128,Cynthia,Williamson,Primary Care,2934970379,33,3,cynthia.williamson@NKCH.com,54,3.01
+129,John,Sawyer,Craniofacial Surgery,7319864573,7,3,john.sawyer@NKCH.com,47,3.04
+130,Peter,Branch,Heart Failure,8715231267,19,3,peter.branch@NKCH.com,66,3.16
+131,Christopher,Gutierrez,Retina Surgery,8683302874,22,3,christopher.gutierrez@NKCH.com,68,4.36
+132,Christian,Cordova,Transplant Infectious Disease,7034695410,19,3,christian.cordova@NKCH.com,64,3.49
+133,Steven,Rodriguez,Pediatric Endocrinology,4437668539,6,3,steven.rodriguez@NKCH.com,56,3.59
+134,Courtney,Elliott,Craniofacial Surgery,4874656016,21,3,courtney.elliott@NKCH.com,47,4.03
+135,Nicole,Wilson,Pediatric Dermatology,2307446154,19,3,nicole.wilson@NKCH.com,62,3.31
+136,Zachary,Smith,Cardiac Surgery,3043525198,13,3,zachary.smith@NKCH.com,67,3.5
+137,Michelle,Willis,Interventional Pulmonology,9087351832,3,3,michelle.willis@NKCH.com,55,3.33
+138,Eric,Le,Laryngology,6837375248,17,3,eric.le@NKCH.com,51,2.91
+139,Austin,Carr,Lung Surgery,8123438857,5,3,austin.carr@NKCH.com,67,2.99
+140,Christopher,Krause,Head and Neck Surgery,6242364000,9,3,christopher.krause@NKCH.com,51,2.46
+141,Krista,Wright,Cornea and External Disease,7829490664,3,3,krista.wright@NKCH.com,68,4.1
+142,Pamela,Erickson,Benign Hematology,4529803760,35,3,pamela.erickson@NKCH.com,59,3.72
+143,Alexis,Molina,Hospital Epidemiology,7615837446,34,3,alexis.molina@NKCH.com,64,3.75
+144,John,Walker,Hepatobiliary Surgery,4224848023,34,3,john.walker@NKCH.com,48,3.61
+145,Julie,Warren,Pediatric Dermatology,9403730626,14,3,julie.warren@NKCH.com,62,3.04
+146,David,Miller,Oculoplastic Surgery,8106367465,27,3,david.miller@NKCH.com,68,3.74
+147,Jessica,Stafford,Headache Medicine,5939300817,18,3,jessica.stafford@NKCH.com,63,3.11
+148,Jennifer,Prince,Craniofacial Surgery,4292840925,32,3,jennifer.prince@NKCH.com,47,2.67
+149,Timothy,Gross,Toxicology,6967574727,6,3,timothy.gross@NKCH.com,65,3.92
+150,Michael,Little,Travel Medicine,4694684933,8,3,michael.little@NKCH.com,64,3.65
+151,Lindsey,Holmes,Pain Management,2875546478,27,4,lindsey.holmes@SUH.com,70,3.61
+152,Tammy,Ellis,HIV/AIDS,4037914032,17,4,tammy.ellis@SUH.com,71,2.76
+153,Chelsea,Adams,Pediatric Pulmonology,3002924367,32,4,chelsea.adams@SUH.com,72,3.53
+154,Kayla,Smith,Lung Transplant,9454363522,20,4,kayla.smith@SUH.com,73,2.43
+155,Cheryl,Wagner,Lung Transplant,3308069028,23,4,cheryl.wagner@SUH.com,73,3.39
+156,Kyle,Schultz,Interventional Pulmonology,3939052547,33,4,kyle.schultz@SUH.com,73,4.09
+157,Linda,Moore,Pediatric Emergency Medicine,8844869762,19,4,linda.moore@SUH.com,72,4.45
+158,Gina,Hess,Pediatric Anesthesia,3192127416,7,4,gina.hess@SUH.com,70,3.78
+159,Blake,Smith,Sleep Medicine,5218667052,35,4,blake.smith@SUH.com,73,3.41
+160,Robyn,Orr,Adolescent Medicine,2969284668,10,4,robyn.orr@SUH.com,72,3.47
+161,Natalie,Thomas,Travel Medicine,6395219744,7,4,natalie.thomas@SUH.com,71,4.32
+162,Richard,Smith,Adolescent Medicine,7084104228,5,4,richard.smith@SUH.com,72,3.23
+163,Mark,Potter,Travel Medicine,3533475778,31,4,mark.potter@SUH.com,71,3.78
+164,Leslie,Reyes,Critical Care Pulmonology,3874868132,23,4,leslie.reyes@SUH.com,73,3.42
+165,Eric,Cruz,Pediatric Gastroenterology,8117849457,21,4,eric.cruz@SUH.com,72,2.88
+166,Julie,Conway,Critical Care Anesthesia,3859380655,14,4,julie.conway@SUH.com,70,3.46
+167,Daniel,Graham,Pediatric Pulmonology,4387088109,31,4,daniel.graham@SUH.com,72,3.49
+168,Joseph,Webb,Hospital Epidemiology,5032752078,34,4,joseph.webb@SUH.com,71,3.13
+169,Jasmine,Lutz,Travel Medicine,8295759569,4,4,jasmine.lutz@SUH.com,71,3.86
+170,Miguel,Phillips,HIV/AIDS,7434895739,6,4,miguel.phillips@SUH.com,71,2.47
+171,Marc,Thomas,Adolescent Medicine,5483289177,26,4,marc.thomas@SUH.com,72,3.11
+172,Amber,Conway,Adolescent Medicine,4649835650,1,4,amber.conway@SUH.com,72,3.93
+173,Christopher,Mason,Critical Care Anesthesia,9766560105,32,4,christopher.mason@SUH.com,70,3.59
+174,Amy,Perry,Travel Medicine,5532111809,16,4,amy.perry@SUH.com,71,2.86
+175,Blake,Davis,Neuroanesthesia,4415962998,5,4,blake.davis@SUH.com,70,2.93
+176,Derrick,Liu,Pediatric Anesthesia,2747294312,15,4,derrick.liu@SUH.com,70,3.53
+177,Amanda,Castillo,Pediatric Emergency Medicine,5412949302,10,4,amanda.castillo@SUH.com,72,3.37
+178,Robert,Thomas,Hospital Epidemiology,5086532757,6,4,robert.thomas@SUH.com,71,3.32
+179,Emma,Lopez,Neonatology,4748589434,21,4,emma.lopez@SUH.com,72,2.8
+180,Daniel,Lawrence,Hospital Epidemiology,9187272648,7,4,daniel.lawrence@SUH.com,71,3.26
+181,Nicholas,Williams,Developmental Pediatrics,8685289204,19,4,nicholas.williams@SUH.com,72,3.04
+182,Taylor,Myers,Adolescent Medicine,5185618720,8,4,taylor.myers@SUH.com,72,3.1
+183,John,George,Pediatric Pulmonology,5188383371,22,4,john.george@SUH.com,72,2.5
+184,Caroline,Hancock,Interventional Pulmonology,5792055303,19,4,caroline.hancock@SUH.com,73,3.04
+185,Douglas,Chavez,Pain Management,3949465419,6,4,douglas.chavez@SUH.com,70,3.62
+186,Mitchell,Howell,Hospital Epidemiology,7324630742,21,4,mitchell.howell@SUH.com,71,3.78
+187,Darrell,Morris,Interventional Pulmonology,6154334866,19,4,darrell.morris@SUH.com,73,2.55
+188,Alison,Greer,Pediatric Emergency Medicine,8524929643,13,4,alison.greer@SUH.com,72,4.16
+189,Mary,Evans,Pediatric Emergency Medicine,9916511738,3,4,mary.evans@SUH.com,72,3.57
+190,Jillian,Scott,Sleep Medicine,5622319827,31,4,jillian.scott@SUH.com,73,3.81
+191,Jeremy,Mann,Neonatology,6228992114,6,4,jeremy.mann@SUH.com,72,3.21
+192,Victoria,Erickson,Pediatric Anesthesia,6705554660,10,4,victoria.erickson@SUH.com,70,2.93
+193,Jason,Davis,Neonatology,4237837504,6,4,jason.davis@SUH.com,72,3.69
+194,Jennifer,Rios,Critical Care Anesthesia,2348174344,26,4,jennifer.rios@SUH.com,70,3.23
+195,Tammy,West,Travel Medicine,3488967998,34,4,tammy.west@SUH.com,71,3.2
+196,Jean,Gonzalez,Pediatric Emergency Medicine,3482629742,14,4,jean.gonzalez@SUH.com,72,3.97
+197,Ryan,Morris,Hospital Epidemiology,8358621357,18,4,ryan.morris@SUH.com,71,4.08
+198,Michael,Garcia,Pain Management,5878210867,32,4,michael.garcia@SUH.com,70,2.36
+199,Dana,Davis,Sleep Medicine,7492244818,6,4,dana.davis@SUH.com,73,3.94
+200,Tanya,Smith,Travel Medicine,3572335974,8,4,tanya.smith@SUH.com,71,2.99
+201,Daniel,Hardy,Pain Management,4819841189,27,5,daniel.hardy@ELCH.com,74,3.36
+202,Gabriel,Marshall,Medical Oncology,8275908601,17,5,gabriel.marshall@ELCH.com,75,3.02
+203,Jonathan,Reyes,Aortic Surgery,6987852609,32,5,jonathan.reyes@ELCH.com,76,2.86
+204,William,Kennedy,Craniofacial Surgery,6745542237,20,5,william.kennedy@ELCH.com,77,2.95
+205,Andrew,Garcia,Glomerular Disease,9827369582,23,5,andrew.garcia@ELCH.com,78,2.32
+206,Alexander,Bradley,Brain Injury Rehabilitation,5723188694,33,5,alexander.bradley@ELCH.com,79,3.29
+207,Ronnie,Stephens,Malignant Hematology,3507394678,19,5,ronnie.stephens@ELCH.com,80,2.74
+208,Nicholas,Gutierrez,Geriatric Medicine,8346768064,7,5,nicholas.gutierrez@ELCH.com,81,3.16
+209,Terry,Wood,Sleep Medicine,2927506774,35,5,terry.wood@ELCH.com,82,2.94
+210,Eric,Underwood,Esophageal Surgery,6118290320,10,5,eric.underwood@ELCH.com,83,2.96
+211,Scott,Rubio,Osteoporosis,6278211744,7,5,scott.rubio@ELCH.com,84,3.18
+212,Antonio,Wilkins,Dermatopathology,2713043748,22,5,antonio.wilkins@ELCH.com,85,3.01
+213,Miguel,Phillips,Hand Surgery,3004902927,7,5,miguel.phillips@ELCH.com,86,3.73
+214,Andrew,Newton,Cardiac ICU,8113191317,28,5,andrew.newton@ELCH.com,87,2.29
+215,Darin,Robbins,Otology,2825812568,14,5,darin.robbins@ELCH.com,88,3.28
+216,Clinton,Moody,Pediatric Endocrinology,8587589864,29,5,clinton.moody@ELCH.com,89,3.11
+217,Jill,Dunlap,Toxicology,6506002432,4,5,jill.dunlap@ELCH.com,90,1.88
+218,Lisa,Brennan,Pediatric Pulmonology,7555318724,1,5,lisa.brennan@ELCH.com,91,2.65
+219,Cynthia,Williamson,Medical Oncology,8352614685,26,5,cynthia.williamson@ELCH.com,75,2.5
+220,Tammy,Fisher,Reconstructive Surgery,6247041560,32,5,tammy.fisher@ELCH.com,77,3.98
+221,Sara,Carson,Reproductive Endocrinology,2122739991,16,5,sara.carson@ELCH.com,89,4.05
+222,Lauren,Moore,Reproductive Endocrinology,9639983083,5,5,lauren.moore@ELCH.com,89,3.26
+223,Brittany,Nixon,Geriatric Medicine,5519065273,15,5,brittany.nixon@ELCH.com,81,2.78
+224,Robert,Long,Endovascular Surgery,2666734129,10,5,robert.long@ELCH.com,76,4.25
+225,Rhonda,Curry,Pain Management,8249264865,6,5,rhonda.curry@ELCH.com,79,4.88
+226,Steven,King,Medical ICU,8442469807,21,5,steven.king@ELCH.com,87,3.33
+227,Tammy,Perry,Pediatric Pulmonology,9409076858,32,5,tammy.perry@ELCH.com,91,3.71
+228,Angela,Quinn,Dermatopathology,4929909534,20,5,angela.quinn@ELCH.com,85,2.65
+229,Courtney,Bird,Hypertension,6578274758,8,5,courtney.bird@ELCH.com,78,4.1
+230,Lisa,Santos,Pediatric Orthopedics,9149282215,22,5,lisa.santos@ELCH.com,86,3.69
+231,Christian,Mills,Aortic Surgery,4799294145,14,5,christian.mills@ELCH.com,76,3.5
+232,Roberta,Williams,Sports Rehabilitation,2199144952,29,5,roberta.williams@ELCH.com,79,3.64
+233,Richard,Chen,Cardiac Surgery,5648767626,25,5,richard.chen@ELCH.com,83,3.02
+234,Courtney,Lee,Sleep Medicine,4279554753,16,5,courtney.lee@ELCH.com,82,3.42
+235,Theresa,Bush,Hypertension,4723189975,12,5,theresa.bush@ELCH.com,78,4.1
+236,Donna,Martin,Pediatric Dermatology,4114655450,12,5,donna.martin@ELCH.com,85,3.1
+237,Thomas,Allen,Benign Hematology,2843106167,17,5,thomas.allen@ELCH.com,80,3.23
+238,Edward,Wilson,Hand Surgery,9916419913,5,5,edward.wilson@ELCH.com,86,4.03
+239,Kathryn,Sims,Dialysis,8646221385,9,5,kathryn.sims@ELCH.com,78,2.98
+240,Stephen,Brown,Brain Injury Rehabilitation,3277331276,3,5,stephen.brown@ELCH.com,79,3.78
+241,Dennis,Young,Head and Neck Surgery,2574597844,35,5,dennis.young@ELCH.com,88,3.96
+242,Joseph,Mason,Esophageal Surgery,8148721078,26,5,joseph.mason@ELCH.com,83,3.5
+243,Lonnie,Flynn,Cardiac ICU,3572280720,34,5,lonnie.flynn@ELCH.com,87,3.16
+244,Melissa,Hubbard,Foot and Ankle Surgery,7058431032,16,5,melissa.hubbard@ELCH.com,86,2.07
+245,Valerie,Lynn,Pediatric Emergency,8564360939,27,5,valerie.lynn@ELCH.com,90,3.72
+246,Kimberly,Brown,Cardiac ICU,6259447586,29,5,kimberly.brown@ELCH.com,87,3.77
+247,Lacey,Rivera,Mohs Surgery,4565403746,23,5,lacey.rivera@ELCH.com,85,3.25
+248,Christian,Huynh,Endovascular Surgery,2823927173,21,5,christian.huynh@ELCH.com,76,2.44
+249,Kristine,Sharp,Lupus,8229935511,32,5,kristine.sharp@ELCH.com,84,4.08
+250,David,Berry,Osteoporosis,4394399794,13,5,david.berry@ELCH.com,84,2.57
+251,Sandy,Baker,Pediatric Endocrinology,5527758116,27,6,sandy.baker@CC.com,92,3.53
+252,Sara,Lawrence,Benign Hematology,6179974360,17,6,sara.lawrence@CC.com,93,3.45
+253,Adam,Cain,Bone Marrow Transplant,8222895716,26,6,adam.cain@CC.com,93,2.88
+254,Lisa,Bryant,Reproductive Endocrinology,2247549277,31,6,lisa.bryant@CC.com,92,4.09
+255,Rebecca,Gutierrez,Hemostasis and Thrombosis,4428921687,14,6,rebecca.gutierrez@CC.com,93,3.56
+256,Lori,Morgan,Thyroid Disorders,2858921131,19,6,lori.morgan@CC.com,92,3.92
+257,Mark,Kelly,Thyroid Disorders,8787047637,7,6,mark.kelly@CC.com,92,3.65
+258,Jason,Arellano,Hemostasis and Thrombosis,4428243156,35,6,jason.arellano@CC.com,93,4.23
+259,Anthony,Farley,Malignant Hematology,3265611938,20,6,anthony.farley@CC.com,93,2.81
+260,Mario,Chavez,Benign Hematology,9916229990,5,6,mario.chavez@CC.com,93,4.39
+261,Jason,Brown,Reproductive Endocrinology,6003932738,31,6,jason.brown@CC.com,92,2.36
+262,Edward,Singleton,Diabetes,8957483940,23,6,edward.singleton@CC.com,92,4.71
+263,Chad,Mccarty,Bone Marrow Transplant,8519492500,21,6,chad.mccarty@CC.com,93,2.94
+264,Kelly,Smith,Malignant Hematology,4975810012,31,6,kelly.smith@CC.com,93,3.94
+265,Debra,Rodriguez,Bone Marrow Transplant,5667426056,34,6,debra.rodriguez@CC.com,93,3.64
+266,Caitlin,Byrd,Hemostasis and Thrombosis,6787035729,4,6,caitlin.byrd@CC.com,93,2.81
+267,Mark,Torres,Diabetes,9294640619,6,6,mark.torres@CC.com,92,3.53
+268,Laura,Floyd,Bone Marrow Transplant,9625879509,1,6,laura.floyd@CC.com,93,3.02
+269,Ashley,Miller,Bone Marrow Transplant,4228405129,22,6,ashley.miller@CC.com,93,3.04
+270,Jonathan,Cannon,Malignant Hematology,6205837946,21,6,jonathan.cannon@CC.com,93,3.21
+271,Matthew,Garcia,Benign Hematology,5755404154,13,6,matthew.garcia@CC.com,93,3.43
+272,Jacob,Gray,Malignant Hematology,8423560808,16,6,jacob.gray@CC.com,93,4.22
+273,Jonathan,Fletcher,Malignant Hematology,9416186852,35,6,jonathan.fletcher@CC.com,93,3.71
+274,John,Hendricks,Pediatric Endocrinology,7933173564,6,6,john.hendricks@CC.com,92,3.26
+275,Latasha,Taylor,Diabetes,6582217675,21,6,latasha.taylor@CC.com,92,3.54
+276,Robert,Marsh,Bone Marrow Transplant,2922116341,7,6,robert.marsh@CC.com,93,3.82
+277,Richard,Harmon,Reproductive Endocrinology,5538321189,19,6,richard.harmon@CC.com,92,3.15
+278,Kimberly,Velazquez,Benign Hematology,3253205218,22,6,kimberly.velazquez@CC.com,93,3.76
+279,Jill,Woods,Thyroid Disorders,5747591306,19,6,jill.woods@CC.com,92,3.58
+280,Jorge,Patton,Bone Marrow Transplant,7177201745,6,6,jorge.patton@CC.com,93,2.88
+281,Danielle,Ochoa,Pediatric Endocrinology,3557630698,21,6,danielle.ochoa@CC.com,92,3.38
+282,Andrew,Thomas,Thyroid Disorders,5088435391,19,6,andrew.thomas@CC.com,92,2.95
+283,Logan,Schultz,Thyroid Disorders,4402174632,13,6,logan.schultz@CC.com,92,3.97
+284,Christopher,Saunders,Thyroid Disorders,5334744958,3,6,christopher.saunders@CC.com,92,3.12
+285,Joyce,Mccarty,Reproductive Endocrinology,8219098199,31,6,joyce.mccarty@CC.com,92,2.73
+286,Debra,Foster,Benign Hematology,2989583294,6,6,debra.foster@CC.com,93,3.16
+287,Ashley,Wright,Malignant Hematology,6487415948,10,6,ashley.wright@CC.com,93,3.55
+288,Hailey,Moran,Diabetes,3012591839,6,6,hailey.moran@CC.com,92,3.61
+289,Victor,Young,Pediatric Endocrinology,6443369774,34,6,victor.young@CC.com,92,3.94
+290,Matthew,Davis,Reproductive Endocrinology,3743549328,34,6,matthew.davis@CC.com,92,2.96
+291,Sarah,Osborn,Thyroid Disorders,4046555065,14,6,sarah.osborn@CC.com,92,3.34
+292,Nicole,Williams,Bone Marrow Transplant,6456495150,18,6,nicole.williams@CC.com,93,3.69
+293,Travis,Griffin,Pediatric Endocrinology,2537106769,32,6,travis.griffin@CC.com,92,2.66
+294,Anthony,Smith,Reproductive Endocrinology,2326716804,6,6,anthony.smith@CC.com,92,3.12
+295,Rodney,Guerrero,Hemostasis and Thrombosis,5412579545,8,6,rodney.guerrero@CC.com,93,3.75
+296,Jodi,Young,Pediatric Endocrinology,5069508318,22,6,jodi.young@CC.com,92,3.81
+297,Amber,Hamilton,Malignant Hematology,3424054543,16,6,amber.hamilton@CC.com,93,2.69
+298,Wendy,George,Diabetes,4204082921,18,6,wendy.george@CC.com,92,3.75
+299,Amy,Russell,Diabetes,7547590390,15,6,amy.russell@CC.com,92,2.82
+300,Matthew,Downs,Reproductive Endocrinology,4553163594,11,6,matthew.downs@CC.com,92,3.08
+301,Lucas,Aguilar,Venous Surgery,7913925474,27,7,lucas.aguilar@THS.com,94,3.44
+302,Logan,Green,Reconstructive Surgery,8575155452,17,7,logan.green@THS.com,95,2.31
+303,James,Perkins,Bone Marrow Transplant,2698305207,26,7,james.perkins@THS.com,96,3.72
+304,Keith,Vaughn,Pediatric Neurosurgery,4094369779,31,7,keith.vaughn@THS.com,97,3.04
+305,Michelle,Flores,Female Urology,5976296324,14,7,michelle.flores@THS.com,98,3.74
+306,Ashley,Johnson,Pediatric Orthopedics,8244350496,9,7,ashley.johnson@THS.com,99,3.37
+307,Michelle,Sharp,Movement Disorders,8988326975,9,7,michelle.sharp@THS.com,100,2.83
+308,Michael,Salinas,Spinal Cord Injury,5746693732,17,7,michael.salinas@THS.com,101,4.02
+309,Hannah,Coleman,General Obstetrics,2423234225,10,7,hannah.coleman@THS.com,102,2.88
+310,David,Michael,Movement Disorders,8446204951,7,7,david.michael@THS.com,100,3.57
+311,Matthew,Larson,Reconstructive Surgery,3418880056,22,7,matthew.larson@THS.com,95,2.91
+312,Robert,Contreras,Urogynecology,7482520026,7,7,robert.contreras@THS.com,102,3.73
+313,Nathan,Rogers,Movement Disorders,5967811983,28,7,nathan.rogers@THS.com,100,4.45
+314,Dawn,Powell,Hemostasis and Thrombosis,5107536916,14,7,dawn.powell@THS.com,96,2.92
+315,Christopher,Villa,Bone Marrow Transplant,5243323663,29,7,christopher.villa@THS.com,96,3.21
+316,Lisa,Gilbert,General Obstetrics,8543837939,17,7,lisa.gilbert@THS.com,102,3.05
+317,Kimberly,Garcia,Urologic Oncology,5194413491,1,7,kimberly.garcia@THS.com,98,3.81
+318,John,Williams,Stroke Neurology,5073788363,26,7,john.williams@THS.com,100,3.35
+319,Martin,Moran,Reconstructive Surgery,4775374737,32,7,martin.moran@THS.com,95,3.24
+320,Marisa,Powell,Sports Rehabilitation,2466229871,16,7,marisa.powell@THS.com,101,3.75
+321,Sean,Costa,Trauma Surgery,8632495050,21,7,sean.costa@THS.com,99,3.67
+322,Ashley,Weber,Spinal Cord Injury,8003694750,13,7,ashley.weber@THS.com,101,3.88
+323,Robert,Pope,Headache Medicine,3502051908,15,7,robert.pope@THS.com,100,2.7
+324,Jason,Carpenter,Aesthetic Surgery,8115212833,10,7,jason.carpenter@THS.com,95,3.39
+325,Brent,Moreno,Endourology,4328671331,29,7,brent.moreno@THS.com,98,3.88
+326,Monica,Henry,Reconstructive Surgery,6938808627,6,7,monica.henry@THS.com,95,4.84
+327,Brandy,Wade,Hemostasis and Thrombosis,5658831488,33,7,brandy.wade@THS.com,96,3.49
+328,Joseph,French,Bone Marrow Transplant,8539144313,7,7,joseph.french@THS.com,96,3.96
+329,Michelle,Sanchez,Reproductive Endocrinology,8568197712,19,7,michelle.sanchez@THS.com,102,4.57
+330,James,Munoz,Spinal Cord Injury,2663566047,22,7,james.munoz@THS.com,101,3.89
+331,Austin,Ali,Endourology,5323562847,14,7,austin.ali@THS.com,98,3.82
+332,Joseph,Oliver,Sports Rehabilitation,8209074480,29,7,joseph.oliver@THS.com,101,3.93
+333,Lindsey,Waller,Endovascular Surgery,5206208651,25,7,lindsey.waller@THS.com,94,2.94
+334,Vanessa,Brown,Hemostasis and Thrombosis,7726318818,16,7,vanessa.brown@THS.com,96,3.72
+335,Jerry,Harper,Movement Disorders,2414992170,12,7,jerry.harper@THS.com,100,3.14
+336,Melissa,Jordan,Endovascular Surgery,6349989003,12,7,melissa.jordan@THS.com,94,3.0
+337,Lisa,Hardy,Maternal-Fetal Medicine,7488552178,17,7,lisa.hardy@THS.com,102,3.28
+338,Jay,King,Urogynecology,3543808161,5,7,jay.king@THS.com,102,3.8
+339,Jennifer,Huff,Sports Medicine,6624680564,9,7,jennifer.huff@THS.com,99,3.94
+340,Christopher,Walters,Epilepsy,2855938037,3,7,christopher.walters@THS.com,100,3.83
+341,Sara,Peters,Stroke Neurology,9086546203,35,7,sara.peters@THS.com,100,2.66
+342,Aaron,Patterson,Craniofacial Surgery,7024156346,34,7,aaron.patterson@THS.com,95,4.52
+343,Jennifer,Murphy,Sports Rehabilitation,5065645383,34,7,jennifer.murphy@THS.com,101,3.54
+344,Juan,Melton,Foot and Ankle Surgery,6302136660,16,7,juan.melton@THS.com,99,4.32
+345,Ashley,Evans,Aesthetic Surgery,9195517539,27,7,ashley.evans@THS.com,95,2.54
+346,Kyle,Yang,Sports Rehabilitation,4012963737,29,7,kyle.yang@THS.com,101,3.74
+347,Alicia,Jones,Hand Surgery,6526199579,23,7,alicia.jones@THS.com,99,3.53
+348,Amanda,Richard,Spinal Cord Injury,5908717478,21,7,amanda.richard@THS.com,101,4.21
+349,Steven,Ramos,Headache Medicine,6753149392,8,7,steven.ramos@THS.com,100,3.42
+350,Gregory,Smith,Vascular Neurosurgery,8987787420,22,7,gregory.smith@THS.com,97,4.11
+351,Kevin,Williams,Craniofacial Surgery,5033610679,27,8,kevin.williams@NSMC.com,103,2.94
+352,Joseph,Smith,Trauma Surgery,2902104272,17,8,joseph.smith@NSMC.com,104,2.79
+353,Laurie,Freeman,Pediatric Radiology,2109900364,32,8,laurie.freeman@NSMC.com,105,3.49
+354,Jose,Fitzpatrick,Hematopathology,5216558389,20,8,jose.fitzpatrick@NSMC.com,106,2.78
+355,Alexandra,Moore,Hand Surgery,8113466848,23,8,alexandra.moore@NSMC.com,107,3.05
+356,Lori,Gillespie,Laryngology,2682094953,14,8,lori.gillespie@NSMC.com,108,3.81
+357,Sharon,Johnson,General Obstetrics,3114447016,9,8,sharon.johnson@NSMC.com,109,2.18
+358,Amy,Wood,Addiction Psychiatry,5505164540,9,8,amy.wood@NSMC.com,110,2.69
+359,Charles,Reed,Critical Care Pulmonology,9125293814,17,8,charles.reed@NSMC.com,111,3.6
+360,Sydney,Wagner,Geriatric Medicine,8358955990,20,8,sydney.wagner@NSMC.com,112,2.01
+361,Nathaniel,Anderson,Spinal Cord Injury,2667843316,5,8,nathaniel.anderson@NSMC.com,113,2.24
+362,Lindsey,Blanchard,Cardiac ICU,7116989052,31,8,lindsey.blanchard@NSMC.com,114,3.2
+363,Sarah,Roberts,Hematologic Oncology,7627727268,7,8,sarah.roberts@NSMC.com,115,2.83
+364,Elizabeth,Martinez,Venous Surgery,5593017893,28,8,elizabeth.martinez@NSMC.com,116,3.16
+365,Jamie,Herman,Hemostasis and Thrombosis,4358504405,14,8,jamie.herman@NSMC.com,117,2.55
+366,Christian,Estrada,Vascular Neurosurgery,3279785050,29,8,christian.estrada@NSMC.com,118,3.11
+367,Todd,Smith,Osteoporosis,6808161627,4,8,todd.smith@NSMC.com,119,3.75
+368,Adam,Callahan,Endourology,5932292727,1,8,adam.callahan@NSMC.com,120,2.32
+369,William,Williams,Dermatopathology,9779647599,26,8,william.williams@NSMC.com,121,2.96
+370,Nicole,Adams,Neurophysiology,2005567399,1,8,nicole.adams@NSMC.com,122,2.37
+371,Terri,Osborne,Hospital Epidemiology,6248882691,22,8,terri.osborne@NSMC.com,123,2.22
+372,Jay,Jensen,Pediatric Emergency,7628687146,21,8,jay.jensen@NSMC.com,124,4.03
+373,Emily,Smith,Cardiac Imaging,8537150663,5,8,emily.smith@NSMC.com,125,3.4
+374,Darren,Clark,Pediatric Anesthesia,5139413239,15,8,darren.clark@NSMC.com,126,3.78
+375,Adam,Anderson,Kidney Transplant,4914047438,10,8,adam.anderson@NSMC.com,127,3.15
+376,Kim,Powell,Esophageal Surgery,8459776297,29,8,kim.powell@NSMC.com,128,3.09
+377,Bryan,Orozco,Retina Surgery,8507575711,6,8,bryan.orozco@NSMC.com,129,3.58
+378,Nicole,Lucas,Advanced Endoscopy,2577680685,33,8,nicole.lucas@NSMC.com,130,2.82
+379,Kim,Johnson,Pediatric Gastroenterology,5785963048,7,8,kim.johnson@NSMC.com,131,2.61
+380,Gina,Wagner,Cytopathology,2808455072,19,8,gina.wagner@NSMC.com,106,4.56
+381,John,Nelson,HIV/AIDS,7834423373,22,8,john.nelson@NSMC.com,123,2.91
+382,Bryan,Cruz,Interventional Pulmonology,2392936274,19,8,bryan.cruz@NSMC.com,111,4.1
+383,Michael,Meza,Lung Surgery,7473643858,6,8,michael.meza@NSMC.com,128,3.28
+384,Amanda,Ayala,Pediatric Orthopedics,4974996854,25,8,amanda.ayala@NSMC.com,107,3.45
+385,Lisa,Jones,Heart Failure,3409385685,16,8,lisa.jones@NSMC.com,125,3.24
+386,Angel,Harris,Joint Replacement,5069698831,12,8,angel.harris@NSMC.com,107,3.44
+387,Steven,Mccoy,Pediatric Urology,6992488751,12,8,steven.mccoy@NSMC.com,120,3.51
+388,Bryan,Hayes,Interventional Cardiology,7487229138,17,8,bryan.hayes@NSMC.com,125,3.47
+389,Ronald,Perez,Pediatric Gastroenterology,9676998199,5,8,ronald.perez@NSMC.com,131,3.31
+390,Anthony,Ryan,Trauma Emergency,6844195092,9,8,anthony.ryan@NSMC.com,124,2.98
+391,Matthew,Woods,Rheumatoid Arthritis,7588055973,3,8,matthew.woods@NSMC.com,119,3.18
+392,Roy,Lee,Medical ICU,8035070212,35,8,roy.lee@NSMC.com,114,3.49
+393,Allison,Smith,Neonatal ICU,3213658370,34,8,allison.smith@NSMC.com,114,3.43
+394,Tara,David,Venous Surgery,4916024798,34,8,tara.david@NSMC.com,116,4.55
+395,Vanessa,Carter,Neuroradiology,7995354272,14,8,vanessa.carter@NSMC.com,105,2.11
+396,John,Mcgee,Endourology,4765092904,27,8,john.mcgee@NSMC.com,120,3.65
+397,Rhonda,Torres,Pediatric Orthopedics,7302976673,18,8,rhonda.torres@NSMC.com,107,3.51
+398,Diane,Charles,Hematopathology,5972737804,32,8,diane.charles@NSMC.com,106,4.0
+399,Sarah,Wall,Hemostasis and Thrombosis,2583406533,6,8,sarah.wall@NSMC.com,117,3.05
+400,Jeffery,Gomez,Cosmetic Dermatology,4183643277,8,8,jeffery.gomez@NSMC.com,121,3.09
+401,Lindsay,Bass,Craniofacial Surgery,5146643213,27,9,lindsay.bass@SJRMC.com,132,3.16
+402,Johnny,Williams,Trauma Surgery,5285742113,17,9,johnny.williams@SJRMC.com,133,2.88
+403,David,Gonzalez,Pediatric Radiology,4718568206,32,9,david.gonzalez@SJRMC.com,134,3.69
+404,Sandra,Higgins,Hematopathology,9332539706,20,9,sandra.higgins@SJRMC.com,135,3.29
+405,Amber,Harris,Hand Surgery,4055718964,23,9,amber.harris@SJRMC.com,136,3.14
+406,Elizabeth,Alvarez,General Obstetrics,2372494409,14,9,elizabeth.alvarez@SJRMC.com,137,3.74
+407,Rachel,Henson,Consultation-Liaison Psychiatry,5212044111,9,9,rachel.henson@SJRMC.com,138,3.24
+408,Kristin,Fuller,Sleep Medicine,7597970897,9,9,kristin.fuller@SJRMC.com,139,3.41
+409,Maria,Jackson,Hospital Medicine,4602049834,17,9,maria.jackson@SJRMC.com,140,2.6
+410,Jennifer,Cardenas,Hematologic Oncology,6308092792,10,9,jennifer.cardenas@SJRMC.com,141,3.41
+411,Warren,Ayala,Venous Surgery,6736440594,7,9,warren.ayala@SJRMC.com,142,3.24
+412,Nichole,Washington,Benign Hematology,8165323458,22,9,nichole.washington@SJRMC.com,143,2.6
+413,Kimberly,Wallace,Vascular Neurosurgery,7133974910,7,9,kimberly.wallace@SJRMC.com,144,3.8
+414,Christopher,Phillips,Osteoporosis,2709488759,28,9,christopher.phillips@SJRMC.com,145,3.48
+415,Ashley,Woodward,Cosmetic Dermatology,4308416565,14,9,ashley.woodward@SJRMC.com,146,3.07
+416,Stephen,Perry,Headache Medicine,4056771549,31,9,stephen.perry@SJRMC.com,147,2.73
+417,Barry,Gonzalez,Hospital Epidemiology,2435171875,34,9,barry.gonzalez@SJRMC.com,148,3.31
+418,Jeffrey,Medina,Toxicology,6556343806,4,9,jeffrey.medina@SJRMC.com,149,3.75
+419,Paul,Miller,Pediatric Cardiology,6094238082,1,9,paul.miller@SJRMC.com,150,2.25
+420,Ethan,Tucker,Cardiac Anesthesia,5794483513,26,9,ethan.tucker@SJRMC.com,151,2.87
+421,Eric,Black,Esophageal Surgery,8746353277,1,9,eric.black@SJRMC.com,152,3.15
+422,Victoria,Bailey,Oculoplastic Surgery,2729667639,32,9,victoria.bailey@SJRMC.com,153,2.9
+423,Barbara,Williams,Advanced Endoscopy,2926009421,16,9,barbara.williams@SJRMC.com,154,2.33
+424,Melanie,Garcia,Adolescent Medicine,6539329765,21,9,melanie.garcia@SJRMC.com,155,3.4
+425,Christine,Wilson,Benign Hematology,4834856951,13,9,christine.wilson@SJRMC.com,143,3.4
+426,Elizabeth,Hill,Aesthetic Surgery,2325558339,16,9,elizabeth.hill@SJRMC.com,132,3.44
+427,Amy,Huff,Pediatric Anesthesia,5673737864,35,9,amy.huff@SJRMC.com,151,3.82
+428,Zachary,Ford,Pediatric Rheumatology,9944511237,6,9,zachary.ford@SJRMC.com,145,3.17
+429,Anthony,Lopez,Child and Adolescent Psychiatry,8053574595,21,9,anthony.lopez@SJRMC.com,138,3.63
+430,Hannah,Burns,Pancreatology,5592561102,7,9,hannah.burns@SJRMC.com,154,4.47
+431,Christian,Garcia,Toxicology,3663457034,19,9,christian.garcia@SJRMC.com,149,3.39
+432,Tracey,Edwards,Aortic Surgery,7205494938,8,9,tracey.edwards@SJRMC.com,142,3.15
+433,Madeline,Taylor,Cytopathology,2628146554,35,9,madeline.taylor@SJRMC.com,135,3.09
+434,Dustin,Jones,Cornea and External Disease,9384274907,19,9,dustin.jones@SJRMC.com,153,3.22
+435,Debra,Foley,Breast Imaging,5992376858,6,9,debra.foley@SJRMC.com,134,4.43
+436,Margaret,Smith,Hospital Epidemiology,5623339698,21,9,margaret.smith@SJRMC.com,148,3.69
+437,Tiffany,Smith,Pediatric Pulmonology,8118033235,16,9,tiffany.smith@SJRMC.com,155,3.38
+438,Christopher,Lawrence,Hemostasis and Thrombosis,7616850104,12,9,christopher.lawrence@SJRMC.com,143,2.96
+439,George,Douglas,Transplant Infectious Disease,2333116279,12,9,george.douglas@SJRMC.com,148,2.57
+440,Andre,Hernandez,Benign Hematology,6906188424,17,9,andre.hernandez@SJRMC.com,143,3.63
+441,Robert,Stewart,Lung Surgery,5405072103,5,9,robert.stewart@SJRMC.com,152,3.77
+442,William,Hamilton,HIV/AIDS,5792963303,9,9,william.hamilton@SJRMC.com,148,2.95
+443,Angela,Clay,Geriatric Psychiatry,2534241205,3,9,angela.clay@SJRMC.com,138,3.79
+444,Destiny,Schmidt,Hepatology,3015269407,35,9,destiny.schmidt@SJRMC.com,154,2.58
+445,Catherine,Franklin,Urogynecology,4038209744,34,9,catherine.franklin@SJRMC.com,137,4.17
+446,Rebecca,Garcia,Hepatobiliary Surgery,5823720904,34,9,rebecca.garcia@SJRMC.com,133,3.2
+447,Jordan,Cole,Rheumatoid Arthritis,8493867473,14,9,jordan.cole@SJRMC.com,145,4.21
+448,Robert,Gonzalez,Vascular Neurosurgery,8593308106,18,9,robert.gonzalez@SJRMC.com,144,4.23
+449,Brandon,Hardy,Lung Transplant,4642469469,32,9,brandon.hardy@SJRMC.com,139,3.62
+450,Lonnie,Lawson,Osteoporosis,6763360586,6,9,lonnie.lawson@SJRMC.com,145,3.76
+451,Cynthia,Mitchell,Craniofacial Surgery,2899864291,27,10,cynthia.mitchell@AC.com,156,3.3
+452,Jamie,Nash,Trauma Surgery,7098841656,17,10,jamie.nash@AC.com,157,3.19
+453,Megan,Edwards,Hematopathology,5017986165,26,10,megan.edwards@AC.com,158,2.17
+454,Matthew,Erickson,Otology,8255514544,31,10,matthew.erickson@AC.com,159,2.07
+455,Chelsea,Hall,Reproductive Endocrinology,9722424003,14,10,chelsea.hall@AC.com,160,3.47
+456,Joshua,Shepard,Consultation-Liaison Psychiatry,8357114774,9,10,joshua.shepard@AC.com,161,3.23
+457,Shelia,Daniels,Primary Care,4129641894,9,10,shelia.daniels@AC.com,162,2.67
+458,Robert,Beard,Critical Care Pulmonology,9443524314,17,10,robert.beard@AC.com,163,4.22
+459,Emily,Noble,Thyroid Disorders,4322739540,20,10,emily.noble@AC.com,164,3.65
+460,Heather,Richardson,Medical ICU,8949520942,5,10,heather.richardson@AC.com,165,2.65
+461,Katrina,Johnson,Sports Rehabilitation,9639429771,31,10,katrina.johnson@AC.com,166,2.46
+462,Lawrence,Mcintosh,Hematologic Oncology,9112136719,7,10,lawrence.mcintosh@AC.com,167,2.02
+463,Sara,Thompson,Venous Surgery,9683525237,28,10,sara.thompson@AC.com,168,2.42
+464,Stephanie,Hernandez,Hemostasis and Thrombosis,8013444293,14,10,stephanie.hernandez@AC.com,169,3.51
+465,Kenneth,Fernandez,Vascular Neurosurgery,7448173470,29,10,kenneth.fernandez@AC.com,170,3.47
+466,Douglas,Rollins,Osteoporosis,6148742645,4,10,douglas.rollins@AC.com,171,3.1
+467,Robert,Cain,Endourology,6976632742,1,10,robert.cain@AC.com,172,2.87
+468,Joshua,Stewart,Dermatopathology,9318958049,26,10,joshua.stewart@AC.com,173,2.69
+469,Peggy,Jackson,Neurophysiology,6335952000,1,10,peggy.jackson@AC.com,174,3.52
+470,William,Baldwin,Hospital Epidemiology,8629388927,22,10,william.baldwin@AC.com,175,3.17
+471,Sherri,Russell,Electrophysiology,8816292592,21,10,sherri.russell@AC.com,176,2.49
+472,Jamie,Russell,Cardiac Anesthesia,6833710978,13,10,jamie.russell@AC.com,177,3.1
+473,Bruce,Jones,Kidney Transplant,2242311930,16,10,bruce.jones@AC.com,178,3.57
+474,Jill,Estrada,Cardiac Surgery,9623995133,35,10,jill.estrada@AC.com,179,3.68
+475,Monica,Mills,Pediatric Ophthalmology,5728795321,6,10,monica.mills@AC.com,180,3.12
+476,Mandy,Chavez,Hepatology,7602808389,21,10,mandy.chavez@AC.com,181,3.24
+477,Kimberly,Davis,Pediatric Pulmonology,4325653163,32,10,kimberly.davis@AC.com,182,2.25
+478,Thomas,Jenkins,HIV/AIDS,6245465333,20,10,thomas.jenkins@AC.com,175,4.02
+479,Gary,Williams,Oculoplastic Surgery,8595043720,19,10,gary.williams@AC.com,180,3.22
+480,Allison,Hubbard,Hepatology,5789920906,22,10,allison.hubbard@AC.com,181,3.72
+481,Adam,Powell,Pediatric Pulmonology,4144705707,14,10,adam.powell@AC.com,182,3.78
+482,Tricia,Hurley,Minimally Invasive Surgery,3757013901,19,10,tricia.hurley@AC.com,157,3.78
+483,Jimmy,Mcbride,General Internal Medicine,2689336177,6,10,jimmy.mcbride@AC.com,162,2.8
+484,James,Gonzalez,Esophageal Surgery,3989217966,25,10,james.gonzalez@AC.com,179,3.23
+485,Carla,Jones,Pediatric Neurosurgery,6542098978,16,10,carla.jones@AC.com,170,3.77
+486,Joseph,Keller,Reproductive Endocrinology,4654079523,12,10,joseph.keller@AC.com,164,2.93
+487,Lisa,Mcdaniel,Pediatric Anesthesia,7232421321,12,10,lisa.mcdaniel@AC.com,177,3.55
+488,Douglas,Bell,Stroke Neurology,7003429074,17,10,douglas.bell@AC.com,174,2.86
+489,Courtney,Brandt,Bone Marrow Transplant,2562565538,5,10,courtney.brandt@AC.com,169,3.64
+490,Joshua,Dyer,Medical Oncology,6994746302,9,10,joshua.dyer@AC.com,167,3.74
+491,Sabrina,Sullivan,Colorectal Surgery,5946051955,3,10,sabrina.sullivan@AC.com,157,3.55
+492,Andrew,Martin,Stroke Neurology,7838945365,35,10,andrew.martin@AC.com,174,3.6
+493,Richard,Cardenas,General Internal Medicine,5814415728,34,10,richard.cardenas@AC.com,162,3.1
+494,David,Nguyen,Lung Surgery,5588025719,34,10,david.nguyen@AC.com,179,3.19
+495,Elizabeth,Baker,Geriatric Psychiatry,2958894508,14,10,elizabeth.baker@AC.com,161,3.18
+496,John,Mcdaniel,Craniofacial Surgery,4428603361,18,10,john.mcdaniel@AC.com,156,3.66
+497,Darin,Lewis,Lung Transplant,5335851834,32,10,darin.lewis@AC.com,163,3.97
+498,Joshua,Poole,Neurophysiology,6974319509,23,10,joshua.poole@AC.com,174,3.12
+499,Rebecca,Smith,Medical Oncology,4799859362,21,10,rebecca.smith@AC.com,167,3.51
+500,Charles,Porter,Critical Care Pulmonology,9968420740,32,10,charles.porter@AC.com,163,2.92

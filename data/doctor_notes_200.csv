@@ -1,0 +1,3568 @@
+note_id,patient_id,appointment_id,doctor_id,note_date,doctor_comments
+1,705,12,117,2025-07-23 07:00:00,"Patient: 17yo female
+Visit reason: Bleeding/Bruising
+Treatments: Medication Prescription
+
+Patient presented to the clinic with a complaint of bleeding/bruising on the left side of the face. The patient has been taking medication for her headaches for the last 6 months and her doctor prescribed medication for her. The patient has been taking the medication as instructed and has not reported any adverse effects. The patient is advised to follow up with her doctor for further instructions.
+
+Medication Prescription:
+Patient: 17yo female
+Visit reason: Bleeding/Bruising
+Treatments: Medication Prescription
+
+Patient has been taking the medication for her headaches for the last 6 months. The medication is prescribed to treat her headaches and is intended to reduce the intensity and frequency of headaches. The medication is available over the counter and the patient has been advised to take it as directed. The medication is safe and effective in reducing the frequency and intensity of headaches. The patient is advised to follow up with her"
+2,65,21,93,2024-02-15 06:00:00,"Patient: 3-year-old female
+Visit reason: Back pain
+Treatments: Medication Prescription
+
+Patient presented with a complaint of back pain on the previous day. The patient has been experiencing pain in her lower back for the last week, with no improvement in the last 48 hours. The patient has no family history of back pain. Physical examination revealed no significant findings. Laboratory tests were normal. The patient's mother stated that she noticed her daughter's back pain after a week of school attendance. The patient's mother reported that her daughter was sitting in the back of the classroom for an extended period of time, and she had no other complaints.
+
+The patient has been prescribed a 10-day course of acetaminophen and ibuprofen, which will be re-evaluated in 5 days. The medication will be continued for 10 days. The patient will be monitored for any worsening of the back pain and any adverse effects on the medication. The patient will be advised to avoid lifting or stretching the back for the next 1"
+3,13,24,5,2025-09-25 00:00:00,"[Patient: 57yo male]
+
+Visit reason: Shortness of Breath
+
+Treatments: Complete Blood Count (CBC), Liver Panel
+
+Presenting signs and symptoms: Patient reports feeling short of breath when exerting himself. The presenting signs and symptoms are consistent with the visit reason.
+
+Physical exam:
+
+Based on the physical examination, the patient's shortness of breath is consistent with the visit reason.
+
+History:
+
+The patient's history includes a history of shortness of breath when exercising.
+
+Clinical findings:
+
+The CBC showed a normal iron level and a mildly elevated ESR. The liver panel showed a mildly elevated AST and a mildly elevated ALT.
+
+Diagnosis:
+
+Based on the clinical findings, the patient is diagnosed with mildly elevated liver enzymes and a mildly elevated iron level.
+
+Prognosis:
+
+The patient's shortness of breath may be resolved with appropriate treatment, but further"
+4,451,26,470,2025-10-22 01:00:00,"Patient: 31yo female
+
+Visit reason: Cough
+
+Treatments:
+- Hearing Test: Normal
+- Complete Blood Count: Normal
+- Blood Chemistry Panel: Normal
+
+Patient's medical history:
+- Chronic obstructive pulmonary disease (COPD)
+- Asthma
+- Allergic rhinitis
+- Allergies
+- Pneumonia
+- Ear infection
+
+Physical examination:
+- Normal vital signs (heart rate, blood pressure, temperature)
+- No abnormalities
+
+Laboratory tests:
+- Hearing test: Normal
+- Complete blood count: Normal
+- Blood chemistry panel: Normal
+
+Discussion:
+- Based on the patient's medical history and current symptoms, the physician recommends hearing tests, complete blood count, and blood chemistry panel to assess the patient's overall health.
+- The hearing test is recommended to rule out any hearing impairment, as COPD can cause hearing loss.
+- The complete blood count and blood chemistry panel are recommended to evaluate the patient's overall health status"
+5,868,27,471,2025-06-16 04:00:00,"Patient: 86yo male
+
+Visit reason: Nausea
+
+Treatments: Blood Chemistry Panel
+
+Patient's medical history: None
+
+Current medications: None
+
+Family history: None
+
+Physical exam: No significant findings.
+
+Temperature: 36.8°C (98.2°F)
+
+Blood pressure: 130/70 mmHg
+
+Heart rate: 80 beats/minute
+
+Respiratory rate: 18 breaths/minute
+
+Gastrointestinal symptoms: Nausea.
+
+Blood chemistry panel results:
+- Hemoglobin: 12.9g/dl (10.3-14.2)
+- Platelets: 138,000/μL (350,000-100,000)
+- ESR: 5.2 mm/hr (0-20)
+- CRP: 0.4 mg/L (0-"
+6,219,28,483,2024-12-26 02:00:00,"Patient: 90yo female
+Visit reason: Headache
+Treatments: Vitamin D
+
+Name: _______________________________
+
+Date: ________________________________
+
+Time: ________________________________
+
+Clinic: ______________________________
+
+Given: The patient has been complaining of a persistent headache for the past week. Her headaches are mild to moderate in intensity and frequency. The patient has been taking paracetamol and ibuprofen for the past 2 weeks.
+
+Today, she presented with a headache that started on the left side and spread to the right. The headache was severe, causing her to lose consciousness. She was also experiencing nausea, vomiting, and photophobia.
+
+Vitamin D: The patient is a healthy 90yo female who has been diagnosed with osteoporosis. Her vitamin D levels are low, with a 25(OH)D of 27.2ng/ml. She has been taking a multivitamin supplement that contains vitamin D."
+7,621,48,21,2024-11-02 05:00:00,"Name: _____________________________
+Address: __________________________
+Phone: ___________________________
+Email: ___________________________
+Date: ____________________________
+
+Patient: 50yo female
+
+Visit reason: Routine Checkup
+
+Treatments: Blood Chemistry Panel
+
+Blood Chemistry Panel:
+- Hemoglobin A1C: 7.1
+- GGT: 38.5
+- Albumin: 2.4g/dl
+- Creatinine: 1.2mg/dl
+- Total bilirubin: 0.5mg/dl
+- LDL-C: 121mg/dl
+- Triglycerides: 135mg/dl
+- HDL-C: 53mg/dl
+- SGPT: 127mg/dl
+- SGOT: 134mg/dl
+
+Medications:
+- Metformin: 1200mg/day
+- Statin: 40mg/day"
+8,369,52,53,2023-11-28 03:00:00,"Patient: 21yo male
+Visit reason: Back Pain
+Treatments: Complete Blood Count
+
+Patient Name: John Doe
+
+Visit Date: 12/18/2021
+
+General Information:
+- Age: 21
+- Gender: Male
+- Height: 6'0""
+- Weight: 165 lbs
+- Eye Color: Dark Brown
+- Hair Color: Dark Brown
+- Height: 5'10""
+
+Symptoms:
+- Pain in lower back for the past 1 week.
+- Increasing in intensity over the past week.
+
+History:
+- No family history of similar conditions.
+- No significant medical history.
+
+Physical Examination:
+- Neck and shoulder mobility is limited.
+- Pain on gentle pressure over the lower back.
+- No tenderness or swelling.
+
+Medication:
+- Complete Blood Count (CBC)
+
+Treatment Plan:
+- Complete Blood Count (CBC)
+  - Results are awaited
+-"
+9,49,57,475,2023-01-23 06:00:00,"Patient: 81yo female
+Visit reason: Weight Loss
+Treatments: Emergency Treatment
+
+Brief medical note for patient:
+
+Name: _______________________
+
+Date: ________________________
+
+Time: ________________________
+
+Location: ___________________
+
+Patient:
+
+Age: ________________________
+
+Gender: _____________________
+
+Race/ethnicity: ________________________
+
+Sex: ________________________
+
+History:
+
+1. Physical examination: The patient presented with weight loss of 5kg in a 6-month period.
+
+2. Medical history: The patient has been experiencing pain in her lower back for the past 6 months, with no previous medical history.
+
+3. Physical examination: The patient was noted to be unwell, with a mildly dehydrated appearance. She had a pale complexion, and her vital signs were stable.
+
+4. Diagnostic tests: A chest X-ray and a blood test were performed, which confirmed a diagnosis of pneumonia."
+10,373,69,471,2024-07-22 03:00:00,"Patient: 50yo female
+Visit reason: Nausea
+Treatments: Complete Blood Count (CBC) and Inflammatory Markers (C-reactive protein and erythrocyte sedimentation rate)
+
+Background: Patient is 50yo female with a history of multiple pregnancies and lactation. She presented with nausea and vomiting on the day of her visit.
+
+Procedure:
+- Complete Blood Count (CBC)
+- Inflammatory Markers (C-reactive protein and erythrocyte sedimentation rate)
+
+Results:
+- CBC: WBC 12,000/mm3, neutrophils 90%, lymphocytes 36%, eosinophils 1%, basophils 1%, platelets 130,000/mm3
+- Inflammatory Markers: C-reactive protein 11.6mg/dl, erythrocyte sedimentation rate 36.8mm/hr
+
+Clinical impression"
+11,357,75,213,2024-04-12 05:00:00,"Patient: 24-year-old male, non-smoker, non-drinker.
+
+Visit Date: 2/15/2021
+
+Diagnosis: Weight Loss
+
+Symptoms:
+- Weight loss, starting 100-150 pounds
+- Increased appetite
+- Weakness and fatigue
+
+Past medical history:
+- Mental health disorder (depression)
+- History of substance abuse (alcohol and cocaine)
+- Eating disorder (anorexia)
+
+Current medications:
+- Antidepressants
+- Anti-anxiety medication
+- Anti-psychotic medication
+
+Medical history:
+- History of blood cancer
+- History of lung cancer
+- History of heart disease
+
+Family history:
+- Paternal uncle with bipolar disorder
+
+Physical exam:
+- Body mass index (BMI) 24.5
+- Height 5'9""
+- Weight 155 pounds
+- Skin color fair
+-"
+12,859,83,358,2024-10-01 05:00:00,"Patient: 70yo female
+
+Visit reason: Cough
+
+Treatments:
+- X-ray
+
+Patient's current symptoms:
+- Cough
+
+Patient's past medical history:
+- Asthma for 5 years
+- Chronic bronchitis for 2 years
+
+Physician's evaluation:
+- Assessing patient's current cough as productive.
+- Based on the patient's symptoms, the physician recommends an X-ray for further evaluation.
+
+Discussion:
+- X-ray results suggest a cough with bronchial obstruction.
+- Treatment plans include a course of corticosteroids and antibiotics.
+- The physician advises the patient to avoid smoking and avoid being in areas with high pollution levels.
+- The patient is advised to take medication as prescribed by the physician and to follow up with a visit."
+13,600,93,110,2025-07-25 03:00:00,"Patient: 7-year-old male
+
+Visit Date: 12/20/2021
+
+Introduction:
+
+A 7-year-old male presented with a 1-day history of headache. He had no past medical history and no family history of headaches. He had been to the emergency department once before, but his headache was not severe. On examination, the patient had a normal physical examination.
+
+Treatments:
+
+1. Ultrasound: The patient's head was examined with an ultrasound. There was no mass or swelling present. The ultrasound results showed normal liver function.
+
+2. Liver panel: A liver panel was performed to check for abnormalities in liver function. There were no abnormalities found.
+
+3. Complete blood count: A complete blood count (CBC) was performed to check for anemia. The CBC results showed normal hemoglobin and hematocrit levels.
+
+Conclusion:
+
+The patient's headache is likely a migraine, and the treatment options discussed above are appropriate."
+14,569,100,21,2024-08-08 07:00:00,"Clinical Note:
+
+Patient: 88yo female
+
+Visit Date: [Insert visit date]
+
+Visit Description: Medication Refill
+
+Treatments: Hearing Test
+
+Patient's Medical History:
+
+History of hearing loss for 30 years. No family history of hearing loss.
+
+Physical Examination:
+
+Examination of the patient reveals a female patient of 88yo who is presented with hearing loss. There is a mid-line ear canal dehiscence with a soft, round, and flat-looking ear canal. The patient has a slight depression on the right ear and slight enlargement on the left ear. The tympanic membrane is slightly enlarged, but not displaced. There is no audible tympanic membrane crackle.
+
+Medication Review:
+
+The patient's medication history includes:
+- Hearing aid in the past 10 years.
+- Antibiotics in the past 3 months.
+- Proton pump inhibitors for gastroesophageal reflux"
+15,735,103,118,2025-07-19 02:00:00,"Patient: 2-year-old female
+
+Visit Date: [insert date]
+
+Patient's Name: [insert patient's name]
+
+Procedure: Hearing Test
+
+Introduction:
+
+The patient presented to the clinic with abdominal pain. She has been complaining of abdominal pain since the previous day. The pain is described as sharp, burning, and located in the right upper quadrant. The patient has no history of abdominal pain or any other medical conditions.
+
+Physical Examination:
+
+The patient's vital signs are as follows:
+- Temperature: 38°C
+- Heart rate: 90 beats per minute
+- Respiratory rate: 22 breaths per minute
+- Blood pressure: 120/80 mmHg
+
+Medications:
+- No medications were prescribed.
+
+Diagnostic Tests:
+
+- Abdominal pain
+
+Treatments:
+
+- Hearing Test
+
+Action taken:
+
+- Initially, the patient was examined by the clinician."
+16,189,106,197,2022-09-21 01:00:00,"Title: Pulmonary Function Test in 10-year-old Female
+
+Date: [Insert date]
+
+Patient: [Patient's name]
+
+Visit: [Visit date and time]
+
+Treatment: Pulmonary Function Test
+
+The patient is 10 years old and has been experiencing cough for the past week. She has been seen in the clinic several times, and the clinician has noted her cough to be productive. The patient has been diagnosed with bronchitis and has been prescribed antibiotics for the same. The patient has been doing well on antibiotics, but her cough persists despite the medication.
+
+The clinician has conducted a pulmonary function test to evaluate the patient's lung function. The results of the test have been as follows:
+
+1. FEV1: 30% predicted (40% expected)
+2. FEV1/FVC: 76% predicted (85% expected)
+3. FEF25-75: 66% predicted (80% expected)"
+17,472,110,21,2023-04-07 06:00:00,"Patient: 24-year-old female
+
+Visit reason: Annual Physical
+
+Treatments:
+- Medication prescription: Zoloft, 200mg daily
+- HbA1c: 6.1%
+
+Clinical Summary:
+- Physical examination: Healthy appearance with no significant findings
+- Blood pressure: Systolic 122/78, Diastolic 72/46
+- Height: 5'6"", weight: 120lbs
+- Medical History: None
+- Family History: No significant family history
+- Medication History: Zoloft 200mg daily, Cymbalta 60mg daily
+
+Patient’s Significant Findings:
+- High HbA1c (6.1%)
+- Zoloft prescription
+
+Discussion:
+- Based on the patient’s vital signs, her blood pressure, and HbA1c, her current medication regimen will be reviewed. The medication prescribed is Zoloft, 2"
+18,839,111,201,2021-11-26 06:00:00,"Patient: 90yo male
+
+Visit reason: Routine Checkup
+
+Treatments: Medication Prescription
+
+Procedure: Medication prescribed for hypertension, diabetes, and high cholesterol levels.
+
+History: Patient's medical history is consistent with the above conditions.
+
+Physical Exam: Patient has a healthy appearance, weight, and height. No significant findings on physical exam.
+
+Medication Prescription: Medication for hypertension: 20mg of ACE inhibitor once daily, and 10mg of diuretic once daily. Medication for diabetes: 50mg of metformin once daily, and 500mg of insulin once daily. Medication for high cholesterol: 20mg of cholestyramine once daily.
+
+Conclusion: Patient's condition has been managed successfully with medication prescribed. Patient is advised to follow the medication schedule as prescribed by the physician. Patient is advised to consult with their healthcare"
+19,839,118,95,2022-01-20 05:00:00,"INTRODUCTION:
+
+On [Date] at [Time], we conducted a routine checkup visit for [Patient Name]. The patient presented with [Patient Signature] and [Patient Signature] at the [Clinic Name] office.
+
+PROCEDURES:
+
+1. X-ray
+
+During the visit, the following X-rays were performed:
+
+- Chest X-ray
+- Abdomen X-ray
+- Pelvis X-ray
+
+Results:
+
+The patient underwent the following X-rays:
+
+- Chest X-ray: Normal
+- Abdomen X-ray: Normal
+- Pelvis X-ray: Normal
+
+2. Review of Systemic Conditions
+
+The patient was found to be in good health. There were no signs or symptoms of systemic conditions.
+
+3. Review of Medical History
+
+The patient has no significant medical history.
+
+4. Physical Examination
+
+The physical examination of the patient revealed no abnormal findings.
+
+5. Review of Medications
+
+The patient takes no medications."
+20,656,121,456,2025-01-22 04:00:00,"Introduction:
+The patient presented to the clinic today for a follow-up visit. He has been experiencing chest pain for the past few weeks, which has been worsening with each passing day. The patient has been taking vitamin D supplements for about a month, but his pain has not significantly improved.
+
+History:
+The patient has been experiencing chest pain since last week, which has been worsening with each passing day. He has also experienced fatigue and dizziness. He has not experienced any fever or shortness of breath. The patient has not been taking any medications or supplements for his chest pain.
+
+Physical Examination:
+The patient's vital signs are within normal limits. He has a heart rate of 100 beats per minute, blood pressure of 120/70 mmHg, and respiratory rate of 16 breaths per minute. The patient's chest is not tender to touch or palpation.
+
+Blood Test Results:
+The Complete Blood Count (CBC) test showed an elevated white blood cell count (WBC) of"
+21,553,139,363,2025-03-16 02:00:00,"Name: ____________________________________
+Date: _____________________________________
+Time: ____________________________________
+Patient: __________________________________
+Visit: ___________________________________
+Reason for visit: Fever
+Prescription: _____________________________
+Patient has been prescribed the following medication: _______________________________________________________
+This medication has been prescribed to treat the following symptoms: ______________________________________________________________
+Medication: ______________________________
+This medication is a _______________________________________________________________________________________
+Medication has been taken as prescribed by the doctor and is effective. The patient has been advised to continue taking the medication as prescribed.
+Signature: _______________________________
+Date: ____________________________________"
+22,412,154,493,2025-11-18 02:00:00,"Patient 2yo Male, visit reason: Skin Rash. Medication prescribed: Topical corticosteroid 0.1% cream. The patient's condition was noted to be improving, and the skin rash is being managed with topical corticosteroid cream. Patient's condition is stable, and the treatment plan is as follows:
+
+1. Review the patient's medical history: The patient is a 2-year-old male with a history of a skin rash.
+
+2. Review the examination: The patient's skin is clear and well-dressed. The rash is present on the face, chest, and lower back.
+
+3. Assess the patient's condition: The rash is moderate in intensity, and the patient's condition is stable.
+
+4. Review the treatment plan: The patient will be prescribed a topical corticosteroid cream to manage the rash. The patient's condition is being monitored, and the treatment plan is as follows:
+
+- The topical corticosteroid cream will be applied twice"
+23,172,169,377,2024-04-07 07:00:00,"Patient: 99yo female
+Visit reason: Weight Loss
+Treatments: Medication Prescription, Blood Chemistry Panel, HbA1c
+
+Introduction:
+A 99-year-old female presented with concerns about her weight loss. She had been on a weight loss program for a few months and had lost 10kg. She was now concerned about her weight and wanted to discuss her treatment options.
+
+Case history:
+The patient was a woman who had been diagnosed with diabetes for many years. She had been on medication for her diabetes for over 20 years. She was also taking a medication for hypertension. She had been on a weight loss program for a few months, but had not seen any significant weight loss.
+
+Diagnosis:
+Based on the patient's medical history, her weight loss was caused by a combination of factors including age, hypertension, and diabetes. Her medication prescription was for medication for diabetes, hypertension, and weight loss. Her blood chemistry panel was normal.
+
+Treatment plan:"
+24,824,173,231,2023-01-06 08:00:00,"INTRODUCTION:
+
+76yo female presents with high blood pressure (BP) and high cholesterol. She underwent a routine visit for her BP and EKG/ECG. She has been on medication for hypertension for the past 10 years.
+
+TREATMENTS:
+
+1. X-ray: The patient has a history of hypertension and was seen for her regular check-up. A high-resolution X-ray was taken, which revealed no abnormalities.
+
+2. Blood Chemistry Panel: A blood chemistry panel was ordered to check for high cholesterol levels. The results showed normal cholesterol levels.
+
+3. EKG/ECG: An EKG/ECG was ordered to check for heart rhythm abnormalities. The patient's heart rhythm was normal.
+
+CONCLUSION:
+
+The patient's high blood pressure and high cholesterol are consistent with her previous medical history. Her medication for hypertension and cholesterol management remains unchanged. The EKG/ECG result"
+25,160,178,459,2022-08-19 08:00:00,"Patient: 31yo male
+Visit reason: Vision Problem
+Treatments: Renal Panel
+
+Patient presented to the clinic on [date] with complaints of blurred vision. The patient reported no history of eye infections, eye surgery, or medications that could affect vision. Physical examination revealed no significant findings. Urine analysis revealed elevated uric acid level (>15mg/dl). Renal panel was performed which revealed a normal renal function. The patient was referred to a specialist for further evaluation.
+
+Clinical notes:
+
+1. Patient presented with complaints of blurred vision.
+2. Urine analysis revealed elevated uric acid level (>15mg/dl).
+3. Renal panel was performed which revealed a normal renal function.
+4. Patient was referred to a specialist for further evaluation.
+
+Clinical conclusion:
+
+Based on the patient's complaints of blurred vision and urine analysis, it is suggested that renal panel be performed to evaluate renal function. The patient will be referred"
+26,24,182,361,2025-11-13 00:00:00,"Patient: 96yo female
+Visit date: 05/20/2022
+Visit reason: Headache
+
+Patient: Presenting with a headache, which has been present for the past 2 days. The headache is moderate in intensity and has been accompanied by nausea, vomiting, and photophobia. The patient has a history of hypothyroidism and hypertension, and a thyroid panel and blood chemistry panel were performed.
+
+Treatments: Thyroid Panel: TSH 3.37, free T4 0.34, T3 0.78 ng/dL; Blood Chemistry Panel: Hb 13.7g/dL, albumin 2.4g/dL, calcium 8.4mg/dL, phosphorus 3.9mg/dL, potassium 3.6mEq/L, sodium 135mEq/L, uric acid 0.2mg/dL.
+
+The patient's symptoms"
+27,416,187,201,2022-02-26 02:00:00,"Patient: 56yo male
+
+Visit reason: Vaccination
+
+Treatments:
+- Thyroid Panel: Normal
+- Blood Chemistry Panel: Normal
+
+Discussion:
+- The patient is receiving a vaccination for the COVID-19 virus. The patient's medical history is negative for any underlying medical conditions that could impact their immune system.
+- The patient has undergone a thyroid panel and a blood chemistry panel to assess for any potential thyroid or blood disorders.
+- The patient's thyroid panel was normal, indicating a healthy thyroid function.
+- The blood chemistry panel was normal, indicating a healthy blood profile.
+- The patient's vaccination is an essential step in preventing the spread of the COVID-19 virus.
+- The patient's vaccination is safe and effective in maintaining the health and well-being of their body.
+- The patient is advised to continue taking their prescribed medication and to maintain their normal diet and exercise routine."
+28,62,189,472,2023-06-07 07:00:00,"Based on the patient's visit, the clinical note indicates that the patient is a 33-year-old female with a history of heavy bleeding and bruising. She was seen for the above condition. The patient was examined, and the x-ray showed no abnormalities. The note recommends the patient undergo a follow-up x-ray to monitor the condition. The note is concise, clear, and to the point. It does not include any personal information or any information that may identify the patient."
+29,467,190,390,2022-05-05 01:00:00,"[Patient: 88yo female]
+
+Visit reason: Mental Health Concern
+
+Treatments: Vitamin D (5000 IU per day), Complete Blood Count (CBC)
+
+Patient's current medical history: 
+- Age: 88yo
+- Mental health concerns: Depression and anxiety
+- Medical history: No notable history of allergies, infections, or other medical conditions
+
+Clinical examination:
+- Physical examination:
+  - No significant findings
+- Mental status examination:
+  - Patient reports feeling very anxious and depressed, but is not exhibiting any physical symptoms
+  - Patient is alert and oriented, with normal motor and sensory function
+
+Vitamin D:
+- Patient is taking a daily dose of 5000 IU per day of Vitamin D, as recommended by their primary care physician
+- Vitamin D levels in the CBC are within normal range
+
+Complete Blood Count:
+- Patient's CBC was completed on the same day as their visit, and results are"
+30,940,205,22,2024-09-25 04:00:00,"Patient: 21yo female
+
+Visit reason: Abdominal Pain
+
+Treatments:
+- Total Lipid Panel
+
+Prescribed medications:
+- Methotrexate
+- Prednisone
+
+Outcome:
+- Methotrexate has been administered and has been found to be effective in reducing the frequency and severity of the patient's abdominal pain. The patient's abdominal pain has improved significantly, and they are feeling better. The patient's medication regimen will be adjusted as needed to ensure that they continue to receive optimal treatment.
+
+Note: The total lipid panel results have revealed an increased total cholesterol level of 217mg/dL, triglycerides of 134mg/dL, and low-density lipoprotein cholesterol (LDL) of 104mg/dL. These results suggest a potential risk of developing cardiovascular disease. The patient's medication regimen will be adjusted accordingly to manage their cholesterol levels and reduce"
+31,823,206,21,2024-04-09 05:00:00,"Patient: Mr. Smith, aged 75, presented to our clinic today for a routine checkup. He had undergone a routine X-ray and a blood chemistry panel a few weeks ago. The results of these tests are as follows:
+
+X-ray:
+- No abnormalities found
+
+Blood Chemistry Panel:
+- Blood pressure: 110/70 mmHg
+- Blood sugar: 9.9 mmol/L
+- Cholesterol: 177 mg/dL
+- Creatinine: 1.2 mg/dL
+- BUN: 17 mg/dL
+
+Mr. Smith has a history of hypertension and diabetes mellitus. He was advised to follow a healthy diet and lifestyle changes. His cholesterol levels are within the normal range, but he should monitor his blood sugar levels closely. He is advised to visit our clinic regularly for follow-up checkups.
+
+Note: Mr. Smith is a male patient, 75 years old, with hypertension and"
+32,593,210,119,2025-09-11 04:00:00,"Patient: 29-year-old male
+
+Visit reason: Mental Health Concern
+
+Treatments:
+- Medication prescription: Zoloft 100mg daily
+- Allergy testing: Allergy shot
+
+Patient's Medical History:
+- History of depression, anxiety, and mood swings for the last 6 months
+- Consistent sleep disturbance, nocturnal awakenings, and fatigue
+- History of alcohol and substance abuse in the past 5 years
+- Family history of bipolar disorder, major depression, and anxiety disorders
+
+Physical Examination:
+- No significant physical findings
+
+Mental Status:
+- Remains stable and stable in cognitive function
+- Remains alert and oriented
+- Remains emotionally stable and maintains healthy social relationships
+- Remains engaged in routine activities without distress or difficulty
+
+Symptoms:
+- Mood swings, including depression, anxiety, and irritability
+- Insomnia, nocturnal awakenings,"
+33,851,226,7,2025-07-23 01:00:00,"Patient: 47yo male
+Visit reason: Dizziness
+Treatments: Complete Blood Count (CBC), Blood Chemistry Panel
+Complete Blood Count (CBC):
+- Hemoglobin 12.4g/dl
+- Hematocrit 34%
+- Platelets 220,000/mm3
+Blood Chemistry Panel:
+- Creatinine 1.2mg/dl
+- Potassium 7.1mEq/L
+- Bicarbonate 26mEq/L
+- Total bilirubin 0.2mg/dl
+- Albumin 3.0g/dL
+- Calcium 9.3mg/dL
+- Phosphorus 2.4mg/dL
+- Alkaline phosphatase 45U/L
+- Sodium 134mEq/L
+- Potassium 3.5mEq/L
+- Uric acid 1.2mg/dl
+- Sodium-potassium"
+34,728,231,372,2025-06-13 04:00:00,"Introduction:
+The patient is a 14-year-old female who presented to our clinic with the visit reason of imaging/scan. She was referred for a blood chemistry panel to assess for possible underlying conditions.
+
+Procedure:
+1. Blood Chemistry Panel:
+The patient was examined by our clinical team, who found no abnormalities. The blood chemistry panel was then conducted, which was within normal range.
+
+Results:
+The patient's blood chemistry panel results are as follows:
+
+1. Hemoglobin: 13g/dL
+2. Hematocrit: 37%
+3. Albumin: 1.3g/dL
+4. Bilirubin: 1.2mg/dL
+5. Creatinine: 0.6mg/dL
+
+Conclusion:
+The patient's blood chemistry panel results were within normal range. The results were consistent with her baseline profile.
+
+References:
+1. American Association of Clinical Endocrinologists and American College of Endocrinology. Clinical"
+35,528,235,396,2023-01-29 03:00:00,"Patient: 56yo male
+Visit date: 03/26/2021
+Visit reason: Dizziness
+Treatment: Complete Blood Count
+
+Patient's medical history:
+- History of hypertension for 10 years
+- History of heart disease for 20 years
+- History of diabetes for 15 years
+
+Current medications:
+- Beta-blockers for hypertension
+- Anti-platelet agents for heart disease
+- Glucocorticoids for diabetes
+
+Current symptoms:
+- Dizziness, nausea, and fatigue
+
+Physical exam:
+- Exam finds no significant abnormalities
+
+Laboratory tests:
+- Complete Blood Count (CBC) shows normal values
+
+Conclusion:
+- Dizziness is a common symptom in patients with hypertension, heart disease, and diabetes.
+- Complete Blood Count is a useful laboratory test in diagnosing these conditions.
+- Monitoring CBC and medication adjustments are recommended to manage symptoms and improve overall health."
+36,816,245,132,2025-07-19 03:00:00,"Patient: 14-year-old male
+Visit: 11/02/2021
+
+Treatments:
+1. Medication Prescription:
+- Dexamethasone 20mg orally
+- Ibuprofen 400mg twice daily
+- Paracetamol 1g orally
+
+2. Counseling/Therapy:
+- Patient has been experiencing high fever since the previous visit. They have been taking medication prescribed by the doctor. They have been advised to take paracetamol and ibuprofen to manage the fever. They have been advised to consult with the doctor if the fever persists.
+
+Conclusion:
+Patient is taking medication prescribed by the doctor to manage their fever. They are being advised to continue taking paracetamol and ibuprofen to manage the fever and consult with the doctor if the fever persists. The counseling/therapy sessions have been scheduled for the following week to address any other concerns the patient may have."
+37,211,249,78,2021-01-06 00:00:00,"Patient: 69yo female
+Visit date: 02/12/2021
+Visit time: 08:00 AM
+
+Intake:
+The patient is a 69-year-old female who presented to the clinic today with abdominal pain. Her presenting symptoms are abdominal pain, backache, and diarrhoea.
+
+History:
+The patient's medical history is significant for previous history of colon cancer, surgery for colon cancer, and chronic constipation. The patient also has a history of hypertension, diabetes, and hyperlipidemia. The patient has been taking medications for hypertension for the past 5 years and for diabetes for the past 2 years.
+
+Physical Examination:
+The physical examination of the patient shows that she has abdominal pain with tenderness and distention in the right lower quadrant, right upper quadrant, and lower right quadrant. There is a tender mass in the right upper quadrant. There is no tenderness in the right side of the chest. The patient"
+38,489,262,84,2024-09-28 04:00:00,"Patient: 9-year-old female
+
+Visit Date: 10/15/2021
+
+Medication: Emergency Treatment
+
+Given History:
+
+- History: On 10/15/2021, at 8:30 a.m., the patient presented with headache. She reported a few days of headaches, which have been increasing in frequency and severity. She also had a history of migraine headaches for the past year.
+
+- Exam: The patient's physical exam was unremarkable except for her headache. The patient's head was tender, and there was a left-sided occipital headache.
+
+- History: The patient's mother reported that she had a history of migraine headaches since the age of 20. The patient had been diagnosed with migraines in the past, but her symptoms have been improving with medication.
+
+- History: The patient's father reported that she had a history of migraine headaches since the age of 15. The patient had been taking an anti-"
+39,963,265,25,2022-02-25 00:00:00,"Patient: 88yo female
+Visit reason: Blood Disorder
+Treatments: Emergency Treatment
+
+Patient's Name: [Name]
+
+Given Date: [Date]
+
+Given Time: [Time]
+
+Physician: [Physician's Name]
+
+Department: [Department Name]
+
+Facility: [Facility Name]
+
+Patient's Address: [Address]
+
+Patient's Phone Number: [Phone Number]
+
+Patient's Email Address: [Email Address]
+
+Symptoms: [Symptoms]
+
+Diagnosis: Blood Disorder
+
+Treatment Plan: Emergency Treatment
+
+1. Blood transfusion to replace the missing blood cells
+
+2. Antibiotics to prevent infection
+
+3. Fluid resuscitation to restore blood volume
+
+4. Antipyretics to manage fever
+
+5. Mild sedation to minimize pain and discomfort
+
+6. Follow-up with the physician to monitor the recovery and any side effects"
+40,664,268,96,2024-04-19 06:00:00,"Clinical Note:
+
+Patient: 79yo male
+
+Visit reason: Blood Disorder
+
+Treatments: Medication Prescription
+
+Patient's demographics:
+
+- Age: 79
+- Gender: Male
+- Race: White
+- Height: 5'10""
+- Weight: 175lbs
+- Family history: No history of blood disorders
+
+Patient's symptoms:
+
+- Fever
+- Rash
+- Abdominal pain
+- Weakness
+- Fatigue
+- Headache
+- Shortness of breath
+
+Physical examination:
+
+- No abnormal findings
+
+Lab results:
+
+- Blood tests:
+    - WBC: 10x109/L
+    - ESR: 20mm/hr
+    - CRP: 3.5mg/L
+
+- Urine analysis:
+    - Leukocytes: 10x109/L
+    - Protein: 2.5g/L
+    - Urine"
+41,764,275,55,2021-11-20 06:00:00,"Title: Patient 39yo Male Visit for Diabetes Management
+
+Date: 20th January 2022
+Time: 12:30 pm
+Location: Operating Room
+
+Patient: Mr. John Doe (39yo male)
+
+Currently, Mr. John Doe is on medication for diabetes. He has been seeing his primary care physician for the past 6 months to manage his blood sugar levels. His blood sugar levels have been consistently above the healthy range of 70-120mg/dl. Mr. Doe's health condition is stable and his blood sugar levels have remained within the healthy range.
+
+Today's visit is for the patient to receive a x-ray to monitor his progress.
+
+Treatment: X-ray
+
+Medication: Insulin
+
+Patient: Mr. John Doe
+
+Medication: X-ray
+
+Treatment: X-ray
+
+Medication: Insulin
+
+Patient: Mr. John Doe
+
+Medication: X"
+42,116,296,36,2025-05-28 00:00:00,"I. Introduction
+On [Date] at [Time], a 56-year-old female presented to our clinic with complaints of abdominal pain. She reported that it started a week ago and was worse during her workout the day before. She reported no history of recent injuries or surgery. Her symptoms included abdominal pain that worsened on the left side and caused nausea and vomiting. She also reported fatigue and shortness of breath.
+II. History
+The patient reported that she had been working out at the gym the day before and had felt pain in her left abdomen. She had no history of recent injuries or surgeries. She denied any recent medical history or travel history.
+III. Physical Examination
+The patient was examined by the doctor. The patient was alert and oriented, and her vital signs were within normal limits. Her height was 5'7"" and her weight was 140 pounds. Her blood pressure was 120/80 mmHg, and her pulse was 60 beats per minute. Her respiratory rate was 18 breaths"
+43,216,299,23,2024-05-27 04:00:00,"Patient: 27yo male
+Visit reason: Blood Disorder
+Treatments: Immunization
+
+Background:
+The patient presented to the clinic with complaints of fatigue, anemia, and thrombocytopenia. He had been experiencing these symptoms for the past 6 months, and his medical history included a history of idiopathic thrombocytopenic purpura (ITP) and chronic kidney disease (CKD).
+
+Diagnosis:
+Based on the patient's history, clinical examination, and laboratory tests, it was diagnosed that he has a blood disorder, which is characterized by low platelet count and increased bleeding risk. The diagnosis was confirmed through a platelet count test, which showed a platelet count of 20,000/mm3, below the normal range of 150,000-450,000/mm3.
+
+Treatment:
+The patient was referred to the clinic for immunization. He was advised to receive the recommended vaccines, including"
+44,676,311,418,2023-12-30 05:00:00,"Patient: 80yo male
+Visit reason: High Blood Pressure
+Treatments: Medication Prescription
+
+I. Patient Information
+- Name: John Doe
+- Age: 80
+- Gender: Male
+- Height: 5’9”
+- Weight: 180lbs
+- Race/ethnicity: White
+- Family history: Hypertension
+
+II. Medical History
+- Onset of symptoms: Has been experiencing high blood pressure for the past two years.
+- Medications: Blood pressure medication (Aldactone) and diuretic (Brand X)
+- Family history: Hypertension in both parents
+
+III. Physical Examination
+- General assessment: Patient is alert and oriented. Heart rate is 60 beats per minute, blood pressure is 130/80 mmHg, and body temperature is 37.2°C.
+- Percussion: No findings
+- Respiratory: No findings
+- Ocular: No findings
+- Neurologic: No findings"
+45,655,312,237,2023-04-08 00:00:00,"Patient: 68yo male
+Visit reason: Chest Pain
+Treatments: X-ray
+
+Patient presented to the clinic today with the complaint of chest pain. The patient was informed that they had undergone an x-ray examination on the previous day. The note records the results of the x-ray, which revealed a small area of calcification in the right upper lobe of the chest. The patient is advised to follow up with their primary care physician for further evaluation and management. The note also notes that the patient is scheduled for a follow-up appointment in two weeks."
+46,5,313,107,2025-07-23 05:00:00,"Patient: 4-year-old male
+Visit: 11/03/2021
+
+Introduction:
+The patient presented to the clinic with complaints of hearing loss. The family has reported that the child has been experiencing difficulty hearing in noisy environments and that he is frequently irritated by his hearing aids. The family has been advised to perform a hearing test.
+
+Procedure:
+Vision Test: The patient was given a vision test. The result was normal.
+
+Treatments:
+Vision Test: The patient underwent a vision test. The result was normal.
+
+Conclusion:
+Based on the patient's history and the results of the visit, the following treatment recommendations have been made:
+
+1. Vision Test: The patient will undergo a vision test to confirm the results of the hearing test.
+
+2. Treatment: The patient will undergo a hearing test to determine the cause of his hearing loss and to ensure that he is receiving the appropriate treatment.
+
+3. Follow-up: The family will be advised to follow-up with the audiologist to"
+47,93,318,484,2025-04-23 04:00:00,"Patient: 28yo male
+
+Visit reason: High Blood Pressure
+
+Treatments: Medication Prescription
+
+Patient's presenting symptoms: Hypertension (High blood pressure)
+
+History:
+- Present for visit for medication prescription
+
+Physical examination:
+- Blood pressure is 160/90 mmHg
+
+Laboratory test results:
+- EKG shows normal rhythm
+- Blood sugar is 120 mg/dL
+- Lipid profile is within normal range
+- ESR is 2-3
+
+Diagnosis: Hypertension
+
+Treatment:
+- Medication: Aspirin 100mg twice daily, Diuretic (water pills) 0.8mg once daily, ACE inhibitor (Plavix) 75mg once daily, and Antihypertensive medication (blood pressure medication) 100mg twice daily
+
+Recommendations:
+- Continue medication as prescribed
+- Follow up with the doctor at"
+48,449,321,465,2024-01-10 00:00:00,"Patient: 28-year-old male, resident of City X, presented to the hospital with urinary problems. He reported feeling a burning sensation in his lower abdomen for the last few days. His urine was dark brown in color, and he had difficulty passing urine consistently. He also had difficulty with bowel movements.
+
+Treatment: Vitamin D
+
+Based on the patient's history and symptoms, it is determined that he has a vitamin D deficiency. Vitamin D is essential for maintaining healthy bones and regulating the body's calcium and phosphorus levels. Vitamin D supplementation is recommended, and the patient will be prescribed a 400 IU/day vitamin D3 supplement. He will also be instructed to take a 1,000 IU vitamin D3 supplement daily, as well as consult with a nutritionist to ensure proper dosage and supplementation.
+
+Discussion:
+Vitamin D is essential for maintaining healthy bones and regulating the body's calcium and phosphorus levels. In this"
+49,864,341,470,2021-10-24 03:00:00,"Patient: 75yo male
+
+Visit reason: Nausea
+
+Treatments: Blood Chemistry Panel
+
+Patient presented to the clinic with a history of nausea and vomiting for the past week. He reports feeling generally unwell, with a feeling of nausea and occasional vomiting. The patient's medical history is notable for a history of hyperthyroidism, which he has been on medication for for several years. The patient has been prescribed a medication to help manage his hyperthyroidism and is taking it as instructed.
+
+Blood Chemistry Panel
+
+The blood chemistry panel was ordered to assess his nutritional status, which is generally good. His sodium and potassium levels are normal, but his calcium and magnesium levels are slightly low. The patient's blood chemistry results show that he is low in calcium and magnesium, which could be contributing to his nausea and vomiting. The panel also shows a normal thyroid-stimulating hormone level.
+
+The patient's overall health is stable, and he is able"
+50,78,345,213,2025-05-04 08:00:00,"Blood disorder: Patient 55yo female is presenting with the following complaints:
+- Prolonged bleeding from nose or gums
+- Bleeding from nose or gums for 6 months
+- Nocturnal hemorrhages
+- Nocturnal bleeding in the absence of pain or other signs of injury
+- Nocturnal bleeding without an obvious cause
+- Nocturnal bleeding with signs of injury
+- Nocturnal bleeding from nose or gums
+- X-ray (bone marrow examination)
+
+The patient's treatment plan will include:
+- X-ray for bone marrow examination
+- Treatment of bleeding disorder
+- Monitoring of bleeding
+- Medical management of bleeding disorder
+
+Conclusion:
+- Patient has a history of nocturnal bleeding for 6 months.
+- Nocturnal hemorrhages without pain or other signs of injury.
+- Nocturnal bleeding without signs of injury.
+- Nocturnal bleeding without an obvious cause.
+- Nocturnal ble"
+51,442,361,21,2024-06-06 02:00:00,"Patient: 66yo male
+Visit reason: Nausea
+Treatments: Complete Blood Count
+
+Patient:
+66yo male
+Visit reason: Nausea
+
+Treatments: Complete Blood Count
+
+Patient's medical history:
+- History of recurrent abdominal pain
+- History of recurrent upper respiratory tract infections
+- History of gastroesophageal reflux disease
+
+Patient's physical examination:
+- Vital signs: 106/68, heart rate 90, respiratory rate 18/min
+- General: normal
+- Neurological: normal
+- Cardiovascular: normal
+- Digestive: normal
+- Lungs: normal
+- Urinary: normal
+
+Complete Blood Count (CBC) results:
+- Hemoglobin: 12g/dl
+- Packed cell volume: 42%
+- ESR: 4
+- CRP: 0.0
+- WBC: 7,500/mm3
+- Neut"
+52,505,370,51,2025-07-14 08:00:00,"Patient: 84yo male
+
+Visit reason: Medication Refill
+
+Treatments: Physical Therapy
+
+Medication: Adalimumab 40mg (Carefree)
+
+Adverse effects: Fever, chills, myalgia, headache, injection site reactions (erythema, swelling, pain), arthralgia, fatigue, back pain, tenderness, joint pain, decreased appetite, gastrointestinal symptoms (nausea, vomiting, abdominal pain, diarrhea), skin rash (pruritus), skin reaction (erythema, urticaria, pruritus), anaphylaxis, hypersensitivity (rash, angioedema, urticaria, bronchospasm, angioedema, urticaria, bronchospasm), rash (pruritus, urticaria), arthralgia, myalgia, back pain, joint pain, injection site erythema, tenderness, joint pain, decreased appetite, g"
+53,778,372,336,2024-06-02 06:00:00,"Patient: 85yo female
+
+Visit reason: Blood Disorder
+
+Treatments: Complete Blood Count (CBC), Blood Chemistry Panel.
+
+The patient presented to the clinic with complaints of fatigue, weakness, and anorexia. Laboratory tests revealed elevated levels of WBC (White Blood Cells) and anemia. Complete Blood Count (CBC) and Blood Chemistry Panel were ordered to assess the severity and the underlying cause of the disorder.
+
+CBC results showed that the patient had a high number of white blood cells (WBC) with neutrophils predominating. The CBC results were consistent with acute myeloid leukemia (AML).
+
+Blood Chemistry Panel revealed anemia with low hemoglobin levels, low red blood cell count, and low platelet count. These findings were consistent with anemia of chronic disease (ACD).
+
+A complete blood count (CBC) and blood chemistry panel are commonly used tests to assess the severity and underlying cause of various diseases. ACD is a common anemia that occurs in elder"
+54,505,378,366,2025-08-24 01:00:00,"Patient: 84yo male
+Visit reason: Vaccination
+Treatments: Total Lipid Panel
+
+Patient presented to the clinic today for a routine visit. The patient has been advised to undergo a total lipid panel due to his elevated total cholesterol level. The patient's total cholesterol level is 400mg/dL, which is above the normal range of 180-200mg/dL. The patient has been advised to follow up with his primary care physician for further recommendations on his cholesterol management.
+
+Clinical note:
+The Total Lipid Panel is a comprehensive test that evaluates the levels of cholesterol, triglycerides, and other lipid-related markers in the blood. High levels of total cholesterol, triglycerides, and low-density lipoprotein cholesterol (LDL-C) are indicators of cardiovascular risk, which can lead to the development of heart disease and stroke. The Total Lipid Panel can help identify patients"
+55,668,404,51,2025-09-20 06:00:00,"Patient: 0yo female
+Visit date: 01/20/2021
+Visit reason: Headache
+
+Treatments:
+- X-ray: No abnormalities found
+- Blood Chemistry Panel: Alkaline phosphatase (ALP) 2.9, aspartate aminotransferase (AST) 1.9, alanine aminotransferase (ALT) 2.5, and total bilirubin 0.1 mg/dl
+
+Discussion:
+Headaches are a common complaint among adults. The patient presented with a headache that started 2 days ago and persisted for 1 day. The patient's medical history was significant for hypertension and obesity, but no other significant medical conditions were noted. The patient's headache is characterized by intense pain, usually located on one side of the head, that can be triggered by neck movements or changes in position. Physical examination revealed no abnormalities.
+
+Conclusion:
+The patient's headache is likely to be a benign"
+56,703,406,109,2025-01-10 07:00:00,"Patient: 48-year-old female, presented to the clinic with complaints of blurred vision for the past 1 week. She has no significant medical history or family history.
+
+Visit reason: Vision Problem
+
+Treatments: Complete Blood Count (CBC) and medication prescription for Vitamin A supplements and anti-inflammatory medication.
+
+1. Complete Blood Count (CBC)
+- Hemoglobin: 13.8 g/dl
+- Packed cell volume: 45.9%
+- Reticulocyte count: 11.5%
+- Red blood cell count: 13.5%
+- White blood cell count: 5.4%
+- Platelet count: 151,000/μl
+
+2. Medication Prescription
+- Vitamin A supplements: 4,000 units
+- Anti-inflammatory medication: 200 mg aspirin daily
+
+3. Inflammatory Markers
+- C-reactive protein: 2"
+57,206,407,486,2021-04-19 04:00:00,"Clinical note: 91-year-old female presented to the clinic with urinary symptoms. She reported a history of hypertension, dementia, and constipation. She had a complete blood count (CBC) performed to rule out any underlying infection. Complete blood count results showed anemia (Hb 8.6g/dL) and thrombocytopenia ( platelets 50,000/µL). Patient's urine analysis revealed a urine concentration of 1.2 gm/dL. Complete blood count was ordered to rule out any underlying infection. A diagnosis of urinary tract infection (UTI) was made. Patient was advised to follow-up with a urologist for further evaluation and treatment. The note is a brief summary of the visit and the treatment given. It includes the patient's demographic information, visit reason, and the diagnosis made. The note is written in a clear and concise style, highlighting key points and providing relevant information."
+58,891,419,455,2024-02-01 04:00:00,"Patient: 61yo female
+
+Visit reason: Shortness of Breath
+
+Treatments: Complete Blood Count
+
+Shortness of breath is a common symptom of various respiratory illnesses. Complete Blood Count (CBC) is a test that checks the number of red blood cells, white blood cells, and platelets in the blood. A complete blood count (CBC) is an essential test for patients with respiratory symptoms, including shortness of breath, shortness of breath on exertion, and fatigue. The results of the CBC test will help the healthcare provider identify any underlying respiratory illness, such as tuberculosis or pneumonia, and initiate appropriate treatment. The CBC results for this patient are as follows:
+
+Complete blood count:
+- Red blood cells: 12.4 x 109/L (normal range: 12-48 x 109/L)
+- White blood cells: 12.6 x 109/L (normal range: 4-16 x 109/L)
+- Pl"
+59,95,421,245,2024-04-02 04:00:00,"Patient: 70yo female
+Visit reason: Allergy
+Treatments: Thyroid Panel
+
+Brief medical note:
+
+70yo female presented with a 1-day history of a rash and fever. She has a history of hypothyroidism, with a TSH of 1.7. Her current treatment is levothyroxine.
+
+Treatments:
+
+1. Thyroid Panel
+Results: TSH 1.7, Free T4 2.74, Free T3 1.67.
+
+The thyroid panel is consistent with hypothyroidism.
+
+Patient's current treatment:
+
+1. Levothyroxine (L-T4) 100mcg per day.
+
+Treatment goals:
+
+1. Reduce fever and rash.
+2. Continue levothyroxine treatment.
+
+Assessment:
+
+1. The rash is a diffuse, erythematous, maculopapular, and pruritic lesion.
+2"
+60,831,425,76,2022-04-28 08:00:00,"Patient: 65yo male
+
+Visit reason: Annual Physical
+
+Treatments: Medication Prescription
+
+Presenting Signs and Symptoms:
+- Mild to moderate fatigue
+- Difficulty in walking
+- Decreased appetite
+- Increased thirst
+- Sweating profusely
+
+History:
+- 10 years of hypertension
+- 10 years of diabetes mellitus
+- 5 years of chronic obstructive pulmonary disease (COPD)
+- 20 years of alcohol abuse
+
+Physical Examination:
+- Warm to the touch in the hands and feet
+- Decreased muscle mass
+- Decreased appetite
+- Decreased flexibility
+- Decreased range of motion in the hip and knee joints
+- Decreased weight-bearing strength in the feet and legs
+
+Clinical Findings:
+- Decreased blood pressure: 120/80 mmHg
+- Decreased heart rate:"
+61,157,429,68,2023-07-22 02:00:00,"Patient: 16-year-old female
+
+Visit: 21st November 2021
+
+Reason for visit: Imaging/Scan
+
+Treatments: Counseling/Therapy, Medication Prescription
+
+Overview:
+
+1. Patient presented to the clinic with complaints of headaches and fatigue. She had been experiencing these symptoms for a few weeks, and they had not been adequately managed.
+
+2. Physician discussed the patient's symptoms with the patient, and a history was obtained. The patient's family history was also taken.
+
+3. The patient was advised to undergo a computed tomography (CT) scan of the head, which would provide a detailed picture of the brain.
+
+4. The patient was counseled and prescribed medication for her headaches. She was also referred to a therapist for further counseling.
+
+5. The patient was seen again on 24th November 2021, and her CT scan was done.
+
+6. CT scan showed a mass in the right frontal"
+62,420,431,459,2024-10-30 04:00:00,"Patient: 19-year-old male
+
+Visit Date: 2021-09-02
+
+Diagnosis: Vitreous Hypothesis (optic nerve atrophy)
+
+Treatment Plan:
+- Renal Panel: Results normal
+- Medication Prescription: Vitrectomy surgery scheduled for 12:00 pm on 2021-09-04
+
+Prognosis: The patient is expected to recover from this condition within 6 months.
+
+Overall Observation: The patient has a history of diabetes mellitus, hypertension, and hyperlipidemia. He has been taking medications for these conditions for some time. His vitreous is normal, and he is scheduled for a renal panel and medication prescription on the same day. It is recommended that he undergoes a vitrectomy surgery for vitreous hypothesis. This diagnosis will help in the management of the patient's condition."
+63,564,432,252,2023-12-25 03:00:00,"Introduction:
+The patient is a 30-year-old male, presented with complaints of fatigue, weakness, and malaise for the past 2 weeks. He has been suffering from recurrent episodes of low-grade fever, nausea, and vomiting. The patient also complains of pain in the right lower extremity.
+
+History:
+The patient has a history of type 2 diabetes mellitus, hypertension, and hyperlipidemia. He has been taking medications for these conditions for the past 10 years. The patient has also been diagnosed with a history of myeloproliferative neoplasm (MPN) in the past.
+
+Physical Examination:
+The physical examination reveals a healthy-appearing patient with a weight of 72 kg and a height of 175 cm. The patient is afebrile with no fever. His vital parameters are within normal limits.
+
+Blood Examination:
+The patient has a total lipid panel test that reveals a total cholesterol of 175 mg"
+64,881,445,7,2025-08-08 03:00:00,"Name: _____________________
+DOB: _____________________
+Gender: _____________________
+Address: _____________________
+Phone: _____________________
+Email: _____________________
+
+Patient: 81yo female
+
+Visit Date: _____________________
+Visit Time: _____________________
+Visit Location: _____________________
+
+History:
+
+On arrival, patient presented with complaints of hearing loss. She reported that she has been experiencing this for the last two weeks. She also mentioned that her husband and son have also noticed the same issue. Patient's husband is an engineer and her son is an accountant.
+
+Physical Examination:
+
+Patient is a healthy, non-smoker, and non-drinker. Her vital signs are within normal limits. Her blood pressure is 130/80 mmHg, heart rate is 70 beats per minute, and respiratory rate is 18 breaths per minute.
+
+Medication Prescription:
+
+Patient is currently taking medications for hypertension (50mg) and diabetes (100m"
+65,106,447,215,2021-08-26 01:00:00,"Patient: 71yo male
+Visit reason: Shortness of Breath
+Treatments: Medication Prescription
+
+Medication Prescription:
+- Salbutamol 4mg/kg/day
+
+Shortness of Breath:
+- The patient has been experiencing shortness of breath since the visit. It has been worsening over the past few days. The patient is instructed to take medication for shortness of breath.
+
+Conclusion:
+- The patient's shortness of breath is caused by the medication prescribed. The patient is advised to take medication as prescribed and to monitor the condition closely.
+
+Note: If the patient experiences any severe shortness of breath, or if the condition persists, please consult the doctor."
+66,467,448,491,2024-12-30 05:00:00,"Patient: 88-year-old female
+
+Visit Date: 07/13/2021
+
+Patient's Name: Jane Doe
+
+Gender: Female
+
+Age: 88
+
+Respiratory: Normal
+
+Cardiovascular: Normal
+
+Gastrointestinal: Normal
+
+Metabolic: Normal
+
+Hematological:
+
+Blood Chemistry Panel:
+- Serum Creatinine: 0.2mg/dL
+- Serum Potassium: 7.0mmol/L
+- Serum BUN: 35mg/dL
+- Serum Urea: 3.6mg/dL
+- Serum Albumin: 3.1g/dL
+
+Treatment:
+- Blood Chemistry Panel (Blood Draw)
+
+Note: Patient is a 88-year-old female who presented to the clinic with leg swelling. Patient is on a healthy diet and has a normal BMI. Physical exam is un"
+67,817,472,100,2024-11-25 02:00:00,"Title: Back Pain
+
+Date: 12/28/2021
+
+Patient: Mr. Smith (59yo male)
+
+Visit: Back Pain
+
+Treatment: Vision Test
+
+Physician: Dr. Johnson
+
+Introduction:
+
+Mr. Smith presented to our clinic with complaints of pain in his lower back for the past week. He reports no history of trauma or surgery. The pain is present on one side of his lower back, radiating down to his thigh and calf. Mr. Smith's physical exam revealed no significant findings.
+
+Clinical Findings:
+
+Mr. Smith's physical exam revealed no significant findings.
+
+History:
+
+Mr. Smith reported no relevant history of back pain.
+
+Discussion:
+
+Mr. Smith's complaints of pain in his lower back have been consistent over the past week. The patient states that the pain is present on one side of his lower back, radiating down to his thigh and calf. No significant findings were noted on physical exam. The patient's past medical history is notable"
+68,283,488,366,2022-06-27 06:00:00,"Patient: 18yo female
+Visit reason: Annual Physical
+Treatments: Emergency Treatment
+
+Clinical Summary:
+
+Patient presented at our clinic for an annual physical examination. She had previously been referred to our clinic for a minor injury, which had been treated appropriately by our emergency department. The patient was in good health and had no significant medical history.
+
+Physical Examination:
+
+The patient's physical examination was unremarkable. Her vital signs were within normal ranges. Her general physical examination was unremarkable.
+
+Medications:
+
+The patient was taking medications for her asthma, which she had been taking for several years.
+
+Treatments:
+
+Emergency Treatment:
+
+The patient was treated for a minor injury, which had been treated appropriately by our emergency department. No further treatment was necessary.
+
+Conclusion:
+
+The patient's annual physical examination was unremarkable. Her vital signs were within normal ranges. She was in good health and had no significant medical history. She was advised"
+69,327,498,373,2024-08-04 05:00:00,"[Patient: 32yo male]
+
+Visit reason: Fatigue
+
+Treatments: Complete Blood Count (CBC), Blood Chemistry Panel, Hearing Test
+
+Patient's Medical History:
+- History of hypertension for 5 years
+- History of diabetes for 3 years
+- History of hyperlipidemia for 2 years
+- History of anemia for 2 years
+
+Physical Examination:
+- Eyes: Examination of both eyes with pupils dilated
+- Hearing: Normal hearing
+- Cardiovascular system: No abnormalities observed
+- Respiratory system: No abnormalities observed
+- Gross General Examination: Normal
+
+Complete Blood Count:
+- Normal hemoglobin levels
+- Normal red blood cell count
+- Normal platelet count
+
+Blood Chemistry Panel:
+- Normal total bilirubin level
+- Normal total protein level
+- Normal serum alkaline phosphatase level
+- Normal serum aspartate aminotransferase level
+- Normal"
+70,351,500,418,2023-07-26 03:00:00,"Patient: 94yo male
+Visit reason: Weight Loss
+Treatments: Medication Prescription
+
+Introduction:
+Presented with a medical note, we are aware of the patient's age, gender, and the reason for the visit. The patient is 94yo male and has been diagnosed with obesity, which is characterized by a body mass index (BMI) of greater than 30. We have received a medication prescription for a weight-loss medication, which is a common treatment for obesity. The patient has been prescribed this medication for 2 months.
+
+Body:
+The medication prescription is a tablet containing a weight-loss medication. The medication is taken orally, usually once a day, with or without food. The dosage may vary based on the patient's weight, age, and medical conditions. The medication works by reducing appetite, increasing metabolism, and suppressing the feeling of hunger. The patient is advised to take the medication as prescribed and to monitor any side effects.
+
+Conclusion:
+We have completed the"
+71,873,502,407,2023-10-18 02:00:00,"Patient: 79yo female
+
+Visit reason: Cough
+
+Treatments:
+- Renal Panel: Renal function is normal
+- Complete Blood Count: All normal
+- Ultrasound: No abnormalities detected
+
+Conclusion:
+- Patient's symptoms and condition have resolved.
+- Treatment plan is as per the physician's instructions."
+72,327,503,377,2024-06-03 07:00:00,"Patient: 32-year-old male
+
+Visit Date: _____________
+
+Visit Description: Weight Loss
+
+Treatments:
+1. Inflammatory Markers: Complete Blood Count (CBC) and Complete Blood Count with differential (CBCD)
+2. Medication Prescription: Nexium and Zantac
+
+Outcome:
+The CBC showed a decrease in total white blood cells, eosinophils, and neutrophils, indicating an increase in inflammation. The CBCD showed a decrease in eosinophils and neutrophils, indicating decreased inflammation. The medication prescription was adjusted to decrease Zantac and increase Nexium.
+
+Recommendations:
+1. Continue Nexium for 3-4 weeks and monitor for rebound effects.
+2. Adjust Zantac to 80mg per day and monitor for rebound effects.
+3. Conduct a follow-up visit in 2 weeks to assess the effectiveness of the medication prescription.
+
+Signature: __________________________"
+73,137,506,221,2021-06-20 06:00:00,"Patient: 14-year-old male, male, born on 12/12/2005
+Visit Date: 05/12/2018
+Visit Type: Primary
+
+Introduction:
+
+The patient presented to our clinic with a history of hearing loss in both ears. He reported that he has been experiencing tinnitus and difficulty hearing sounds in both ears for the past few months. He was also experiencing vertigo and a history of epilepsy.
+
+Physical Examination:
+
+The patient's examination was unremarkable. He had normal vital signs, including blood pressure, pulse rate, and oxygen saturation.
+
+Blood Chemistry Panel:
+
+Blood chemistry panel was ordered to rule out any underlying medical conditions that may affect hearing or balance. The results showed elevated levels of potassium, calcium, and magnesium, which are typically associated with hearing loss.
+
+Complete Blood Count:
+
+The complete blood count (CBC) showed anemia with low hemoglobin levels, which can be a sign of"
+74,840,509,373,2022-09-27 00:00:00,"Patient: 58-year-old female
+Visit Date: 07/05/2021
+
+Medications Prescribed:
+1. Medication Prescription: Fever Reduction Medication
+2. Prescription for Physical Therapy
+
+Complete Blood Count:
+Prescribed due to recent fever.
+
+Reason for Visit:
+Patient has a history of frequent fevers, which is concerning. Physical examination shows normal vital signs, but recent fever. Treatments given are Fever Reduction Medication and Physical Therapy.
+
+Conclusion:
+Fever is a common symptom associated with COVID-19, and the patient is being prescribed Fever Reduction Medication and Physical Therapy for a few days. The patient will continue with these treatments for a few days, and they will be monitored closely."
+75,661,515,419,2021-04-08 02:00:00,"Brief Medical Note for Patient: 45yo female, visit reason: Blood Disorder, medication prescription
+
+Patient presented with a 3-day history of nausea, vomiting, and fatigue. She reported no significant past medical history. Physical examination revealed a mildly elevated white blood cell count (WBC) of 10,600/mm3 (normal range: 4,500-12,000/mm3). Blood tests revealed a serum chemistry profile that indicated a moderate anemia (hemoglobin: 8.6g/dl, hematocrit: 35.2%). Her urine examination showed an increased red blood cell count (RBC) of 10,200/mm3 (normal range: 3,500-8,000/mm3). Her urine microscopy examination revealed the presence of hematuria, a mildly elevated urinalysis protein count, and a mildly elevated urinalysis nitrites. Laboratory tests revealed a high white blood cell count"
+76,697,524,435,2023-05-12 08:00:00,"Patient: 5-year-old female, name withheld for privacy.
+
+Visit date: 10/16/2021
+
+Physician's name: XYZ
+
+Given history: Patient presented with a 5-year-old female complaining of skin rash since 10 days. She denied any prior medical history, travel history, or any unusual lifestyle habits. Her family history is negative.
+
+Physical examination:
+
+Patient's physical examination was unremarkable. There is no fever, rash, or other abnormal findings.
+
+Lab results:
+
+Total Lipid Panel:
+
+- Total cholesterol: 255 mg/dL
+- Triglycerides: 109 mg/dL
+- HDL: 54 mg/dL
+- LDL: 125 mg/dL
+- VLDL: 72 mg/dL
+
+Blood sugar:
+
+- Hemoglobin A1c: 6."
+77,424,525,21,2023-12-13 07:00:00,"Patient: 96-year-old female
+
+Visit reason: Medication Refill
+
+Treatments: Hearing Test
+
+Patient’s medical history:
+- Prescription medication: N/A
+- Medications taken: N/A
+- Allergies: N/A
+
+Physical examination:
+- Bp 120/80
+- ECG normal
+- Echocardiogram normal
+- Chest X-ray normal
+
+History:
+- History of hearing loss: N/A
+- History of recent falls: N/A
+- History of hypertension: N/A
+- History of depression: N/A
+- History of cardiovascular disease: N/A
+
+Clinical findings:
+- Blood pressure: 120/80
+- Echocardiogram: Normal
+- Chest X-ray: Normal
+
+Recommendations:
+- Continue current medication regimen
+- Recommendation for hearing test
+- Recommendation for medication adjustment for hypertension and depression"
+78,653,526,328,2025-05-10 06:00:00,"Patient: 21-year-old female
+
+Visit: 23rd March 2022
+
+Treatments:
+
+1. X-ray:
+- Procedure: X-ray of the spine and pelvis
+- Findings: No abnormalities found
+
+2. Complete Blood Count:
+- Procedure: Blood count performed to check for anemia, hypoxia, and leukocytosis
+- Findings: Normal blood count
+
+Patient's presenting complaint: Back pain.
+
+History:
+- Patient reported a history of lower back pain for the past 6 months.
+- Physical exam:
+  - Patient reports no findings.
+
+Physical findings:
+- No physical findings.
+
+Medication:
+- No medication is prescribed.
+
+Lab findings:
+- Complete blood count:
+  - Normal blood count.
+
+Referral:
+- Patient is referred to the orthopedic clinic for further evaluation and treatment.
+
+Note: Patient's presenting complaint is back pain. Medical"
+79,142,537,365,2025-11-24 07:00:00,"Patient: 27yo female
+
+Visit reason: Shortness of Breath
+
+Treatments: Renal Panel (normal), Medication Prescription (medication prescribed for shortness of breath)
+
+Shortness of breath is a common complaint that can be caused by various factors, such as asthma, bronchitis, or pneumonia. In this case, the patient presented to the clinic with shortness of breath, and a detailed history was taken to help determine the cause. Renal panel was normal, indicating that the patient's kidney function is functioning as expected. Medication prescription was provided, which included a medication for shortness of breath. The shortness of breath was a result of shortness of breath and shortness of breath was a result of the medication prescribed for shortness of breath. The shortness of breath was not a life-threatening condition, and the patient was advised to take the medication as prescribed."
+80,929,541,211,2025-05-03 02:00:00,"Patient: 36-year-old female
+Visit date: 12/10/2021
+
+Medical history: Patient presented with a rash on her left forearm, which was initially thought to be a case of acute pyoderma gangrenosum. She had previously had a similar rash on her left hand a few years ago, and this time it was much more severe. Patient has also had a history of allergies to certain foods, which has led to a history of hives in the past. Patient has also had a history of diabetes, and she is currently being treated for that.
+
+Physical exam:
+- Patient has a small, tender, and reddish-brown rash covering her left forearm, with a slight bluish tint. The rash is well-defined and does not appear to be spreading.
+- No other signs or symptoms were present.
+
+Treatments:
+- Medication prescription: Patient will be prescribed a topical corticosteroid (Lotrimin AF) for the rash,"
+81,564,545,419,2024-01-22 02:00:00,"Patient: 30-year-old male presenting with complaints of fatigue, weight loss, and general weakness. Family history of familial hypercholesterolemia (FH), hypertension, and atrial fibrillation. Medical history is notable for hypertension, hyperlipidemia, and diabetes. Physical examination reveals a 30-year-old male with weight loss, generalized weakness, and fatigue. His vital signs are stable. Chest examination reveals no significant findings. Cardiovascular system examination is notable for no murmurs, no enlarged heart, and no cardiac enzymes. Urine analysis reveals a urinary tract infection. Laboratory tests reveal a complete blood count (CBC) with normal hemoglobin, hematocrit, and platelets. Blood chemistry panel reveals hypercholesterolemia, hypertension, and hyperuricemia. Based on the patient's history and physical examination findings, the diagnosis of familial hypercholesterolemia (FH) and hypertension"
+82,735,548,111,2025-11-12 04:00:00,"Patient: 2-year-old female
+
+Visit Date: [insert visit date]
+
+Visit Description: Diabetes Management
+
+Treatment: X-ray
+
+Introduction:
+The patient is a 2-year-old female. She was seen at the clinic for diabetes management.
+
+Patient History:
+- The patient has been diagnosed with type 1 diabetes at the age of 12 months.
+- The patient's HbA1c level is currently 10.5%.
+- The patient's fasting blood sugar (FBS) level is currently 96 mg/dL.
+
+Clinical Findings:
+- The patient's FBS level remains stable.
+
+Diagnosis:
+The patient's diagnosis is type 1 diabetes.
+
+Treatment:
+- The patient will receive insulin injections every day at 12 noon.
+- The patient will receive glucagon every day at 5 pm.
+- The patient will receive medications for hypoglycemia every morning."
+83,516,562,110,2022-10-30 02:00:00,"Patient: 37yo male
+Visit reason: Back Pain
+
+Treatments:
+- Blood Chemistry Panel:
+  - Blood Chemistry:
+    - Hb: 12.1g/dL
+    - Haemoglobin: 12.1g/dL
+    - Iron: 27.3mg/dL
+    - Albumin: 2.7g/dL
+    - Total bilirubin: 1.1mg/dL
+    - Creatinine: 1.3mg/dL
+    - GGT: 12.7U/L
+    - LDH: 542U/L
+    - Alkaline Phosphatase: 410U/L
+    - Alpha-1-antitrypsin: 2.5ng/mL
+    - Uric Acid: 1.6mg/dL
+    - Total protein: 6.1g/dL
+    - Albumin: 1.1g/dL"
+84,968,565,363,2024-08-03 05:00:00,"Patient: 7-year-old male
+Visit reason: Shortness of Breath
+Treatments: IV Therapy, Medication Prescription
+
+Introduction:
+The patient, a 7-year-old male, presented to the clinic with shortness of breath. He had been experiencing this symptom for the past two days.
+
+Medical History:
+The patient's medical history was significant for asthma, bronchitis, and allergies. He had recently been diagnosed with bronchitis and had been prescribed medication to manage the symptoms.
+
+Physical Examination:
+The patient's physical examination revealed a tachypnea pattern, with a respiratory rate of 30-40 breaths per minute. The heart rate was 100 beats per minute. The patient's blood pressure was normal, and his temperature was 37.4°C.
+
+Laboratory Tests:
+A blood test revealed an elevated white blood cell count, with a differential count of 10-15%. A urine analysis revealed a urinary tract infection."
+85,48,573,363,2024-10-13 02:00:00,"Patient: 65yo female
+
+Visit reason: Critical Condition
+
+Treatments: Emergency Treatment
+
+Intro:
+
+Patient, a 65-year-old female, presented to the emergency department with a chief complaint of dyspnea. She had been experiencing shortness of breath for the past two weeks, and her oxygen saturation had been decreasing over the last few days. The patient reported feeling weak, tired, and short of breath. Physical examination revealed a pulse rate of 80 beats/minute, respiratory rate of 20 breaths/minute, and a blood pressure of 110/65 mmHg.
+
+History:
+
+The patient's medical history was significant for hypertension (HTN) and heart failure (HF). She had been taking medication for both conditions for several years. She had no history of smoking or alcohol consumption. She had a history of chronic obstructive pulmonary disease (COPD) and was taking medication for that condition.
+
+Physical examination:"
+86,94,577,146,2025-09-05 01:00:00,"[Patient: 91yo male]
+Visit reason: Diabetes Management
+Treatments: Vision Test
+
+Purpose: To document the patient's diabetes management and the visual examination performed during the visit.
+
+Medical History: The patient has been diagnosed with diabetes for over 30 years. He has been taking insulin and metformin regularly. The patient has no history of retinopathy or macular degeneration.
+
+Physical Examination: The patient was examined for visual acuity and visual fields. The visual acuity was 20/20 in both eyes. The visual fields were normal.
+
+Diabetes Management: The patient was instructed to take his insulin in the morning and metformin at bedtime. He was advised to avoid alcohol and smoking. The patient was instructed to maintain a healthy diet and exercise regularly.
+
+Treatment Plan: The patient will continue his insulin and metformin regimen as prescribed by his physician. The patient will be advised to maintain a health"
+87,634,590,418,2024-09-04 04:00:00,"Patient: 95yo female
+Visit Date: 1/20/2021
+Visit Type: Clinical
+
+Patient's Name: Jane Doe
+
+Physician's Name: Dr. Smith
+
+Visit Description: Lab Results Review
+
+Treatments: Medication Prescription
+
+Patient's Gender: Female
+
+Patient's Age: 95
+
+Physician's Note: Based on the laboratory results, Jane Doe's blood chemistry profile shows that her blood glucose levels are elevated at 128 mg/dL. This condition is commonly known as diabetes mellitus. Jane Doe's treatment plan includes medication to lower her blood glucose levels. Medication Prescription: Insulin (15 units)
+
+Conclusion: Based on the patient's lab results, Jane Doe's blood chemistry profile, and her treatment plan, it is recommended that she receive medication to lower her blood glucose levels. She is advised to follow up with the doctor regularly to monitor her blood gl"
+88,208,603,471,2024-08-05 04:00:00,"Patient: 90-year-old female
+Visit reason: Abdominal pain
+Treatments: Medication prescription
+
+Medication Prescription:
+- Gabapentin 100mg daily
+- Tramadol 50mg daily
+
+Patient's Symptoms:
+- Abdominal pain
+- Diarrhea
+
+Note: Gabapentin and Tramadol are commonly prescribed medications for abdominal pain and diarrhea. Gabapentin works by reducing nerve activity in the brain, while Tramadol reduces pain by blocking the release of pain signals from nerve cells. Gabapentin is an anticonvulsant medication, while Tramadol is a central nervous system depressant. Gabapentin and Tramadol work together to provide a pain-relieving effect. Gabapentin is typically taken orally, while Tramadol is typically taken orally or by injection. Gabapentin is taken orally, while Tramadol is typically taken by injection. Gabapentin is an oral medication that can be taken once or"
+89,724,607,382,2024-10-13 03:00:00,"Patient: 32yo male
+
+Visit Date: 
+
+Visit Type: Diagnostic
+
+Given Medical History:
+- History of chronic back pain, which started 1 year ago and persists despite conservative treatments.
+- History of osteoarthritis in both hips, with recent increase in pain intensity.
+
+Treatment Plan:
+- Ultrasound examination: Mild tenderness in both hips.
+- Blood Chemistry Panel: Normal levels of calcium, phosphorus, and urine osmolality.
+- Urinalysis: No evidence of infection.
+
+Recommendations:
+- Ultrasound for further evaluation of the joints.
+- Blood chemistry panel for further testing of the liver and kidneys.
+- Urinalysis for further testing of urine output and renal function.
+
+Discussion:
+- The patient's history of chronic back pain and osteoarthritis in both hips suggests that joint pain is a major symptom. Ultrasound examination can help to rule out any inflammatory or"
+90,776,617,237,2024-02-26 06:00:00,"[Patient's Name]
+[Visit Date]
+[Location]
+[Diagnosis]
+
+Patient's Current Condition:
+The patient has been experiencing shortness of breath for the past week, and he has been advised to seek medical attention. He has been diagnosed with mild to moderate dyspnea, which is a symptom of coronary artery disease. The patient has been advised to undergo a total lipid panel to assess his lipid levels and to provide him with a treatment plan.
+
+Treatments:
+The total lipid panel was performed on the patient, and the results showed that his total cholesterol was 224 mg/dL, his triglycerides were 169 mg/dL, and his low-density lipoprotein (LDL) cholesterol was 112 mg/dL. The results of the total lipid panel indicate that the patient's lipid levels are high, and he may require medication to lower them. The patient has been advised to follow a healthy lifestyle, including"
+91,22,619,66,2025-05-01 01:00:00,"1. Introduction:
+- Patient presented to the clinic with complaints of fatigue for the past 2 weeks.
+- Patient was asked about any medications or supplements he was taking.
+- Patient stated that he had been working out regularly but found himself exhausted and fatigued.
+- X-ray results were obtained for evaluation.
+
+2. Clinical examination:
+- Patient is a healthy 1-year-old male.
+- No significant findings on physical examination.
+
+3. History:
+- Patient's mother stated that he had been feeling fatigued since he was 1-month-old.
+- Patient had been working out regularly but found himself exhausted and fatigued.
+
+4. Medical history:
+- Patient had been diagnosed with a heart murmur when he was 6-months-old.
+- Patient had been treated with medications for the murmur but had experienced no improvement.
+
+5. Physical examination:
+- Patient is a healthy 1-year-old male.
+- No abnormalities observed."
+92,222,621,406,2021-11-20 04:00:00,"[Patient: 51yo male]
+
+Visit reason: Dizziness
+
+Treatments: Hearing Test, Complete Blood Count
+
+Patient was seen for a hearing test and a complete blood count. The patient reported feeling dizzy and unsteady on his feet. The hearing test was normal, and the complete blood count showed no abnormalities. The patient's symptoms are consistent with dizziness, which may be caused by an underlying medical condition such as anemia or infection. It is recommended that the patient be referred to a doctor for further evaluation and treatment."
+93,903,623,412,2024-02-08 03:00:00,"Patient: 95-year-old male with a history of hypertension, coronary artery disease, and diabetes mellitus.
+
+Visit date: 2021-09-18
+
+Physical exam:
+- Appears alert and oriented
+- No significant changes in vital signs
+- No signs of dehydration, hypovolemia, or heat exhaustion
+
+Clinical exam:
+- Abdominal pain on left side with tenderness, warmth, and tenderness over the liver and spleen.
+- No abdominal distension, jaundice, or signs of peritonitis.
+
+X-ray:
+- No abnormalities
+
+Medication prescription:
+- Physical therapy for 3 sessions per week
+- X-ray for abdominal wall calcifications
+- Medication for gastroesophageal reflux (100mg dronedarone and 300mg metoprolol)
+
+Patient's response:
+- No further treatment required"
+94,763,624,64,2024-01-09 08:00:00,"Patient: 22yo male
+Visit reason: Dizziness
+Treatments: Complete Blood Count
+Patient: 22yo male
+Visit reason: Dizziness
+Treatments: Complete Blood Count
+Patient: 22yo male
+Visit reason: Dizziness
+Treatments: Complete Blood Count
+Patient: 22yo male
+Visit reason: Dizziness
+Treatments: Complete Blood Count
+Patient: 22yo male
+Visit reason: Dizziness
+Treatments: Complete Blood Count
+Patient: 22yo male
+Visit reason: Dizziness
+Treatments: Complete Blood Count
+Patient: 22yo male
+Visit reason: Dizziness
+Treatments: Complete Blood Count
+Patient: 22yo male
+Visit reason: Dizziness
+Treatments: Complete Blood Count
+Patient: 22yo male
+Visit reason: Dizziness
+Treatments: Complete Blood Count
+Patient: 22yo male
+Visit reason: Dizz"
+95,985,635,245,2024-09-11 06:00:00,"Brief Medical Note
+
+Visit Date: [Date]
+Visit Time: [Time]
+Visit Type: [Type of Visit]
+Visit Location: [Visit Location]
+
+Patient: 78yo female
+
+Today, the patient presented to the clinic with a complaint of nausea. The patient reported feeling nauseous and experiencing vomiting for the last two weeks. She has been experiencing this symptom for the past 3 months. The patient's medical history was reviewed and revealed no significant medical history. The patient's family history was also reviewed, and there was no history of similar nausea or vomiting.
+
+Physical Examination:
+
+The patient was examined by the medical team, and her physical examination was unremarkable. Her vital signs were within normal limits.
+
+Diagnostic Tests:
+
+X-ray was ordered to rule out any potential fractures or bone abnormalities. Blood chemistry panel was ordered to check for possible medication interactions.
+
+Treatment Plan:
+
+The medical team ordered a blood chemistry panel"
+96,764,636,61,2021-11-05 05:00:00,"Patient: 39yo male
+Visit reason: Allergy
+Treatments: Complete Blood Count, Blood Chemistry Panel, Ultrasound
+
+Brief clinical note
+
+The patient presented with an allergic reaction after consuming a specific food. A complete blood count, blood chemistry panel, and ultrasound were ordered to assess the severity of the allergic reaction. The patient is on a complete elimination diet for the next two weeks. The results of the blood chemistry panel and ultrasound are being awaited, and further evaluation will be conducted once the diet is completed.
+
+Note: Allergy is a life-threatening condition that requires immediate attention. If symptoms persist beyond the allergic reaction, seek medical attention immediately."
+97,146,643,11,2024-04-11 02:00:00,"Patient: 25-year-old male presented to the clinic with complaints of leg swelling. He reported feeling uncomfortable with the swelling and was advised to visit the clinic. The patient has no previous medical history, and his recent medical history includes no significant history of illness. The patient's physical examination revealed swelling in the right leg. Vision test revealed no visual defect. Based on the information provided, the treatment recommended for this patient is a vision test. The patient's leg swelling is described as uncomfortable, and the clinician recommends a vision test to rule out any visual defects. The note ends with a brief summary of the note, including the visit reason and treatment recommended."
+98,30,655,351,2025-06-11 01:00:00,"Patient: 10yo female
+
+Visit reason: Joint Pain
+
+Treatments:
+1. Ultrasound: No findings were noted.
+2. Complete Blood Count: Total WBC: 10,000; RBC: 8,000; Hb: 13.0g/dl; Platelets: 200,000/ul; MCV: 125; MCH: 37; MCHC: 36,000; MCV/MCHC: 11.2; MCH: 37.3; MCHC: 36,000; AST: 1.0; ALT: 0.4; ALP: 0.6; GGT: 3.0; Total Proteins: 44.4g/dl; Albumin: 2.8g/dl; Glucose: 6.3mg/dl; Total Bilirubin: 0.1mg/dl; Direct Bilirubin: 0.0"
+99,173,665,412,2022-12-17 06:00:00,"Patient: 17-year-old female
+Visit reason: Shortness of Breath
+Treatments: Medication prescription
+
+Patient presented to the clinic today with shortness of breath. The symptom was experienced most days for the past week. She denied any history of smoking, caffeine, or alcohol use. She has no significant medical history. Physical examination revealed no significant findings.
+
+Her respiratory status is stable, with no signs of asthma or chronic obstructive pulmonary disease. She has a normal blood pressure, pulse, and temperature. Laboratory tests are normal except for a low white blood cell count (WBC).
+
+Her medical history includes a history of anxiety and depression. She is taking antidepressants for her mental health condition. She has no history of cardiovascular disease or diabetes.
+
+Medication:
+Medication prescribed is a 20 mg dose of a non-steroidal anti-inflammatory drug (NSAID) for pain relief. She will be given this medication for"
+100,389,672,418,2025-05-31 04:00:00,"Patient: 10-year-old male
+Visit Date: 09/27/2021
+
+Introduction:
+This is a clinical note for a 10-year-old male visiting our clinic. The patient was brought to our clinic with a fever of 102°F (38.3°C) and is currently on treatment with IV therapy and medication prescription.
+
+Visit History:
+The patient was brought to our clinic on September 27, 2021, with a fever of 102°F (38.3°C). His temperature was recorded at 102°F (38.3°C) at the time of his visit. The patient was diagnosed with a fever and given a diagnosis of influenza. He received IV fluids and medication prescribed by our doctor to manage his fever.
+
+Treatments:
+1. IV Therapy: The patient received an intravenous infusion of fluids to help lower his fever.
+2. Medication Prescription: The patient"
+101,253,675,112,2023-09-16 08:00:00,"Patient: 49yo male
+Visit reason: Critical Condition
+Treatments: Physical Therapy
+
+Introduction:
+The patient is a 49-year-old male presenting with a critical condition. He presented to the emergency department with pain in his right leg, which had been exacerbated by recent activity. The patient was assessed and found to have a grade 4 knee injury with a fracture of the medial femoral condyle. He was treated with physical therapy and underwent surgery to address the fracture.
+
+Body:
+1. History: The patient presented to the emergency department with pain in his right leg. The pain was described as aggravated by recent activity.
+
+2. Physical Examination: The patient's physical examination was unremarkable except for the grade 4 knee injury with a fracture of the medial femoral condyle.
+
+3. Diagnostic Studies: The patient underwent computed tomography (CT) of the knee. The CT scan revealed a fracture of the medial femoral condyle with a"
+102,621,684,26,2022-09-30 03:00:00,"Introduction:
+The patient is a 50-year-old female who presented with the visit reason of weight loss. She reported to the clinic with a history of a 3-month weight loss of 10 pounds. The patient has been experiencing symptoms of fatigue, mood swings, and difficulty sleeping for the past 3 months. She has been taking a multivitamin and multimineral supplements for the past 2 months.
+
+Examination:
+The physical examination revealed a weight of 156 pounds, which is 10 pounds below the patient's initial weight of 166 pounds. The patient's body mass index (BMI) is 24.5, which is within the normal range. The patient's vital signs included:
+
+- Blood pressure: 120/80 mm Hg
+- Blood sugar: 104 mg/dL
+- ECG: normal
+- Echocardiogram: normal
+
+Patient's medical history includes:
+
+- Obesity (BMI > 30)
+- Chronic hypert"
+103,714,691,109,2022-12-16 08:00:00,"[Patient: 83yo female]
+
+Visit reason: Vision Problem
+
+Treatments: Vitamin D
+
+Patient: 83yo female
+
+Visit reason: Vision Problem
+
+Treatments: Vitamin D
+
+The patient presented to our clinic today with a history of cataracts and decreased vision. The patient's eyes were dilated, and a thorough visual examination revealed an irregularly shaped cataract in both eyes. The vitamin D level in the patient's blood is 12mcg/dL. The patient was instructed to take a daily dose of 4000 units of vitamin D and supplement their diet with vitamin D-rich foods. The patient will be seen again in 3 months to monitor the progress of the treatment and to adjust the dose as needed. The patient was also advised to maintain a healthy diet, including vitamin D-rich foods, and to exercise regularly to maintain good eye health."
+104,130,695,144,2025-09-11 06:00:00,"Patient: 95yo female
+Visit reason: Back Pain
+Treatments: Complete Blood Count
+
+Patient: 95yo female
+
+Visit reason: Back Pain
+
+Treatments: Complete Blood Count
+
+Patient: 95yo female
+
+Visit reason: Back Pain
+
+Treatments: Complete Blood Count
+
+Patient: 95yo female
+
+Visit reason: Back Pain
+
+Treatments: Complete Blood Count
+
+Patient: 95yo female
+
+Visit reason: Back Pain
+
+Treatments: Complete Blood Count
+
+Patient: 95yo female
+
+Visit reason: Back Pain
+
+Treatments: Complete Blood Count
+
+Patient: 95yo female
+
+Visit reason: Back Pain
+
+Treatments: Complete Blood Count
+
+Patient: 95yo female
+
+Visit reason: Back Pain
+
+Treatments: Complete Blood Count
+
+Patient: 95yo female
+
+Visit reason: Back Pain"
+105,181,699,417,2022-09-23 05:00:00,"Brief Medical Note
+
+Patient: 75yo male
+
+Visit reason: Imaging/Scan
+
+Treatments: Thyroid Panel, Blood Chemistry Panel, Complete Blood Count
+
+Patient presents with a history of thyroid nodules, which were biopsied. The patient has been receiving thyroid hormone replacement therapy for the past 2 months. The current treatment plan includes thyroid Panel, Blood Chemistry Panel, and Complete Blood Count. The patient's history and current medication is as follows:
+
+History:
+- Patient has been experiencing weight loss, fatigue, and mild thyroid symptoms for the past 2 months.
+- Patient has been taking thyroid hormone replacement therapy for the past 2 months.
+
+Treatment Plan:
+- Thyroid Panel: Thyroid stimulating hormone (TSH) and free T4 and free T3 levels.
+- Blood Chemistry Panel: Total T4 (T4), free T4 (FT4), free T3 (FT3), T3, T4, and"
+106,775,700,211,2021-03-31 06:00:00,"Patient: 57yo female
+
+Visit reason: Allergy
+
+Treatments: Complete Blood Count
+
+Brief medical note:
+
+- Patient presented to the clinic with a history of allergies.
+- Complete Blood Count was ordered.
+- Allergens were not identified.
+- Patient was advised to avoid foods and environmental triggers.
+- Patient was instructed to continue taking their medication for their allergy.
+- Note taken that the visit was completed successfully."
+107,775,711,211,2024-09-10 08:00:00,"Patient: 57yo female
+Visit Date: 08/10/2021
+
+Introduction:
+I am writing this clinical note to provide you with an update on the current condition of our patient. She presented to our clinic on 08/08/2021 with the following symptoms:
+
+- Skin rash
+
+Treatments:
+- Complete Blood Count
+
+Status:
+The patient's skin rash has been present for the past 3 days, and it has not improved despite taking medication and applying topical steroids. The rash is now spreading to her arms, legs, and face, and her fever has increased to 38.4°C. The patient has been advised to follow up with her primary care physician for further evaluation and treatment.
+
+Discussion:
+The rash is a common symptom in patients with autoimmune diseases. The diagnosis of rash can be made based on the history of the patient's symptoms and the presence of a rash. The rash in our patient is likely to be a response to an"
+108,720,720,480,2025-08-24 05:00:00,"Title: Fatigue in 91-year-old female
+
+Patient: 91-year-old female
+
+Visit date: 12/18/2021
+
+Given history:
+
+The patient is a 91-year-old female who was admitted to the hospital on 12/17/2021. She presented with fatigue, weakness, and a lack of energy. She has no significant medical history.
+
+Physical exam:
+
+The patient's vital signs are within normal limits. There are no significant findings on physical examination.
+
+Medication history:
+
+The patient is on medication for high blood pressure and is taking a daily dose of 20 mg of aspirin. She also takes a multivitamin daily.
+
+X-ray:
+
+An X-ray was performed on 12/17/2021. There is no abnormality detected on the X-ray.
+
+Physical Therapy:
+
+The patient underwent physical therapy for 3 sessions on 12/1"
+109,286,722,66,2025-11-01 00:00:00,"Patient: 30yo female
+
+Visit reason: Fatigue
+
+Treatments:
+- X-ray: Normal
+- Medication Prescription: Xanax 10mg daily for 2 weeks
+
+Conclusion:
+- Patient is not experiencing any adverse effects from medications prescribed.
+- Patient's fatigue is managed with medication and x-rays.
+- Patient is advised to follow up with the healthcare provider for further monitoring."
+110,303,734,459,2021-07-09 01:00:00,"Patient: 95yo male
+Visit reason: Vision Problem
+Treatments: Medication Prescription
+
+Introduction:
+
+The patient, aged 95yo, has presented to the clinic with complaints of blurred vision. The patient's family has advised that the patient has been experiencing vision problems for some time. The patient has undergone cataract surgery and is currently taking medication to manage his vision. The patient's vision has been affected, and he has requested a prescription for a new medication.
+
+Diagnosis:
+
+The patient has been diagnosed with cataracts and has undergone cataract surgery. The patient's vision has been affected and has been managed with medication. The medication has been prescribed for the patient and he has been advised to take it regularly.
+
+Treatment Plan:
+
+The medication has been prescribed to manage the patient's vision. The patient has been instructed to take the medication as directed by the doctor. The patient has been informed that his vision will continue to improve with regular use of the medication"
+111,594,737,47,2025-08-09 08:00:00,"Patient: 49yo female
+Visit reason: Pregnancy Care
+Treatments: Vision Test
+
+Patient is a 49-year-old female who presented with a visit for pregnancy care. She has been taking prenatal vitamins for the past 2 months and has had a regular check-up. The patient has been experiencing a headache and dizziness for the past few weeks, which has worsened in the last week. She has also noticed some mild nausea and vomiting.
+
+The patient's medical history is significant for the following:
+- Pregnancy: Yes
+- BMI: 31
+- Family history: Multiple
+- Medical conditions:
+  - Diabetes mellitus: Yes
+  - Hypertension: Yes
+- Prescribed medications:
+  - Pregnancy regulator: Yes
+  - Antidepressants: Yes
+- Medical history:
+  - Allergies: Yes
+  - Vitamin deficiencies: Yes (vitamin D, folic acid, iron)
+
+On examination"
+112,96,745,498,2022-02-17 03:00:00,"Patient: 54yo male
+Visit reason: Headache
+Treatments: X-ray
+Patient presented to the clinic with headache. He had a history of migraines for the past 5 years, with remission on acetaminophen. He reported no recent headache triggers, and his past medical history was notable for hypertension and diabetes mellitus. The patient was examined, and his headache was graded as moderate to severe. The patient was given a course of 200mg of aspirin per day, which he completed within 24 hours. The patient was discharged with instructions to follow up with the primary care physician for a follow-up visit within 1 week."
+113,483,746,447,2025-02-26 01:00:00,"Medication: Ultrasound
+Patient: 98yo female
+Visit reason: Mental Health Concern
+Treatments: Ultrasound
+
+Patient: 98yo female
+Visit reason: Mental Health Concern
+Treatments: Ultrasound
+
+Patient: 98yo female
+Visit reason: Mental Health Concern
+Treatments: Ultrasound
+
+Patient: 98yo female
+Visit reason: Mental Health Concern
+Treatments: Ultrasound
+
+Patient: 98yo female
+Visit reason: Mental Health Concern
+Treatments: Ultrasound
+
+Patient: 98yo female
+Visit reason: Mental Health Concern
+Treatments: Ultrasound
+
+Patient: 98yo female
+Visit reason: Mental Health Concern
+Treatments: Ultrasound
+
+Patient: 98yo female
+Visit reason: Mental Health Concern
+Treatments: Ultrasound
+
+Patient: 98yo female"
+114,486,747,499,2024-12-09 07:00:00,"Patient: 50yo male
+Visit reason: Hearing Problem
+Treatments: Medication Prescription
+
+Patient:
+A 50-year-old male presented to the clinic with complaints of hearing loss. He reported that he had been experiencing hearing problems for over a year, but had been struggling to hear conversations in noisy environments. He also reported that he had been taking medication for anxiety and depression but had not noticed any improvement in his hearing. The clinician conducted a thorough examination, which revealed that the patient had a complete loss of hearing in the left ear, with a bilateral sensorineural hearing loss. The audiogram showed a loss of 60 dB in the left ear and 50 dB in the right ear. The clinician prescribed a single dose of ear drops containing azathioprine, and instructed the patient to avoid noisy environments. The patient was instructed to follow up with the audiologist to monitor his hearing progression. The clinical note ends with a reminder to the patient to follow up with the audiologist for regular monitoring of his hearing."
+115,703,751,221,2025-01-10 08:00:00,"Name: _____________________________
+DOB: _____________________________
+Gender: __________________________
+Height: _________________________
+Weight: __________________________
+Patient's Medical History:
+The patient is a 48-year-old female who presented to the clinic with a complaint of dizziness. She had no history of any medical conditions or medications.
+Examination:
+The patient's vital signs were normal on examination. Her eyes were unremarkable. Her physical examination was unremarkable.
+Laboratory Tests:
+A complete blood count (CBC) was performed which revealed anemia (haemoglobin: 8.4g/dl, hematocrit: 15.9%).
+Medication Prescription:
+The patient was prescribed medication for the management of dizziness, which was not related to any specific underlying condition.
+Treatments:
+The patient was instructed to take the medication as prescribed and advised to follow up with the clinic in 1 week."
+116,822,759,110,2025-04-14 02:00:00,"INTRODUCTION: The patient, a 72-year-old male, presented to the clinic with complaints of back pain for the past few weeks. He has a history of hypertension and diabetes. The patient's past medical history includes heart disease and stroke. Physical examination revealed an 8-year-old history of hypertension and diabetes. Blood chemistry panel showed hypertension and a low albumin level. Ultrasound revealed a moderate enlargement of the left testis. Complete blood count (CBC) was within normal limits.
+VISIT REASON: The patient's primary complaint was back pain. The patient has been experiencing pain in his lower back for the past few weeks. The patient has been taking medication for hypertension and diabetes.
+TREATMENTS: Blood chemistry panel:
+The patient's blood chemistry panel revealed hypertension (systolic blood pressure 145/95 mmHg, diastolic blood pressure 85/56 mmHg) and a low albumin level (albuminuria 2."
+117,887,762,201,2024-05-11 05:00:00,"INTRODUCTION:
+The patient is 95 years old male. He has been taking medications for a period of 6 months. He has been prescribed medication for his hypertension. The patient's hypertension was diagnosed 2 years ago. The medication that has been prescribed is a hypertension medication that has been effective in reducing the blood pressure.
+
+VISIT REASON:
+The medication prescribed is for the management of hypertension. The patient is scheduled for a medication refill.
+
+TREATMENTS:
+Medication Prescription:
+- Hypertension medication
+
+CONCLUSION:
+The patient has been taking the hypertension medication for the past 6 months. The medication has been effective in reducing the blood pressure levels. The medication will continue to be prescribed for the management of hypertension.
+
+NOTES:
+- Medication Refill: The patient will be given the medication prescribed by the doctor.
+- Medication Status: Continued.
+- Blood Pressure: Hypertension has been under control with the medication pres"
+118,46,767,398,2025-05-21 00:00:00,"Patient: 5-year-old male
+Visit Date: 12/11/2021
+Visit Time: 3:00 PM
+Visit Type: Outpatient
+Presenting Signs/Symptoms: Abdominal pain of the patient for the last 24 hours.
+History: The patient's parents reported that he had been complaining of abdominal pain for the last 24 hours. There was no history of recent medical history, and the patient's medical history was negative.
+Physical Examination:
+Physical examination revealed a 5-year-old male with a 10-kg bodyweight and a 70-kg height. He had a 12-pack-a-day smoker for 15 years. His vital signs were stable except for a tachycardia (96 beats per minute) and a blood pressure of 110/60 mmHg.
+Blood Chemistry Panel:
+The patient's blood chemistry panel revealed that his total cholesterol was 336 mg/d"
+119,781,769,116,2024-11-07 03:00:00,"Patient: 50yo male
+Visit reason: Medication Refill
+Treatments: Emergency Treatment
+
+Note:
+Medication Refill.
+
+Patient's name: John Doe
+
+Age: 50
+
+Gender: Male
+
+Symptoms:
+- Dizziness
+- Nausea
+- Fatigue
+- Shortness of breath
+
+Diagnosis:
+- Severe hypertension (blood pressure above 150/90 mmHg)
+- Diabetes mellitus (blood glucose levels above 140 mg/dL)
+- Cardiovascular disease (heart disease and/or hypertension)
+
+Treatment:
+- Emergency treatment for hypertension and diabetes mellitus.
+- Medication to lower blood pressure and stabilize blood glucose levels.
+- Avoidance of activities that increase blood pressure and blood glucose levels.
+
+Note:
+- Patient was instructed to keep a record of medication and dosage in the medical record"
+120,621,774,116,2024-12-08 04:00:00,"Patient: 50yo female
+
+Visit reason: Routine Checkup
+
+Treatments: Hearing Test
+
+Introduction:
+
+The patient presented to our clinic today for a routine checkup. She was found to be in good health with no significant medical history.
+
+Physical Examination:
+
+The patient's vital signs were in normal range. Her blood pressure was 120/70 mmHg, pulse rate was 60 beats/min, and respiratory rate was 18 breaths/min. Her weight was 56 kg, height was 160 cm, and body mass index (BMI) was 23.5.
+
+Family History:
+
+The patient's mother had a history of hearing loss.
+
+Medications:
+
+The patient was on medication for asthma and allergies.
+
+Physical Examination:
+
+The examination revealed that the patient's hearing test results were within normal range.
+
+Clinical Notes:
+
+- The patient's hearing test results were within normal range.
+-"
+121,146,780,178,2023-07-08 02:00:00,"Patient: 25yo male
+Visit reason: Annual Physical
+Treatments: Blood Chemistry Panel, Complete Blood Count
+
+Brief medical note
+
+Patient: 25yo male
+
+Visit reason: Annual Physical
+
+Treatments: Blood Chemistry Panel, Complete Blood Count
+
+Overview:
+
+1. Introduction: This clinical note provides a brief overview of the patient's visit.
+
+2. Patient history: This section describes the patient's medical history, including any relevant symptoms or concerns.
+
+3. Physical exam: This section outlines the patient's physical examination findings, including any abnormalities or concerns.
+
+4. Laboratory tests: This section details the laboratory tests conducted during the visit, including the results of the blood chemistry panel and complete blood count.
+
+5. Diagnosis: This section provides a diagnosis based on the patient's medical history and laboratory results.
+
+6. Treatment plan: This section outlines the treatment plan for the patient's condition, including any medications, procedures,"
+122,547,784,21,2024-02-24 08:00:00,"Patient: 23yo male
+
+Visit Date: 12/11/2021
+
+Visit Type: Clinic visit
+
+Insurance: Private Health Insurance
+
+Procedure: Complete Blood Count (CBC)
+
+Diagnosis: None
+
+Symptoms: None
+
+History: 
+- Patient has been experiencing mild fatigue, lethargy, and anorexia for 2 weeks.
+- Family history of anemia, hypertension, and chronic kidney disease.
+- Physical exam: No abnormalities.
+
+Reason for Visit: Medication Refill
+
+Treatments: Complete Blood Count
+
+Conclusion:
+- Review of medical history and physical exam.
+- Patient is currently on a low-sodium diet and no medication is required.
+- Complete Blood Count (CBC) is recommended as part of a regular medical examination.
+- Patient is advised to consult with a doctor for further diagnostic testing.
+
+Recommendations:
+- Patient is advised to consult with"
+123,384,785,344,2025-02-04 03:00:00,"[Patient: 100yo male]
+Visit reason: High Blood Pressure
+Treatments: EKG/ECG
+Patient was brought in today for a follow-up visit. His high blood pressure had been a concern for some time, and the patient was happy to report that he had been taking medication for it for some time. The patient's EKG was normal, and the ECG was inconclusive. The patient's blood pressure was 150/90mmHg. The patient was instructed to continue taking medication and to monitor his blood pressure closely. The patient was advised to follow up with a cardiologist in the near future for further evaluation."
+124,426,787,107,2023-10-22 04:00:00,"Introduction:
+
+The patient presented to our clinic today with complaints of hearing loss for the past 2 months. She reported that she could not hear well at any volume or distance. She also reported that she had difficulty understanding speech and was unable to participate in social activities without assistance.
+
+History:
+
+The patient's past medical history is significant for a history of hypertension and diabetes. She has had a history of chronic bronchitis and chronic obstructive pulmonary disease (COPD).
+
+Examination:
+
+The physical examination revealed no abnormalities. The hearing assessment showed mild to moderate hearing loss in both ears.
+
+Diagnosis:
+
+The patient's symptoms and medical history suggest a hearing loss due to an ear infection or a tumor. A radiological examination of the ear canal revealed no abnormalities.
+
+Treatment:
+
+X-ray was recommended to determine the nature of the hearing loss. The x-ray showed no abnormalities.
+
+Action taken:
+
+The patient was referred to a specialist for further evaluation and treatment."
+125,343,788,131,2025-10-27 04:00:00,"Introduction:
+
+Patient is a 46-year-old female who presented to the clinic today for an imaging/scan. She has been seeing her primary care physician for counseling/therapy, and medication prescription.
+
+Patient's Medical History:
+
+- Symptoms and concerns: Patient reports that she has been experiencing neck pain for the past week. She has also reported difficulty sleeping and mild fatigue.
+
+- Medical History:
+- Past medical history: Patient has been diagnosed with chronic neck pain and fatigue. She has been prescribed medication for pain management and sleep aids.
+
+- Family history:
+- Physical exam: Patient's neck is stiff and tender on palpation, and there is mild tenderness in the left shoulder. She has no fever or other signs of infection.
+
+- Laboratory Results:
+- Complete blood count: Normal
+- Electrolytes: Normal
+- Lipids: Normal
+- Creatinine: Normal
+- Urinalysis: Normal
+
+Clinical Findings:
+
+- Imaging"
+126,623,792,406,2024-08-19 07:00:00,"[Patient: 8yo male]
+
+Visit reason: Shortness of Breath.
+
+Treatments: Blood Chemistry Panel (Blood Test) and Total Lipid Panel (Lipid Test).
+
+Shortness of Breath is a common symptom in children. The blood chemistry panel (Blood Test) and Total Lipid Panel (Lipid Test) are tests that help evaluate the levels of certain blood components, including blood sugar, liver function, and triglycerides. The results of these tests help in diagnosing and managing various conditions that cause shortness of breath in children. In this case, the patient has been diagnosed with mild hypochlorhydria (low levels of acid in the stomach). This condition can be managed with a short course of antacids, which help to alleviate symptoms such as shortness of breath. The blood chemistry panel and Total Lipid Panel tests were ordered to evaluate the patient's liver and lipid function. The results will be reviewed by the doctor to determine the appropriate treatment plan for the patient. The treatment plan may include"
+127,773,835,61,2024-08-19 08:00:00,"Title: Patient visits for allergic reaction
+
+Patient: 49yo female
+
+Visit reason: Allergy
+
+Treatments: Immunization
+
+Patient’s Medical History:
+
+- History of allergies
+- Allergies to peanuts, eggs, dairy, and shellfish
+- History of respiratory symptoms, including wheezing, coughing, and shortness of breath
+- History of symptoms following exposure to allergens
+
+Physical Examination:
+
+- No abnormal findings on physical examination
+
+Clinical Notes:
+
+- Immunization with 3 doses of Proventil (albuterol) 2-10 years ago, no recurrence of symptoms
+- Immunization with 2 doses of Proventil (albuterol) 10 years ago, no recurrence of symptoms
+- Immunization with 1 dose of Proventil (albuterol) 10 years ago, no recurrence of symptoms
+- Immunization with 1 dose of"
+128,327,843,364,2024-08-31 02:00:00,"Patient: 32yo male
+
+Visit reason: Critical Condition
+
+Treatments: Blood Chemistry Panel, X-ray, Complete Blood Count
+
+Overview:
+
+Patient presented with a 1-day history of a 6-hour history of right-sided weakness, difficulty swallowing, and difficulty breathing. The patient has been experiencing these symptoms for the past 48 hours. The patient was found to be in a critical condition with a systolic blood pressure of 110mmHg and a platelet count of 14,000/µL.
+
+Blood Chemistry Panel:
+- Blood urea nitrogen (BUN): 16.9mg/dL
+- Creatinine: 0.39mg/dL
+- Electrolytes:
+  - Calcium: 11.4mg/dL
+  - Potassium: 4.3mEq/L
+  - Sodium: 134mEq/L
+  - Chloride:"
+129,571,847,123,2025-04-23 06:00:00,"Patient: 89yo female
+
+Visit reason: Pregnancy Care
+
+Treatments: HbA1c (11.1), Complete Blood Count (CBC) (14.2)
+
+Patient’s medical history:
+- Currently pregnant, 8 weeks gestation
+- No history of diabetes or pre-existing conditions
+
+Clinical examination:
+- Males and females are equal in height and weight.
+- Fatigue, mild tenderness in lower back and right knee.
+- No abnormal findings on physical examination.
+
+HbA1c:
+- Average of 11.1% over last 2 months.
+- Average of 8.1% over last 12 months.
+- Average of 7.5% over last 3 years.
+
+CBC:
+- Normal white blood cell count.
+- Normal red blood cell count.
+- Normal platelet count.
+
+Medication:
+- 150mg metformin twice daily
+- 200m"
+130,283,848,93,2022-01-23 00:00:00,"INTRODUCTION:
+
+The patient is a 18-year-old female who presented to the clinic with a complaint of back pain. She reported that the pain started 2 weeks ago and had been increasing in intensity over the last 2 days. She denied any previous injuries or illnesses, and her past medical history was unremarkable.
+
+SYMPTOMS:
+
+The patient reported feeling a dull, achy pain in her lower back, which was accompanied by stiffness and tenderness in her lower back and legs. She also reported occasional sharp pain in her lower back and shoulders.
+
+Diagnosis:
+
+Based on her medical history, the patient was diagnosed with a low back strain.
+
+TREATMENT:
+
+1. Medication prescription: The patient was prescribed a non-steroidal anti-inflammatory drug (NSAID) to manage the pain.
+
+2. X-ray: The patient's back pain was diagnosed as a sprain and an X-ray was taken to confirm the diagnosis.
+
+3. Physical Therapy: The"
+131,388,851,382,2024-12-13 08:00:00,"Patient: 67yo female
+Visit reason: Joint Pain
+Treatments: Medication Prescription
+
+Patient presented to the clinic today with complaints of pain in the right knee. The patient reported that the pain started two weeks ago and has been getting worse with increasing frequency. The patient was taking medication for a chronic condition but it was not helping the pain. The patient was also taking over-the-counter pain medication. The patient's past medical history was significant for diabetes mellitus, hypertension, and hyperlipidemia. The patient's current medications included:
+
+1. Medication name: Prednisone 20mg
+2. Dose: 20mg daily
+3. Start date: 01/01/2022
+4. Duration: 3 months
+5. Indication: Relief of pain and inflammation
+
+The patient was advised to continue taking the medication until the pain has improved. The patient was also advised to follow up with a primary care physician to discuss any further management options. The"
+132,199,873,412,2023-07-07 05:00:00,"Patient: 77yo male
+
+Visit reason: Abdominal Pain
+
+Treatments: Complete Blood Count
+
+Patient presented with abdominal pain on the right side for 2 days. On physical examination, findings suggestive of appendicitis are present. Complete Blood Count (CBC) was ordered to rule out infection. The CBC results are normal except for a low white blood cell count (WBC) with a count of 4000/mm3. Abdominal pain is increasing in intensity, and the patient is unable to perform activities of daily living. The patient was advised to undergo a laparoscopy to evaluate for appendicitis. The patient was discharged with instructions to follow up with the emergency department.
+
+Conclusion: Complete Blood Count indicates a low WBC count with a count of 4000/mm3, which is consistent with appendicitis. The patient was advised to undergo a laparoscopy to evaluate for appendicitis."
+133,559,874,105,2025-01-08 08:00:00,"Brief Medical Note
+
+Patient: 96yo male
+Visit reason: Allergy
+Treatments: Blood Chemistry Panel
+
+Introduction:
+A 96-year-old male presented to the clinic with a history of allergic reactions to various foods and medications. He was previously diagnosed with a mild case of hypertension, and his hypertension was controlled with medication. He was also receiving blood chemistry panel tests for his cholesterol and liver enzymes.
+
+Physical Exam:
+The patient's physical exam was unremarkable. He was afebrile, and his vital signs were within normal limits. He had a mild, unilateral tachycardia. The patient's blood pressure was 110/70 mmHg.
+
+Chest X-ray:
+A chest X-ray was performed, and it revealed no abnormalities.
+
+Blood Chemistry Panel:
+A complete blood count, blood chemistry panel, and liver enzymes test were ordered. The patient's chol"
+134,33,875,444,2025-02-26 07:00:00,"Patient: 16-year-old male
+Visit Date: 10/2/2021
+Visit Time: 12:00 pm
+Diagnosis: Joint Pain
+Physician: Ms. Smith
+
+Patient's Current Medication: Immunization
+
+Treatment Plan:
+1. Immunization (vaccine) for measles, mumps, rubella (MMR)
+
+Recommendations:
+- Monitor patient's joint pain regularly
+- Consider further evaluation of the patient's joint pain
+
+History:
+- Patient reported persistent joint pain since 3 weeks of age
+- Patient was immunized for measles, mumps, rubella (MMR) at 12 months of age
+- Patient has a history of chickenpox at 14 months of age
+
+Physical Examination:
+- Patient's joint pain is still present at the time of visit
+- Patient's joint pain is localized to the left side of the body
+
+Patient's Medical History:
+- Patient"
+135,246,879,482,2025-05-25 03:00:00,"Patient: 98yo male
+Visit date: 03/18/2022
+
+Visit reason: Critical Condition
+
+Treatments: Urinalysis
+
+Patient's condition:
+The patient is a 98-year-old male with a history of chronic kidney disease. He has been admitted to the hospital for dehydration and urinary tract infection. The patient's vital signs are stable, and his blood pressure is normal.
+
+Urinalysis:
+The urinalysis results were normal.
+
+Conclusion:
+The patient's condition remains stable with a normal urinalysis. The patient will continue to receive regular monitoring and treatment for his urinary tract infection. The urinalysis results will be rechecked regularly."
+136,280,885,367,2022-11-18 07:00:00,"Patient: 99yo female
+
+Visit reason: Urinary Problem
+
+Treatments:
+- Medication prescription: Prostatitis Tablets (200mg)
+- X-ray: No abnormalities found
+
+Patient's medical history:
+- Patient has been experiencing frequent urinary incontinence and urinary tract infections for the past few years.
+- Patient has been taking medication for prostatitis, but the infections have persisted.
+
+Diagnosis: Prostatitis
+- Prostatitis is an inflammation of the prostate gland, which can result in urinary tract infections.
+- The medication prescribed for prostatitis is effective in managing the symptoms.
+
+Treatment:
+- Medication prescription for prostatitis: Prostatitis Tablets (200mg)
+- X-ray: No abnormalities found
+
+Outcome:
+- Patient has been taking the medication prescribed for prostatitis for several weeks and has noticed a significant improvement in her symptoms.
+-"
+137,58,890,473,2025-11-06 03:00:00,"[Patient: 58yo male]
+Visit reason: Mental Health Concern
+
+Treatments: X-ray
+
+The patient presented to our clinic with a concern for his mental health. He reported feeling anxious and stressed about his work situation and personal life. He had undergone an X-ray as part of his visit.
+
+The patient's history was consistent with anxiety and depression. He reported feeling overwhelmed and burnt out, which was reflected in his work performance and social interactions. He was also experiencing difficulty sleeping and had been taking medication for anxiety and depression.
+
+The X-ray showed no significant abnormalities. The patient's mental health concerns were assessed and treated with cognitive-behavioral therapy (CBT). The patient was advised to practice relaxation techniques and self-care strategies to manage his symptoms. He was also encouraged to seek further support from his family and friends.
+
+The patient was seen for follow-up appointments every two weeks for the next four weeks. He reported improved symptoms and increased emotional resilience. His medication"
+138,970,898,48,2023-06-06 05:00:00,"Name: _____________________________
+Gender: ___________________________
+Date of Visit: ____________________
+
+Patient's Name: _____________________
+Date of Birth: _____________________
+
+Physician's Name: ___________________
+Doctor’s Office: ____________________
+
+Reason for Visit: Back Pain
+
+Treatments: Complete Blood Count
+
+Overview:
+
+Patient presented to the clinic for a complete blood count (CBC) to determine the cause of his back pain. He had been experiencing lower back pain for the past two weeks, and his medical history was significant for hypertension and diabetes. The patient's medical record revealed that he had been hospitalized for a respiratory infection in March and had been prescribed antibiotics.
+
+Physical Examination:
+
+The physician conducted a thorough physical examination, which revealed no significant findings.
+
+CBC Results:
+
+The CBC revealed an increased white blood cell count and low hemoglobin level. The results suggest an infection, possibly due to the patient's respiratory in"
+139,285,899,497,2025-03-14 08:00:00,"[Patient's Name]
+[Visit Date]
+[Location]
+[Assessment]
+
+Patient: 67yo female
+
+Visit reason: Weight Loss
+
+Treatments: Medication Prescription
+
+Overall assessment:
+
+The patient has been experiencing weight loss for the past few weeks. She has been taking medication for weight loss and has been following a healthy diet. The patient's weight loss has been gradual, and there has been no significant change in her body weight. The patient's appetite has been decreased, and she has been eating less frequently. The medication she is taking is effective in reducing her appetite and has helped her to maintain her weight loss. The patient's overall health has remained stable. The patient is currently undergoing medical management to address her underlying medical conditions, which may contribute to her weight loss.
+
+Conclusion:
+
+The patient's weight loss has been gradual and has not been significant. The medication she is taking has been effective in reducing her appetite and has helped her maintain her weight loss. The patient's overall"
+140,67,901,129,2025-01-08 07:00:00,"Patient: 51yo male
+Visit reason: Pregnancy Care
+Treatments: X-ray
+
+Introduction:
+The patient is a 51-year-old male who presented with a history of pregnancy. The patient's pregnancy was confirmed by a 20-week ultrasound.
+
+Patient's Medical History:
+The patient's medical history is significant for the following:
+- Obesity (BMI 32)
+- Current smoking
+- Current alcohol consumption
+- History of hypertension, hyperlipidemia, and diabetes
+
+Physical Examination:
+The patient's physical examination is unremarkable except for the following:
+- Pregnancy-related anatomical changes, including cervical curvature, previa, and placenta accreta
+
+Discharge Instructions:
+The patient is advised to maintain a normal diet, avoid alcohol, and continue smoking cessation counseling. The patient is advised to follow up with the obstetrician within 2 weeks for"
+141,263,902,21,2025-03-23 03:00:00,"Patient: 41yo female
+
+Visit reason: High Blood Pressure
+
+Treatments: Counseling/Therapy, Medication Prescription
+
+Patient's Medical History:
+- Family history of high blood pressure
+- History of hypertension in both parents
+- Medications: Aspirin, ACE inhibitors, blood pressure medications, statins, and calcium channel blockers
+
+Patient's Blood Pressure:
+- Blood pressure: 160/110 mm Hg
+- Systolic: 190/130 mm Hg
+- Diastolic: 100/70 mm Hg
+
+Conclusion:
+- Based on the patient's medical history and current treatment, it is recommended that she start counseling/therapy to manage her high blood pressure.
+- The medication prescribed includes aspirin, ACE inhibitors, blood pressure medications, statins, and calcium channel blockers.
+- The patient should be monitored closely for any worsening of her blood pressure and follow up with her primary care"
+142,59,907,132,2025-01-30 08:00:00,"Patient: 14yo male
+Visit reason: Allergy
+Treatments: Medication Prescription
+
+Patient presented to the clinic today for a follow-up visit with their allergist. The patient's medical history was reviewed, and it was noted that the patient has a history of allergies to foods, pollen, and insect stings. The allergist recommended the patient take a medication for their allergies.
+
+The medication prescribed is a steroid, which is used to reduce inflammation and relieve symptoms. The medication is taken twice a day for four weeks. The patient is advised to continue taking the medication as prescribed, and they should consult with their allergist if any side effects occur.
+
+The visit was a success and the patient received the recommended treatment. The clinic staff will follow up with the patient in four weeks to assess the effectiveness of the medication and to discuss any changes in medication dosage or frequency. The patient is encouraged to follow the doctor's instructions to ensure the best possible outcome."
+143,129,917,49,2022-05-12 08:00:00,"Patient: 28yo male
+Visit reason: Mental Health Concern
+Treatments: X-ray
+
+Brief Medical Note
+
+Title: Mental Health Concern
+
+Date: [insert date]
+
+Time: [insert time]
+
+Patient: [insert patient's name]
+
+Visit: [insert visit's date]
+
+Issue: Mental Health Concern
+
+Symptoms: The patient presents with a history of persistent emotional distress, anxiety, and depression. The patient has been experiencing these symptoms for the past month, with a particularly concerning episode occurring recently.
+
+Treatments: X-ray
+
+Treatment Plan: The patient's primary concern is to manage their anxiety and depression. They will be advised to continue taking their medication as prescribed and seek counseling if needed. The patient will be encouraged to engage in relaxation techniques, such as meditation and yoga, to help manage their anxiety. They will also be encouraged to seek support from family and friends, as they are in a vulnerable"
+144,973,919,285,2022-06-30 00:00:00,"Patient: 86-year-old female presented with fatigue. She reported feeling tired and unmotivated. Her medical history is significant for hypertension, heart failure, and depression. She is on medications for hypertension and depression.
+
+Diagnosis: Based on the patient's history, the physician diagnoses fatigue as a result of depression.
+
+Prescribed treatment: Based on the patient's history, the physician prescribes medication for depression.
+
+Treatment Plan:
+1. Thyroid Panel: A blood test for thyroid hormones to check for hypothyroidism or hyperthyroidism.
+2. HbA1c: A blood test for blood sugar levels to check for diabetes.
+3. Blood Chemistry Panel: A blood test to check for hormone levels, blood pressure, lipid levels, and other vital signs.
+
+Conclusion: Based on the patient's history and the treatment plan, the physician recommends a combination of medication and lifestyle changes to manage fatigue. The patient is advised to continue taking"
+145,294,928,64,2025-05-15 04:00:00,"Patient: 43yo male
+Visit reason: High Blood Pressure
+Treatments: Blood Chemistry Panel
+
+Introduction:
+The patient presented to the clinic with a complaint of high blood pressure. The patient reported feeling dizzy and faint when walking. The patient's blood pressure was measured at 150/90mmHg, which is within the normal range. The patient was diagnosed with hypertension and prescribed a blood chemistry panel to monitor their blood pressure over time.
+
+Clinical Summary:
+- Patient's age: 43yo male
+- Blood pressure: 150/90mmHg
+- Medical history: Hypertension diagnosed, medication: Atenolol 50mg/day
+- Presenting complaint: High blood pressure
+
+Blood Chemistry Panel:
+- Blood chemistry panel results:
+  - Total cholesterol: 193mg/dL
+  - Triglycerides: 167mg/dL
+  - High-density lipoprote"
+146,171,930,397,2023-03-01 07:00:00,"Patient: 65yo female
+Visit reason: Urinary Problem
+Treatments: Medication Prescription:
+
+1. Medication prescribed: Urology medicine for bladder control.
+
+2. Counseling/therapy: Patient was counseled on lifestyle changes to improve bladder control, such as regular exercise and avoiding caffeine and alcohol.
+
+Conclusion:
+The patient has been prescribed medication for bladder control and counseled on lifestyle changes to improve bladder control. The patient's condition has improved and she is advised to continue the lifestyle changes recommended."
+147,650,938,117,2023-02-02 08:00:00,"Patient: 36yo female
+
+Visit Date: 12/20/2021
+
+Medication Prescription:
+
+Patient has been taking medication for blood disorder for the past 5 years. She is currently taking medication as per the doctor's prescription. The medication is being taken once daily, as per the schedule provided by the doctor. She has been advised to follow the prescribed schedule religiously and to notify the doctor in case of any adverse effects. The medication is not causing any significant side effects.
+
+Treatments: Medication Prescription
+
+The patient has been taking medication for blood disorder for the past 5 years. She is currently taking medication as per the doctor's prescription. The medication is being taken once daily, as per the schedule provided by the doctor. She has been advised to follow the prescribed schedule religiously and to notify the doctor in case of any adverse effects. The medication is not causing any significant side effects.
+
+Conclusion:
+The patient has been taking medication for blood disorder for the past 5 years. She"
+148,86,942,124,2025-02-13 08:00:00,"Patient: 78yo female
+Visit reason: Abdominal Pain
+Treatments: Vision Test
+
+Patient presented to the clinic with a complaint of abdominal pain. The patient was diagnosed with an ulcer in the stomach and underwent a endoscopy. The patient had a normal ultrasound and a visual acuity test was conducted. The note notes that the patient was given a prescription for antibiotics and advised to return to the clinic in 1-2 weeks for follow-up."
+149,992,946,435,2025-08-06 07:00:00,"Title: Skin Rash in 95yo Female Patient
+
+Patient: 95yo female
+Visit reason: Skin Rash
+
+Introduction:
+
+The patient presented to the clinic with a history of severe skin rash that has been present for the past week. She has experienced itching and burning sensations on her hands, face, and scalp. She denies any fever or weight loss. The rash is widespread and has affected her entire body, with no specific areas of focus. The patient is otherwise alert and oriented.
+
+Physical Exam:
+
+The physical examination was conducted and the following findings were observed:
+
+- Skin rash: Examination reveals a diffuse, raised, and itchy skin rash that covers the entire body. The rash is characterized by small, raised, and itchy bumps that are tender to touch.
+
+- Skin color: The skin color is pale, and the patient's skin is dry and flaky.
+
+- Skin texture: The skin texture is rough and dry, with a few areas of blotchy"
+150,210,956,201,2024-06-11 06:00:00,"Based on the patient's medical history and presenting symptoms, the physician has diagnosed the patient with bleeding/bruising. The patient was seen by the physician for the same condition on [date] and underwent a complete blood count and inflammatory markers as part of the diagnostic workup. The results of the tests are as follows:
+- Complete Blood Count:
+   - Red Blood Cell Count: 13.3 x 109/L
+   - White Blood Cell Count: 6.3 x 109/L
+   - Platelet Count: 236,000/μL
+   - Hemoglobin: 14.0 g/dL
+- Inflammatory Markers:
+   - C-Reactive Protein: 1.6 mg/dL
+   - White Blood Cell Count: 12,000/μL
+- Review of Systems:
+   - General: Mildly dehydrated
+   - Cardiovascular: Normal
+   - Respiratory: Normal
+   - Digest"
+151,707,957,213,2025-02-26 08:00:00,"Patient: 53yo male
+Visit date: 07/10/2021
+Visit time: 09:00am
+
+Introduction:
+On [visit date], a 53-year-old male presented to the clinic with complaints of fatigue, weakness, and decreased physical activity. The patient had a history of [treatment history], and his blood counts were [Blood count results].
+
+Treatments:
+Complete Blood Count:
+- Total white blood cells: [WBC count]
+- Hemoglobin: [HGB count]
+- Red blood cell count: [RBC count]
+- Platelet count: [PTC count]
+
+Physical Therapy:
+- Upper extremity strength: [Upper extremity strength]
+- Lower extremity strength: [Lower extremity strength]
+
+Clinical Findings:
+- Blood counts: [Blood count results]
+- Hematocrit: [Hematocrit]
+- Hemoglobin: [HGB count]
+- Red blood cell count: [RBC"
+152,611,964,363,2025-08-09 04:00:00,"Critical Condition - Thyroid Panel
+
+Patient: 48yo male
+
+Visit reason: Critical Condition
+
+Treatments: Thyroid Panel
+
+The patient presented to the clinic with a 1 week history of fatigue, weight loss, and weight gain. He has been taking thyroid medication for the past 2 months for an underactive thyroid. The patient has no history of medical conditions that could be contributing to his current symptoms.
+
+The patient's thyroid function was within normal range, with a TSH of 0.15. The patient's T4 and T3 levels were within normal range. The patient was prescribed levothyroxine for the treatment of his underactive thyroid.
+
+The patient's current symptoms are consistent with a critical condition. The patient's vital signs were stable, and there was no other significant medical history present.
+
+The thyroid panel results were normal. The patient will be monitored closely for any worsening of his symptoms."
+153,751,968,7,2025-06-14 00:00:00,"Patient: 61yo male
+Visit reason: Hearing Problem
+
+Treatments: Medication Prescription
+
+The patient presented to the clinic with complaints of hearing loss. The patient had been taking medication for some time, but the symptoms had not improved. The patient's history included no other significant medical conditions.
+
+The clinical examination revealed a middle-aged male patient with a history of taking medication for hearing loss for over a year. The patient had no physical findings suggestive of any other medical condition.
+
+The patient's hearing test results revealed hearing loss in both ears, with a threshold of 25dB in the better ear and 35dB in the worse ear. The audiogram demonstrated bilateral hearing loss.
+
+The patient was prescribed medication to treat the hearing loss. The medication was prescribed for 60 days with a 21-day follow-up. The medication will be changed if there is a significant improvement in hearing.
+
+The patient's follow-up appointment will be scheduled at 3 months to evaluate the medication's effectiveness."
+154,238,972,212,2024-06-28 00:00:00,"Patient Name: 91yo male
+
+Visit Date: 04/26/2022
+
+Visit Summary: Annual Physical
+
+The patient is a 91-year-old male who has been seen for his annual physical. The patient is in good health, with no significant medical history. The patient was examined by the physician who noted that the patient had a complete blood count (CBC) that was within normal limits, an inflammatory marker level that was within normal limits, and medication prescription for a medication that is essential for the patient's health. The patient was given medication for a condition that he is currently experiencing. The physician also noted that the patient's vital signs were within normal limits. The patient's visit was completed in a timely manner. The patient was informed about the medication that he is currently taking and the recommended dosage. The patient was advised to follow-up with the physician in 3 months for a re-checkup. The patient was given a copy of his medical records."
+155,433,977,51,2025-03-22 06:00:00,"Patient: 39-year-old male
+
+Visit reason: Fatigue
+
+Treatments: Medication Prescription
+
+Patient presented to the clinic with complaints of fatigue for the past week. He has been experiencing difficulty in sleeping, maintaining concentration, and functioning at work. He has been prescribed medication for sleep disorder. The patient was advised to take the medication as prescribed and to avoid caffeine and alcohol. He was also advised to engage in regular physical activity to improve his overall health. The patient was instructed to follow up with the physician in one week to monitor his progress.
+
+Clinical notes:
+
+Medication Prescription: Nuvigil 100mg
+Patient Compliance: Consistent adherence to medication instructions
+
+Treatment: Medication Prescription
+Medication: Nuvigil 100mg
+
+Conclusion:
+
+The patient's fatigue has improved significantly with the prescribed medication. He has adhered to the medication instructions and has been monitored"
+156,98,979,373,2024-04-30 04:00:00,"Patient: 19yo female
+
+Visit reason: Fever
+
+Treatments: Hearing Test
+
+Summary:
+
+The patient presented to the clinic with a history of fever. She had been experiencing headaches and stiffness in her neck and shoulders. She was also experiencing difficulty with hearing in one ear. The patient was taking medication for her headaches and was experiencing mild difficulty with hearing in the left ear. The patient was advised to continue with her regular medication and to see her ENT specialist to have her hearing tested. The patient was advised to keep an eye on her symptoms and to report any new symptoms to the clinic. The clinic will monitor her progress closely and will continue to provide any necessary treatment as needed."
+157,439,988,5,2023-04-26 00:00:00,"Patient: 61yo male
+Visit reason: Chest Pain
+Treatments: Medication Prescription, X-ray, Complete Blood Count
+
+Brief medical note:
+
+Patient: 61yo male
+Visit reason: Chest Pain. The patient has been experiencing chest pain for the past 24 hours. He has been taking medication for hypertension and anxiety for 1 year, and his current medication regimen is as follows:
+
+- 100mg of metoprolol once daily
+- 50mg of atenolol once daily
+
+The patient has been experiencing chest pain in the left upper quadrant for the past 24 hours. He has been referred to the emergency department for further evaluation.
+
+Treatments:
+
+- Medication Prescription: The patient has been prescribed medication for chest pain. He will receive a prescription for 50mg of atenolol.
+- X-ray: The patient will undergo a chest x-ray to rule out any serious underlying conditions."
+158,181,990,372,2024-02-02 01:00:00,"Patient: 75yo male
+
+Visit reason: Imaging/Scan
+
+Treatments: EKG/ECG, Total Lipid Panel
+
+Clinical Summary:
+1. Patient presented to the clinic for a follow-up visit regarding his recent imaging and lipid panel results.
+2. EKG/ECG results were normal.
+3. Total lipid panel results were as follows:
+    a. Triglycerides: 186mg/dL
+    b. HDL: 55mg/dL
+    c. LDL: 107mg/dL
+    d. VLDL: 67mg/dL
+    e. Non-HDL: 127mg/dL
+    f. ApoA1: 0.63mg/dL
+    g. ApoB: 0.88mg/dL
+
+Recommendations:
+1. Patient is advised to continue his healthy lifestyle habits, including maintaining a health"
+159,963,995,11,2021-10-01 04:00:00,"Patient: 88yo female
+Visit reason: Leg Swelling
+Treatments: Urinalysis, Blood Chemistry Panel
+
+This is a clinical note for a female patient aged 88yo, who visited the clinic for a routine checkup. She presented with a complaint of leg swelling. The history and examination revealed no significant findings. The patient was counseled on the importance of regular physical activity, hydration, and proper nutrition to manage leg swelling. The urinalysis and blood chemistry panel were conducted to evaluate for any underlying causes. The patient was prescribed medications for leg swelling, including topical application of 0.5% Lidocaine and 20mg of Menthol. The note ends with the patient's instructions to report any new symptoms or concerns to the doctor."
+160,923,996,92,2023-10-31 07:00:00,"99-year-old male presented to the emergency department with cough for the past 24 hours. The patient's medical history is notable for chronic obstructive pulmonary disease, hypertension, and pneumonia. The patient's vital signs are stable.
+The patient's medical examination reveals a stable vital signs and no significant findings. A physical examination reveals a mildly tachycardic, breathless patient with a stable vital signs and no significant findings.
+The patient is started on a combination of oxygen, beta-2 agonists, and anti-inflammatory medications. The patient's condition will be closely monitored for any signs of worsening respiratory distress.
+The patient's condition will be reviewed every 24 hours for any signs of improvement or deterioration.
+The patient will be discharged from the emergency department in 72 hours.
+In conclusion, the 99-year-old male presented to the emergency department with a cough for the past 24 hours. The patient's medical history is notable for chron"
+161,928,997,214,2022-09-14 02:00:00,"Patient: 87-year-old male, male, weight loss, hypertension, diabetes mellitus, liver disease, hypothyroidism, heart disease, asthma, atrial fibrillation, smoking history, alcohol consumption, history of stroke, hypertension, cardiovascular disease, peripheral vascular disease, peripheral artery disease, renal disease, dementia, cognitive impairment, mental health disorder, chronic pain, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls, history of falls,"
+162,731,1000,473,2023-10-15 03:00:00,"Name: _____________________
+Date: ________________________
+Time: ________________________
+
+Patient: _____________________
+
+Visit reason: Mental Health Concern
+
+Treatments: Renal Panel
+
+1. Introduction:
+The patient is a 30-year-old male with a history of depression and anxiety. The patient presented to the clinic with a complaint of low blood pressure and dizziness. The patient is currently undergoing a renal panel to determine the cause of the low blood pressure.
+
+2. Medical History:
+a. General:
+- Medical history: The patient has a history of depression and anxiety.
+- Family history: The patient has a brother with bipolar disorder.
+- Physical examination: The patient is well-appearing and well-spoken. No significant findings.
+
+b. Mental Health Concerns:
+- Depression: The patient has been diagnosed with depression.
+- Anxiety: The patient has been diagnosed with anxiety.
+
+c. Renal Panel:
+- Urinalysis: No ab"
+163,487,1012,214,2024-12-25 08:00:00,"Patient 84yo female presents to the clinic with a history of diabetes management for the past 10 years. She is currently taking medications for diabetes, including insulin and metformin. She has been experiencing some gastrointestinal issues, such as frequent bowel movements, abdominal pain, and diarrhea.
+
+Blood Chemistry Panel:
+The patient's complete blood count (CBC) showed a total white blood cell count of 14,900/μL, with a neutrophil count of 4,100/μL. The platelet count was 188,000/μL, and the hemoglobin A1c (HbA1c) was 6.6%.
+
+Based on the findings, a blood chemistry panel was ordered to evaluate the patient's metabolic status. The panel revealed that the patient has normal glucose levels, with a fasting blood sugar of 99mg/dL and a 2-h plasma glucose of 121mg"
+164,384,1014,425,2025-10-12 04:00:00,"Patient: 100yo male
+Visit reason: Routine Checkup
+Treatments: Medication Prescription, IV Therapy
+
+Introduction:
+1. Patient presented to the clinic on [insert date] for routine checkup.
+2. Physician noted that patient is a 100yo male with a history of hypertension, diabetes, and chronic obstructive pulmonary disease.
+3. Patient has been on medication for hypertension for 10 years, and diabetes for 15 years.
+4. IV Therapy is recommended for the patient due to his ongoing diabetes treatment.
+
+Clinical Note:
+1. Medication Prescription:
+- Statin (20mg/day)
+- Glucose-6-phosphate dehydrogenase inhibitor (20mg/day)
+- Insulin (100 units/day)
+
+2. IV Therapy:
+- Insulin infusion (10 units/hour)
+- Glucose infusion (50 units/hour)"
+165,713,1016,377,2024-10-03 01:00:00,"Introduction:
+The patient is a 72-year-old female who presented to the emergency department (ED) with complaints of abdominal pain, nausea, and vomiting. The patient had been experiencing similar symptoms for the past few days, but had not visited a doctor for treatment.
+
+History:
+The patient reported feeling unwell and had been experiencing abdominal pain for the past few days. She had been vomiting and had nausea for the past few hours. She had not taken any medications or had any travel history.
+
+Physical Examination:
+The patient's vital signs were within normal limits. Her vital signs were consistent with her complaints, and there were no significant findings.
+
+Diagnostic tests:
+The patient was diagnosed with a blood disorder, and she was given emergency treatment.
+
+Treatments:
+Emergency treatment consisted of a blood transfusion, antibiotics, and pain medication. The patient was also instructed to follow up with her doctor.
+
+Conclusion:
+The patient's blood disorder was treated with emergency treatment, and"
+166,92,1018,209,2023-07-04 05:00:00,"Patient: 22yo female
+
+Visit reason: Bleeding/Bruising
+
+Treatments: Immunization
+
+This patient is a 22-year-old female who presented with a history of frequent bleeding and bruising. The patient's medical history includes history of anemia and chronic pain. The patient's current medications include aspirin, NSAIDs, and iron supplements. The patient was previously treated for anemia with iron supplementation.
+
+The patient's physical examination is unremarkable. There are no significant findings.
+
+Treatment plan:
+
+Immunization:
+Based on the patient's history and medical conditions, the physician recommends immunization against human papillomavirus (HPV) and hepatitis B. The patient will be recommended to receive a vaccine against HPV and a booster dose of hepatitis B vaccine.
+
+The recommended immunizations are:
+- HPV vaccine
+- Hepatitis B vaccine
+
+Immunization schedule:
+The"
+167,449,1020,19,2024-09-05 00:00:00,"Patient: 28-year-old male, 28 years old, male.
+
+Visit: 16th of November, 2021.
+
+Reason for visit: Lab Results Review.
+
+Treatments: Liver Panel, Ultrasound, Complete Blood Count.
+
+Patient’s presenting symptoms: Heavy sweating, fatigue, nausea, and vomiting.
+
+Physical exam: He is a healthy-looking man, 5'9"", 175 pounds, with no significant findings.
+
+Laboratory tests:
+- Complete blood count: normal
+- Liver panel: normal
+- Ultrasound: normal
+
+Treatment plan:
+- Liver Panel: Recommended lab results will be shared with the patient.
+- Ultrasound: The results of the ultrasound will be shared with the patient.
+- Complete blood count: The results of the complete blood count will be shared with the patient.
+
+Conclusion:
+The patient is advised to follow up with his primary care physician and to have the results of the lab tests"
+168,745,1025,206,2024-04-03 05:00:00,"Patient: 26-year-old male
+
+Visit: 14th January 2022
+
+Treatments: Complete Blood Count (CBC), Blood Chemistry Panel, Ultrasound
+
+Clinical Summary:
+- Patient presented for urinary problems.
+- Complete Blood Count (CBC) and Blood Chemistry Panel were ordered.
+- The CBC revealed a low white blood cell count (WBC) and increased hemoglobin.
+- The Blood Chemistry Panel showed an increased creatinine level and decreased urea nitrogen.
+- Ultrasound was done to evaluate the kidneys.
+
+Discussion:
+- The low WBC and increased hemoglobin suggest an infection.
+- The increased creatinine level and decreased urea nitrogen indicate kidney damage.
+- The ultrasound evaluation of the kidneys revealed damage to the kidneys.
+- The CBC and Blood Chemistry Panel results will be sent for further analysis.
+
+Recommendations:
+- The patient will be referred to a urologist for"
+169,85,1027,373,2025-05-13 04:00:00,"Patient is a 77-year-old female who visited our clinic for an annual physical. She has no significant medical history.
+
+Procedure: Pulmonary Function Test, Medication Prescription, Blood Chemistry Panel
+
+Results: Pulmonary Function Test: Normal. Medication Prescription: For pulmonary disease, anti-inflammatory medications, beta-blockers, and steroids. Blood Chemistry Panel: Normal.
+
+Treatments: Pulmonary Function Test: The test results were normal. Medication Prescription: The prescribed medications were as per the doctor's recommendations. Blood Chemistry Panel: The test results were normal.
+
+Summary: The patient's physical examination was normal, and she was found to have mild hypertension, mild hyperlipidemia, and mild hyperthyroidism. She is currently taking anti-inflammatory medications, beta-blockers, and steroids for pulmonary disease. The blood chemistry panel was also normal. The annual physical was a routine visit to monitor her medical condition."
+170,566,1035,111,2024-06-12 01:00:00,"[Patient: 24yo male]
+
+Visit reason: Diabetes Management
+
+Treatments: X-ray
+
+Patient’s condition: Diabetes Mellitus
+
+Current medication: Insulin and Glucagon-Sensitive Insulin Analogues
+
+Current treatment: Insulin injections, Glucagon-Sensitive Insulin Analogues, and oral medication (metformin)
+
+Patient’s past medical history: Diabetes mellitus diagnosed at the age of 15 years. Patient has been taking insulin and Glucagon-Sensitive Insulin Analogues since diagnosis. Patient has also been taking oral medication (metformin) for 15 years.
+
+Today’s visit:
+
+Today’s examination:
+
+X-ray results: Normal.
+
+Current blood sugar levels: 104mg/dL.
+
+Current HbA1C: 8.3% (target <|system|> 6.5%)."
+171,361,1036,233,2024-11-19 07:00:00,"Clinical note for: Patient 63yo male visiting with chest pain
+
+Patient: 63yo male
+Visit reason: Chest Pain
+Treatments: Medication Prescription
+
+Patient presented to the clinic today with chest pain. The patient has a history of smoking for 15 years, and they have not smoked in the last 2 months. Physical examination revealed no significant findings. Laboratory tests were normal. The patient was prescribed medication for chest pain. The medication is a beta-blocker, and it is to be taken twice a day. The patient was advised to avoid smoking and to continue with their exercise routine. The patient is advised to report any new chest pain symptoms within the next 2 weeks. The patient's primary care provider will be contacted for further instructions."
+172,225,1042,411,2024-12-02 04:00:00,"Name: Patient Name
+Gender: Female
+Age: 31
+Visit Date: 09/10/2021
+
+Introduction:
+The patient presented to the clinic on 09/10/2021 with a complaint of leg swelling. She reported that the swelling started on the right leg 2 days ago and has been progressing since then. She stated that she has not been to any hospital or clinic in the past. The patient's chief complaint was swelling in the right leg.
+
+Physical Examination:
+On physical examination, the patient's leg was swollen and tender to touch. Her leg was also warm and felt slightly rigid. The patient's reflexes were intact, and no significant findings were observed.
+
+Diagnosis:
+The diagnosis of the patient's complaint was leg swelling due to an unknown cause.
+
+Treatment:
+The patient was advised to receive an immunization as a preventive measure. The immunization will help in reducing the risk of infection and preventing the development"
+173,135,1051,487,2023-04-11 07:00:00,"Patient: 58yo female
+Visit reason: Pregnancy Care
+Treatments: Medication Prescription, Renal Panel
+
+Medication Prescription:
+The patient presented to the clinic for pregnancy care. She was taking medication for hypertension and anti-inflammatory medication. She was also undergoing regular renal panel tests. The medication prescribed was:
+
+1. Hypertension medication: 50mg of captopril, 25mg of enalapril, 20mg of diuretic (water pill)
+
+2. Anti-inflammatory medication: 800mg of ibuprofen, 400mg of diclofenac, 400mg of naproxen
+
+She was instructed to take the medication as directed, with a 5-minute wait between doses, and to take the medication with a glass of water.
+
+Renal Panel:
+The renal panel was normal.
+
+Conclusion:
+The patient's"
+174,967,1053,106,2025-03-13 07:00:00,"Patient: 61yo male
+
+Visit reason: High Blood Pressure
+
+Treatments: Medication Prescription
+
+Patient presented to the clinic with a history of hypertension. The patient was on medication for hypertension, which was being taken as prescribed. He was instructed to maintain a healthy diet, avoid smoking, and exercise regularly to control his blood pressure. The patient was given a prescription for blood pressure medication, which was to be taken as prescribed. The patient was advised to follow up with the doctor at his next visit for a check-up and to continue taking his medication as prescribed. The clinical note concludes with the patient's name, age, and the visit reason."
+175,963,1056,21,2021-05-16 03:00:00,"Patient: 88yo female
+Visit reason: Allergy
+Treatments: Total Lipid Panel
+
+Patient presented with a 3-day history of wheezing, cough, and shortness of breath. On examination, she had a tense, rigid respiratory pattern, breathlessness, and a diffuse, non-productive cough. Her vital signs were stable.
+
+History: Patient reported a history of allergic rhinitis, which has been managed with antihistamines for 10 years. She reported mild, transient nasal congestion and occasional sneezing, but no other symptoms.
+
+Physical exam: Patient's respiratory pattern was consistent with a diffuse, non-productive cough. Her respiratory rate was 16/min, and her tidal volume was 18mL. Her heart rate was 72 beats/min, and her blood pressure was 120/70mmHg. Her vital signs were stable.
+
+Laboratory studies:
+- Total lipid"
+176,569,1080,269,2025-03-24 07:00:00,"Introduction:
+This is a clinical note for a 88-year-old female patient who presented to the Emergency Department with complaints of severe bleeding/bruising. The patient was initially assessed by the Emergency Department team, who noted a significant amount of bleeding from her right eye, which required prompt attention.
+
+Patient Summary:
+The patient is a 88-year-old female with a history of hypertension, diabetes mellitus, and stroke. She was on multiple medications, including aspirin, beta blockers, and diuretics. Her recent medical history included a history of chronic obstructive pulmonary disease (COPD) and a recent stroke.
+
+Physical Exam:
+The patient was found to have mildly depressed vital signs, including temperature (37.2°C), blood pressure (100/50 mmHg), and respiratory rate (20 breaths/minute). Her oxygen saturation was 99% on room air. She had no significant findings on her physical exam.
+
+Clinical History:"
+177,422,1083,73,2025-09-23 07:00:00,"Patient: 10-year-old female
+Visit reason: Lab Results Review
+Treatments: Medication Prescription
+
+Patient:
+
+Age: 10
+Gender: Female
+
+Visit reason: Lab Results Review
+
+Treatments:
+
+- Medication Prescription:
+
+- Prescribed medication:
+
+- Dosage:
+
+- Duration:
+
+- Side effects:
+
+- Consequences:
+
+- Follow-up:
+
+- Follow-up:
+
+- Follow-up:
+
+- Follow-up:
+
+- Follow-up:
+
+- Follow-up:
+
+- Follow-up:
+
+- Follow-up:
+
+- Follow-up:
+
+- Follow-up:
+
+- Follow-up:
+
+- Follow-up:
+
+- Follow-up:
+
+- Follow-up:
+
+- Follow-up:
+
+- Follow-up:
+
+- Follow-up:
+
+- Follow-up:
+
+- Follow-up:
+
+- Follow-up:
+
+- Follow"
+178,103,1088,480,2025-05-05 05:00:00,"Patient: 49yo female
+Visit reason: Fatigue
+Treatments: Hearing Test
+
+Patient presented to the clinic today with complaints of fatigue. She reported feeling tired all the time, lacking energy, and unable to concentrate. She denied any recent illness or injury. Physical examination revealed no abnormalities. History of medical history was unremarkable. Physical findings were unremarkable.
+
+Hearing Test:
+The patient underwent a hearing test to assess her hearing abilities. The audiogram revealed normal hearing in both ears.
+
+Patient's blood pressure was within normal range. The patient's heart rate was within normal range.
+
+The patient's oxygen saturation was within normal range.
+
+The patient's vital signs were within normal range.
+
+The patient's labs were within normal range.
+
+The patient's pain level was within normal range.
+
+The patient's mental status was stable.
+
+The patient's vital signs were stable.
+
+The patient's mental status was stable.
+
+The patient's"
+179,605,1089,17,2021-08-15 03:00:00,"Introduction:
+The patient, Mr. Smith, is a 86-year-old male who has presented to the clinic with complaints of back pain. The patient has been experiencing pain in his lower back for the past week. He has been on bed rest and has not undergone any physical activity. The patient's primary complaint is pain in his lower back.
+
+Procedure:
+The patient was advised to undergo a blood chemistry panel and complete blood count. The patient was given an appointment for the next day for the blood chemistry panel and the next day for the complete blood count.
+
+Results:
+Blood Chemistry Panel:
+- Total Bilirubin: 1.5 mg/dl
+- Total Protein: 24 g/dl
+- Albumin: 3.7 g/dl
+- Globulins: 28.7 g/dl
+- Cholesterol: 257 mg/dl
+- Total Iron: 13.2 mg/dl
+- Hemoglobin: 13.0 g/dl
+
+Complete Blood Count:"
+180,585,1093,132,2024-04-19 04:00:00,"Patient: 51yo female
+
+Visit reason: Routine Checkup
+
+Treatments: Medication Prescription
+
+Introduction:
+
+The patient is a 51-year-old female. She presented to the clinic today for routine checkup. The visit was due to the patient's history of hypertension, which was being managed with medication. The patient was given a medication prescription for blood pressure medication.
+
+Physical Examination:
+
+The patient was examined in detail. Her vital signs were within normal limits. Her blood pressure was 135/80, which was within the normal range. Her heart rate was 66 beats per minute. The patient's general condition was good.
+
+Clinical History:
+
+The patient's history was unremarkable. She had no history of allergies or any other significant medical conditions.
+
+Clinical Findings:
+
+The medication prescription for blood pressure medication was given. The medication will be taken twice a day, with a 2-hour gap between doses. The patient will need to take the"
+181,210,1107,431,2023-11-30 02:00:00,"Patient: 73yo female
+
+Visit Date: 2/13/2021
+
+Patient: Shortness of Breath
+
+Today, the patient presented for a routine hearing test. The patient had difficulty hearing in both ears, particularly in noisy environments. She had also noted shortness of breath with exertion. The patient reported no history of allergies or recent respiratory illnesses.
+
+After examination, the patient's hearing was normal in both ears. A hearing test was performed, and the patient's hearing was found to be within normal limits.
+
+The patient's treatment plan included a hearing test to assess the patient's hearing. The hearing test results will be reviewed with the patient to determine the appropriate next steps.
+
+Treatment Plan:
+- Hearing Test (to determine patient's hearing status)
+- Consult with audiologist to determine appropriate treatment plan
+
+Conclusion:
+- Patient's hearing is normal in both ears.
+- Treatment plan is to have a hearing test to determine the patient's hearing status.
+- The patient'"
+182,433,1111,243,2022-09-28 07:00:00,"Patient: 39yo male
+Visit date: 01/02/2023
+Visit reason: Lab Results Review
+Treatments: X-ray, Medication Prescription
+
+Introduction:
+I am writing this clinical note to provide a comprehensive and accurate summary of the patient's visit to the medical facility. The patient is a 39-year-old male who presented to the clinic with complaints of low back pain. He had a full range of motion and no sensitivity to touch or pressure. He has been diagnosed with degenerative disc disease and has undergone previous surgery.
+
+Physical Examination:
+The physical examination revealed no abnormalities.
+
+Lab Results Review:
+The laboratory results revealed an elevated white blood cell count (WBC) and an increased alkaline phosphatase (ALP) level. These results suggest a potential for bone marrow suppression, which could be a risk factor for anemia.
+
+Medication Prescription:
+The patient is prescribed a medication for pain management. He has been prescribed an opio"
+183,795,1112,138,2023-06-03 08:00:00,"Patient: 45-year-old male
+
+Visit reason: Weight Loss
+
+Treatments:
+- Medication Prescription: Lopid 300mg/day
+
+Outcome:
+- Patient has been on medication for 3 months, and the weight loss has been sustained. The patient's weight has reduced from 260kg to 230kg. The medication has been well tolerated, and there have been no adverse events reported. The patient's quality of life has improved significantly, and he is now able to lead a more active lifestyle. The medication has been prescribed at a reasonable cost, and the patient has been advised to continue with it for the long term."
+184,856,1113,435,2024-08-05 08:00:00,"Introduction:
+100yo female presented to the clinic with a history of skin rash for 3 weeks. She reported that the rash had been appearing on her face and arms for 1 week. She had no history of any underlying medical conditions.
+
+Physical examination:
+Taking a thorough physical examination revealed no significant abnormalities.
+
+Vision test:
+A visual acuity test was performed. The patient's visual acuity was 20/20 in both eyes.
+
+Clinical notes:
+1. Review of systems: The patient's history revealed a history of skin rash for 3 weeks. The rash had been appearing on her face and arms for 1 week.
+2. Physical examination: The patient's physical examination was unremarkable.
+3. Vision test: A visual acuity test was performed. The patient's visual acuity was 20/20 in both eyes.
+4. Treatment: The patient was instructed to avoid contact with the affected area and to apply an antibiotic cream to the affected area. She was"
+185,408,1127,37,2023-04-10 08:00:00,"Patient: 36-year-old female presenting with critical condition. On admission, the patient is febrile (103.5°F) with a pulse rate of 120 beats per minute, respiratory rate of 28 breaths per minute, and a heart rate of 120 beats per minute. The patient's temperature is consistent with fever and is not associated with any other symptoms. The patient's vital signs include a blood pressure of 115/72 mmHg, a heart rate of 120 beats per minute, and a respiratory rate of 28 breaths per minute.
+Treatments: Medication prescription
+The patient's vital signs were assessed, and the medication prescribed is vitamin B12 supplementation, 500mcg per day for the next 5 days. The patient's condition is stable, and there are no other relevant clinical signs or symptoms present.
+Inflammatory Markers: Complete Blood Count, Inflammatory Markers
+The patient's complete blood count was"
+186,873,1131,362,2023-05-20 04:00:00,"Patient: 79yo female
+Visit reason: Leg Swelling
+Treatments: Complete Blood Count (CBC) and Hearing Test
+
+Overview:
+The patient presented to the clinic with a 3-week history of leg swelling. The patient was in good health with no significant medical history. The patient was examined and found to have a complete blood count (CBC) with a white blood cell count of 12,000/ul. The patient also had a hearing test and was found to have a hearing loss of 25 decibels.
+
+Discharge instructions:
+The patient will be advised to take a course of antibiotics and to avoid activities that may cause the leg swelling. The patient will also be advised to contact their doctor if the leg swelling persists or worsens.
+
+Clinical notes:
+The CBC showed a white blood cell count of 12,000/ul. The patient's complete blood count is consistent with a normal range. The CBC results also showed a normal iron level.
+
+The hearing test showed a hearing"
+187,959,1132,438,2025-02-07 01:00:00,"Patient: 85yo female
+
+Visit reason: Pregnancy Care
+
+Treatments:
+1. Blood Chemistry Panel: Results of which were normal.
+2. Urinalysis: No abnormalities observed.
+3. Ultrasound: Normal fetal heart rate, normal fetal movements, and no abnormalities observed.
+
+Patient’s medical history:
+Patient presented with discomfort in lower abdomen, nausea, and vomiting. She was diagnosed with gestational diabetes mellitus.
+
+Patient’s examination:
+Patient is of average height and weight. She is breastfeeding. Physical examination is normal.
+
+Patient’s lab results:
+Blood chemistry panel:
+- HbA1C: 6.1%
+- Total cholesterol: 148mg/dL
+- Triglycerides: 124mg/dL
+- HDL: 49mg/dL
+- LDL: 73mg/dL"
+188,494,1133,107,2022-06-06 06:00:00,"Introduction: The patient is a 74-year-old female, presenting with dizziness. She has been experiencing this symptom for the past few days, and the onset was triggered by a sudden change in her work schedule. She reports no other significant symptoms or medical history.
+
+Examination:
+The patient was evaluated in the clinic, and her vital signs were within normal limits. The physical examination revealed no significant abnormalities.
+
+Symptoms:
+The patient reports feeling dizzy and unsteady when she stands up, walking, or even brushing her teeth. She has also experienced lightheadedness, fainting, and vertigo, which has occurred in the past.
+
+Treatments:
+The patient was prescribed medication to alleviate her dizziness symptoms. The medication is a prescription antidepressant, which she has been taking for several months.
+
+Conclusion:
+Based on the symptoms and treatment, the clinician has concluded that the patient's dizziness is likely due to a medication-related side effect. The medication was prescribed to"
+189,522,1140,406,2023-04-24 02:00:00,"Patient: 79yo male
+Visit reason: Leg Swelling
+Treatments: Medication Prescription
+
+Note: Patient is a male, 79 years old, with a history of hypertension, diabetes, and atrial fibrillation. He was seen for leg swelling.
+
+Medication Prescription:
+- Prednisone 10mg twice daily
+- Metformin 500mg once daily
+- Azathioprine 20mg twice daily
+
+Note: The patient's hypertension, diabetes, and atrial fibrillation are currently under medical management, and the medications are prescribed to manage the symptoms of leg swelling. The doses are recommended based on the patient's current medication regimen. The patient should continue taking the prescribed medications as directed, monitor his/her progress, and report any adverse effects to the clinician."
+190,975,1144,246,2025-06-13 06:00:00,"Patient: 50yo female
+
+Visit reason: Vaccination
+Treatments: Blood Chemistry Panel
+
+Brief medical note:
+
+1. Patient is a 50-year-old female with a history of breast cancer and endometrial cancer. She is currently undergoing chemotherapy for breast cancer. She is scheduled to receive her next dose of chemotherapy in 3 weeks.
+
+2. On her visit today, the patient was examined and found to have no significant findings. Her blood chemistry panel was normal.
+
+3. The patient's current medications include tamoxifen for breast cancer and letrozole for endometrial cancer.
+
+4. Her vaccination schedule includes the flu vaccine in the coming weeks.
+
+5. The next scheduled blood chemistry panel is scheduled for 3 weeks from today.
+
+6. The patient's treatment plan will continue to focus on chemotherapy and her breast cancer treatment.
+
+7. The patient's oncologist will review her current treatment plan and any potential changes to her treatment plan.
+
+8. The patient"
+191,490,1149,244,2024-05-27 03:00:00,"Title: Patient Visit: Blood Disorder Treatment
+
+Date: [Insert date]
+
+Patient: 92yo male
+
+Visit reason: Blood Disorder
+
+Treatments: Complete Blood Count (CBC)
+
+Patient's Medical History:
+
+Patient is a 92-year-old male who has been experiencing fatigue, anemia, and weakness for the past few months. He has been diagnosed with aplastic anemia, a rare blood disorder characterized by a lack of blood cells. Patient's condition has worsened over the past few days, and his blood counts have decreased significantly.
+
+Patient was evaluated by the clinic on [Insert date] and was advised to undergo a complete blood count (CBC) to determine the severity of the blood disorder. Patient's CBC report revealed that he had an abnormal level of red blood cells (RBCs) and platelets, indicating a high risk of anemia and bleeding.
+
+Patient's treatment plan:
+
+Patient's treatment plan includes a blood transf"
+192,98,1156,73,2025-01-31 02:00:00,"INTRODUCTION:
+
+The patient is a 19-year-old female, with no significant medical history. She has presented for a routine checkup today. She was examined by the doctor, and the following details are recorded in her medical record:
+
+- Age: 19
+- Gender: Female
+- Height: 5’6”
+- Weight: 55 kg
+- Family history: None
+
+TREATMENTS:
+
+- X-ray: The patient underwent an X-ray for routine checkup. The results showed no abnormalities.
+
+CONCLUSION:
+
+The routine checkup was conducted as per the patient's scheduled appointment. The patient was examined by the doctor, and the X-ray results were normal. There were no significant medical concerns noted during the visit. The patient is advised to follow up with the doctor in two weeks for a follow-up checkup."
+193,328,1172,131,2021-01-08 03:00:00,"Patient: 37yo female
+Visit reason: Imaging/Scan
+Treatments: Medication Prescription, X-ray
+
+I. Introduction
+1. Patient is a 37-year-old female presenting with a history of chronic headaches, fatigue, and mood swings.
+2. Patient's medical history:
+    - Chronic headaches: 20+ years
+    - Fatigue: 3 months
+    - Mood swings: 2 weeks
+
+II. Physical Examination
+1. Review of systems:
+    - Mildly active, no other significant findings.
+
+2. General examination:
+    - Firm, mobile, and non-tender abdomen
+    - No abnormal findings
+    - No signs of infection
+
+III. History and Physical Examination
+1. Patient's history:
+    - Chronic headaches: 20+ years, unprovoked, recurrent, intermittent, with associated facial pain, photophobia, and tinnitus."
+194,321,1182,362,2024-12-22 00:00:00,"Patient: 9-year-old male
+Visit Date: 10/21/2021
+
+Visit Summary:
+- Age: 9
+- Gender: Male
+- Medical History: No notable medical history.
+- Family History: No notable family history.
+
+Treatment History:
+- Blood Chemistry Panel: 124.0 (Normal: <|system|>250-400)
+- Liver Panel: 126.0 (Normal: <|system|>20-100)
+- Complete Blood Count: 15.7 (Normal: <|system|>4.5-11.5)
+
+Clinical Findings:
+- Leg Swelling: Present, lasting for the past 24 hours.
+- Blood Chemistry Panel: Normal blood chemistry values.
+- Liver Panel: Normal liver values.
+- Complete Blood Count: Normal complete blood count values.
+
+Note: The patient's leg swelling is consistent with a possible systemic vasculitis. The blood chemistry panel"
+195,897,1192,418,2023-12-09 01:00:00,"Patient: 47yo male
+Visit reason: Allergy
+Treatments: Complete Blood Count
+
+Introduction:
+- Identify the patient and their condition
+- Summarize the visit reason
+- Include the relevant treatments administered
+
+Body:
+- Summarize the complete blood count results
+- Discuss any relevant findings or observations
+- Evaluate the patient's response to the treatments
+- Outline any follow-up or further testing necessary
+
+Conclusion:
+- Summarize the patient's condition and any follow-up necessary
+- Assess the treatment plan and any ongoing management
+- Outline any potential limitations or concerns
+
+Note: Please note that this is a brief medical note and may not contain all necessary details or information. Additional data may be required to fully address the patient's medical needs."
+196,954,1204,232,2024-11-15 02:00:00,"Patient: 19yo female
+
+Visit reason: Critical Condition
+
+Treatments: Complete Blood Count (CBC), Blood Chemistry Panel, Ultrasound
+
+The patient is a 19-year-old female with no significant medical history. She presented to the emergency department with a history of fever and abdominal pain for the past two days. Her medical history is significant for a history of recurrent upper respiratory tract infections. She has had no history of bleeding or blood transfusions.
+
+On physical examination, the patient is afebrile, with a heart rate of 100 beats per minute, blood pressure of 130/80 mmHg, and respiratory rate of 22 breaths per minute. Her vital signs are stable.
+
+The CBC results show a complete blood count with white blood cell count of 14,500/mm3, hemoglobin of 12.5 g/dL, and platelets of 109,000/mm3. The blood chemistry panel shows a normal"
+197,267,1217,226,2023-03-20 02:00:00,"Patient: 54-year-old female
+Visit Date: 04/01/2021
+Visit Type: Primary Care
+
+Introduction:
+
+On 04/01/2021, a 54-year-old female presented with complaints of lower back pain for the past 2 weeks. She has been experiencing pain in her lower back, hip, and thigh area. The patient has no history of back pain in the past 6 months. She is not taking any medications or supplements.
+
+Diagnosis:
+
+Ultrasound was performed to evaluate the patient's lower back. The ultrasound scan showed a fluid-filled sac in the lower back. The patient's back pain improved after the ultrasound was performed.
+
+Treatment:
+
+The patient was prescribed Ultrasound for a period of 4 weeks. The ultrasound was performed every 2 weeks. The ultrasound revealed no abnormalities.
+
+Conclusion:
+
+The patient's lower back pain has improved after undergoing Ultrasound. The patient is ad"
+198,56,1224,373,2024-02-21 00:00:00,"Patient: 95yo male
+Visit reason: Headache
+Treatments: Hearing Test
+
+Introduction:
+This is a brief medical note for a 95-year-old male who visited the clinic with a complaint of headache. The patient had undergone a hearing test during the visit.
+
+Patient History:
+The patient was a 95-year-old male who reported having headaches since the past few months. He denied any other medical conditions.
+
+Examination:
+The patient's physical examination revealed no significant findings.
+
+History:
+The patient reported having a hearing test during the visit. The hearing test was negative.
+
+Treatment:
+The patient was advised to undergo a hearing test. He was instructed to bring his hearing aid with him to the clinic.
+
+Outcome:
+The patient had a negative hearing test and was advised to undergo a hearing test. The hearing test revealed no abnormalities.
+
+Note:
+This is a brief medical note for a 95-year-old male who visited the clinic with a compla"
+199,206,1228,227,2021-10-14 05:00:00,"Patient: 91yo female
+Visit reason: Dizziness
+Treatments: Inflammatory Markers
+
+Patient presented to the clinic with complaint of dizziness and loss of balance for the past two days. She had a history of hypertension and smoking for 45 years. She had no family history of similar symptoms.
+
+The history revealed that the patient had experienced similar symptoms in the past and had been treated with anti-inflammatory medications before. However, she had experienced no improvement in the past 24 hours.
+
+The physical examination revealed normal vital signs and no abnormalities in the neurological or cardiovascular systems.
+
+The patient was diagnosed with hypertension and smoking for 45 years, and anti-inflammatory medications had been prescribed for the past two days.
+
+The patient was advised to continue taking anti-inflammatory medications, monitor blood pressure, and seek further medical advice if the symptoms persisted.
+
+The patient was also advised to speak with her doctor about any other medical conditions"
+200,715,1239,112,2025-11-07 06:00:00,"Patient: 76yo male
+Visit reason: Critical Condition
+Treatments: Medication Prescription, Inflammatory Markers
+
+Introduction:
+
+The patient, a 76-year-old male, presented to the emergency department (ED) with a 1-day history of increasing shortness of breath and difficulty breathing. The patient's vital signs were stable except for an elevated heart rate (95 beats/min) and oxygen saturation (95% on room air). The patient had a 3-day history of cough, which had improved slightly with bronchodilators and a short course of antibiotics. The patient had no history of chronic obstructive pulmonary disease (COPD) or allergies.
+
+Physical Examination:
+
+The physical examination revealed a respiratory rate of 20-25 breaths/min, a pulse rate of 95-100 beats/min, and an oxygen saturation of 95% on room air. The patient's respiratory status was stable"
