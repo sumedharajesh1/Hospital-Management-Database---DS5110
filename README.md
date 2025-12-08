@@ -12,7 +12,7 @@ Hospital Management Database (with other characteristics)
 
 4. **Import the data**: Load all the generated CSV files from step 1 into the hospitaldb database tables you created in step 3.
 
-5. **Visualize the data**: Run the `Visualizations for Final Project.ipynb` notebook to create visualizations from your newly created dataset. If you are running the visualizations in Google Colab, you must load all of the .csv files generated from the Main Code file into the Visualizations Google Colab file before running it. Otherwise you can simply run the `Visualizations for Final Project.ipynb` notebook in (VS Code) to create visualizations from your newly created dataset.
+5. **Visualize the data**: Run the `Visualizations for Final Project.ipynb` notebook to create visualizations from your newly created dataset. (If you are running the visualizations in Google Colab, you must load all of the .csv files generated from the `Main Code for Hospital Database - Final Project - Churou Deng & Sumedha Rajesh.ipynb` file into the Visualizations Google Colab file before running it. Otherwise you can simply run the `Visualizations for Final Project.ipynb` notebook in (VS Code) to create visualizations from your newly created dataset.)
 
 ## The Schema of Our Database
 
