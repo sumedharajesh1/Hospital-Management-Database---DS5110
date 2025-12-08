@@ -3,7 +3,8 @@
 Hospital Management Database (with other characteristics)
 
 ## Goal of our project
-...
+
+Current hospital management database systems have many setbacks and inefficiencies and are unsuitable for current hospital staff for multiple reasons. The reasons we wish to address with our new database design are the lack of interoperability, poor data quality, structural issues, and poor analytical capability. 
 
 ## Requirements and Dependencies
 
@@ -64,7 +65,7 @@ pip install -r requirements.txt
 5. **Visualize the data**: Run the `Visualizations for Final Project.ipynb` notebook to create visualizations from your newly created dataset. (If you are running the visualizations in Google Colab, you must load all of the .csv files generated from the `Main Code for Hospital Database - Final Project - Churou Deng & Sumedha Rajesh.ipynb` file into the Visualizations Google Colab file before running it. Otherwise you can simply run the `Visualizations for Final Project.ipynb` notebook in (VS Code) to create visualizations from your newly created dataset.)
 
 ## Our Approach/Methodology
-Current hospital management database systems have many setbacks and inefficiencies and are unsuitable for current hospital staff for multiple reasons. The reasons we wish to address with our new database design are the lack of interoperability, poor data quality, structural issues, and poor analytical capability. We would like to create a data management system that combines multiple data streams into one location, as many staff members currently complain about different systems not translating well across each other. We would also like data to be easier to search, analyze, extract, and trust. We aim to do this by creating a data management system that allows efficient data storage and important metrics to be easily obtained, extrapolated, and converted into meaningful visuals. This hospital management database is designed to streamline healthcare operations by integrating multiple data streams into a unified, cohesive system that captures the complete patient journey from registration through appointments, treatments, lab work, and billing. The structure is defined in our entity relationship diagram linked below. 
+We would like to create a data management system that combines multiple data streams into one location, as many staff members currently complain about different systems not translating well across each other. We would also like data to be easier to search, analyze, extract, and trust. We aim to do this by creating a data management system that allows efficient data storage and important metrics to be easily obtained, extrapolated, and converted into meaningful visuals. This hospital management database is designed to streamline healthcare operations by integrating multiple data streams into a unified, cohesive system that captures the complete patient journey from registration through appointments, treatments, lab work, and billing. The structure is defined in our entity relationship diagram linked below. 
 
 ## The Schema of Our Database
 
