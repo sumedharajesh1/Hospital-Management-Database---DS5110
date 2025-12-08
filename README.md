@@ -8,7 +8,7 @@ Hospital Management Database (with other characteristics)
 
 2. **Install MySQL**: Download and install MySQL 8.0 from the official website: [https://dev.mysql.com/downloads/]
 
-3. **Build the database schema**: In MySQL Workbench, execute the `hospitaldb_generation.sql` script to construct the hospitaldb database framework.
+3. **Build the database schema**: In MySQL Workbench or Shell, execute the `hospitaldb_generation.sql` script to construct the hospitaldb database framework.
 
 4. **Import the data**: Load all the generated CSV files from step 1 into the hospitaldb database tables you created in step 3.
 
