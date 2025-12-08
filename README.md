@@ -38,7 +38,7 @@ This project requires Python 3.8+ and MySQL 8.0+. The following Python libraries
 Install all required packages using pip:
 
 ```bash
-pip install faker transformers torch pandas numpy scikit-learn statsmodels pmdarima matplotlib seaborn
+pip install faker transformers torch pandas numpy scikit-learn statsmodels pmdarima matplotlib seaborn sqlalchemy
 ```
 
 Or use the requirements.txt file:
