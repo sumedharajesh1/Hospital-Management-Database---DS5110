@@ -6,7 +6,7 @@ Hospital Management Database (with other characteristics)
 
 1. **Generate the synthetic dataset**: Run the `Main Code for Hospital Database - Final Project - Churou Deng & Sumedha Rajesh.ipynb` file to create your own synthetic dataset with CSV files.
 
-2. **Install MySQL Workbench**: Download and install MySQL 8.0 Workbench from the official website:![MySQL 8.0 Workbench](https://dev.mysql.com/downloads/workbench/)
+2. **Install MySQL Workbench**: Download and install MySQL 8.0 Workbench from the official website:![MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
 
 3. **Build the database schema**: In MySQL Workbench, execute the `hospitaldb_generation.sql` script to construct the hospitaldb database framework.
 
