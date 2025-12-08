@@ -2,6 +2,51 @@
 
 Hospital Management Database (with other characteristics)
 
+## Requirements and Dependencies
+
+This project requires Python 3.8+ and MySQL 8.0+. The following Python libraries are required:
+
+### Data Generation
+- `faker` - For generating synthetic personal information
+- `transformers` - For creating realistic doctor notes using pre-trained language models
+- `torch` - PyTorch framework for transformer models
+
+### Data Processing
+- `pandas` - Data manipulation and analysis
+- `numpy` - Numerical computing
+
+### Database
+- `sqlalchemy` - To connect to your local MySQL database
+
+### Predictive Modeling
+- `scikit-learn` - Machine learning algorithms
+- `statsmodels` - Statistical modeling and hypothesis testing
+- `pmdarima` - Auto ARIMA time series forecasting
+
+### Visualization
+- `matplotlib` - Creating static visualizations
+- `seaborn` - Statistical data visualization
+
+### Standard Libraries
+- `random` - Random number generation
+- `re` - Regular expressions
+- `pathlib` - File system path operations
+- `datetime` - Date and time handling
+
+### Installation
+
+Install all required packages using pip:
+
+```bash
+pip install faker transformers torch pandas numpy scikit-learn statsmodels pmdarima matplotlib seaborn
+```
+
+Or use the requirements.txt file:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## How to Run Our Code
 
 1. **Generate the synthetic dataset**: Run the `Main Code for Hospital Database - Final Project - Churou Deng & Sumedha Rajesh.ipynb` file to create your own synthetic dataset with CSV files. It should be noticed that generating 200 doctor notes will take around **4 hours**, and if you are using Google Colab, please run `Doctor_note_generator_for_Final_Project.ipynb` instead, in case the notebook crashes because of cache limits.
