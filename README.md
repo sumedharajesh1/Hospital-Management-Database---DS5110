@@ -4,7 +4,7 @@ Hospital Management Database (with other characteristics)
 
 ## How to Run Our Code
 
-1. **Generate the synthetic dataset**: Run the `Main Code for Hospital Database - Final Project - Churou Deng & Sumedha Rajesh.ipynb` file to create your own synthetic dataset with CSV files. It should be noticed that generating 100 doctor notes will take around 4 hours.
+1. **Generate the synthetic dataset**: Run the `Main Code for Hospital Database - Final Project - Churou Deng & Sumedha Rajesh.ipynb` file to create your own synthetic dataset with CSV files. It should be noticed that generating 200 doctor notes will take around **4 hours**.
  
 2. **Install MySQL**: Download and install MySQL 8.0 from the official website: [https://dev.mysql.com/downloads/]
 
